@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
