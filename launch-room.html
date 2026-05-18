@@ -32,6 +32,13 @@
       .section-heading h2 { font-size:1.15rem; margin:0; }
       .section-heading span { color:var(--muted); display:block; font-size:.92rem; margin-top:4px; }
       .send-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
+      .tracker-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
+      .tracker-card { align-content:start; }
+      .tracker-card label { align-items:center; display:grid; gap:8px; grid-template-columns:auto minmax(0,1fr); font-weight:700; }
+      .tracker-card input[type="checkbox"] { min-height:auto; width:auto; }
+      .score-pill { background:#eef8f1; border:1px solid #9bc8ab; border-radius:999px; color:var(--green-dark); font-weight:900; padding:8px 12px; white-space:nowrap; }
+      .classifier-result { background:#f1f8ff; border-color:#9fc5e8; }
+      .classifier-result strong { color:#1f5c85; }
       .card { display:grid; gap:10px; }
       label { display:grid; gap:6px; font-weight:800; }
       input, select, textarea { border:1px solid var(--line); border-radius:8px; color:var(--ink); font:inherit; min-height:42px; padding:10px 12px; width:100%; }
@@ -46,16 +53,19 @@
       a:hover, a:focus-visible, button:hover, button:focus-visible { outline:none; border-color:var(--green); }
       a.primary:hover, button:hover { background:var(--green-dark); }
       .notice { background:#fffbeb; border-color:#fbbf24; margin-top:18px; }
-      @media (max-width: 980px) { .grid, .grid-3, .send-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
-      @media (max-width: 760px) { .hero, .grid, .grid-3, .intent-grid, .send-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } table { display:block; overflow-x:auto; } }
+      @media (max-width: 980px) { .grid, .grid-3, .send-grid, .tracker-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+      @media (max-width: 760px) { .hero, .grid, .grid-3, .intent-grid, .send-grid, .tracker-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } table { display:block; overflow-x:auto; } }
     </style>
   </head>
   <body><main>
         <header class="bar"><div><strong>SERS Launch Room</strong><span>Traffic, Leads, Links, Umsatzpfad.</span></div><span>GitHub Pages live</span></header>
-        <section class="hero"><div><h1>Heute Kontakte aktivieren, Intent sichern, passenden Link senden.</h1><p class="lead">Diese Seite ist deine schnelle Schaltzentrale: Plattform-Copy, Kampagnenlinks, Lead-Log und direkte Router-Pfade in einem Raum.</p><div class="actions"><a class="primary" href="campaigns.html">Kampagnen</a><a href="money-router.html">Money Router</a><a href="offers.html">Offer Wall</a><a href="traffic-launcher.html">Traffic Launcher</a></div></div><aside class="panel"><div class="metric"><span>Kampagnen</span><b>5</b></div><div class="metric"><span>Offers</span><b>16</b></div><div class="metric"><span>Leads lokal</span><b id="lead-count">0</b></div></aside></section>
+        <section class="hero"><div><h1>Heute Kontakte aktivieren, Intent sichern, passenden Link senden.</h1><p class="lead">Diese Seite ist deine schnelle Schaltzentrale: Plattform-Copy, Kampagnenlinks, Lead-Log und direkte Router-Pfade in einem Raum.</p><div class="actions"><a class="primary" href="bio.html">Bio Hub</a><a href="share-kit.html">Share Kit</a><a href="campaigns.html">Kampagnen</a><a href="money-router.html">Money Router</a><a href="offers.html">Offer Wall</a><a href="traffic-launcher.html">Traffic Launcher</a></div></div><aside class="panel"><div class="metric"><span>Kampagnen</span><b>5</b></div><div class="metric"><span>Offers</span><b>16</b></div><div class="metric"><span>Leads lokal</span><b id="lead-count">0</b></div></aside></section>
         <section class="section-heading"><div><h2>Launch Sends</h2><span>Permission-first Copy mit passendem Kurzlink und Affiliate-Hinweis.</span></div><button type="button" data-copy="AI-Starter%20Nachfrage%5CnIch%20sehe%20gerade%20viele%2C%20die%20GPT%20nutzen%20wollen%2C%20aber%20noch%20keinen%20klaren%20Einstieg%20haben.%20Ich%20habe%20dir%20einen%20kurzen%20Fit-Link%20gebaut%2C%20der%20genau%20dafuer%20passt.%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fgpt-starter-guide%2F%3Fsrc%3Dlinkedin%26utm_campaign%3Dsers_launch_room%26utm_content%3DAI-Starter%2520Nachfrage%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5CnAffiliate%20Neustart%5CnWenn%20du%20Affiliate-Marketing%20nicht%20nur%20konsumieren%2C%20sondern%20sauber%20starten%20willst%3A%20ich%20habe%20den%20passenden%20naechsten%20Schritt%20rausgesucht.%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Faffiliate-insights%2F%3Fsrc%3Dwhatsapp%26utm_campaign%3Dsers_launch_room%26utm_content%3DAffiliate%2520Neustart%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5CnMindset%20Reaktivierung%5CnKurzer%20Impuls%2C%20weil%20ich%20an%20unser%20Thema%20Umsetzung%20denken%20musste%3A%20falls%20Fokus%20gerade%20der%20Engpass%20ist%2C%20passt%20dieser%20Link%20wahrscheinlich%20gut.%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fpower-mindset%2F%3Fsrc%3Ddm%26utm_campaign%3Dsers_launch_room%26utm_content%3DMindset%2520Reaktivierung%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5CnExit%2FLifestyle%20Intent%5CnWenn%20du%20ernsthaft%20Richtung%20mehr%20Freiheit%2C%20Exit%20oder%20ortsunabhaengiges%20Arbeiten%20denkst%2C%20ist%20das%20hier%20der%20passendere%20Pfad%20als%20irgendein%20Standard-Kurs.%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%3Fsrc%3Demail%26utm_campaign%3Dsers_launch_room%26utm_content%3DExit%252FLifestyle%2520Intent%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5CnSoft%20Lead%20Freebie%5CnFalls%20du%20erst%20einmal%20ohne%20grossen%20Druck%20reinschnuppern%20willst%3A%20ich%20wuerde%20mit%20diesem%20Freebie%20starten%20und%20danach%20nach%20Interesse%20weitergehen.%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Flovable-app-freebie%2F%3Fsrc%3Dsocial%26utm_campaign%3Dsers_launch_room%26utm_content%3DSoft%2520Lead%2520Freebie%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Alle Sends kopieren</button></section>
         <section class="grid-3"><article class="card"><div><strong>AI-Starter Nachfrage</strong><small>GPT verstehen und anwenden</small></div><p>Ich sehe gerade viele, die GPT nutzen wollen, aber noch keinen klaren Einstieg haben. Ich habe dir einen kurzen Fit-Link gebaut, der genau dafuer passt.</p><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/</code><div class="actions"><button type="button" data-copy="Ich%20sehe%20gerade%20viele%2C%20die%20GPT%20nutzen%20wollen%2C%20aber%20noch%20keinen%20klaren%20Einstieg%20haben.%20Ich%20habe%20dir%20einen%20kurzen%20Fit-Link%20gebaut%2C%20der%20genau%20dafuer%20passt.%5Cn%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fai-starter%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/">Landingpage</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/?src=linkedin&utm_campaign=sers_launch_room&utm_content=AI-Starter%20Nachfrage">Direktlink</a></div></article><article class="card"><div><strong>Affiliate Neustart</strong><small>Affiliate-Umsatz starten</small></div><p>Wenn du Affiliate-Marketing nicht nur konsumieren, sondern sauber starten willst: ich habe den passenden naechsten Schritt rausgesucht.</p><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/</code><div class="actions"><button type="button" data-copy="Wenn%20du%20Affiliate-Marketing%20nicht%20nur%20konsumieren%2C%20sondern%20sauber%20starten%20willst%3A%20ich%20habe%20den%20passenden%20naechsten%20Schritt%20rausgesucht.%5Cn%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Faffiliate-neustart%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/">Landingpage</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/?src=whatsapp&utm_campaign=sers_launch_room&utm_content=Affiliate%20Neustart">Direktlink</a></div></article><article class="card"><div><strong>Mindset Reaktivierung</strong><small>Fokus und Umsetzung</small></div><p>Kurzer Impuls, weil ich an unser Thema Umsetzung denken musste: falls Fokus gerade der Engpass ist, passt dieser Link wahrscheinlich gut.</p><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/</code><div class="actions"><button type="button" data-copy="Kurzer%20Impuls%2C%20weil%20ich%20an%20unser%20Thema%20Umsetzung%20denken%20musste%3A%20falls%20Fokus%20gerade%20der%20Engpass%20ist%2C%20passt%20dieser%20Link%20wahrscheinlich%20gut.%5Cn%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fmindset-reaktivierung%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/">Landingpage</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/?src=dm&utm_campaign=sers_launch_room&utm_content=Mindset%20Reaktivierung">Direktlink</a></div></article><article class="card"><div><strong>Exit/Lifestyle Intent</strong><small>Ortsunabhaengigkeit und Exit</small></div><p>Wenn du ernsthaft Richtung mehr Freiheit, Exit oder ortsunabhaengiges Arbeiten denkst, ist das hier der passendere Pfad als irgendein Standard-Kurs.</p><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/</code><div class="actions"><button type="button" data-copy="Wenn%20du%20ernsthaft%20Richtung%20mehr%20Freiheit%2C%20Exit%20oder%20ortsunabhaengiges%20Arbeiten%20denkst%2C%20ist%20das%20hier%20der%20passendere%20Pfad%20als%20irgendein%20Standard-Kurs.%5Cn%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fexit-lifestyle%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/">Landingpage</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=email&utm_campaign=sers_launch_room&utm_content=Exit%2FLifestyle%20Intent">Direktlink</a></div></article><article class="card"><div><strong>Soft Lead Freebie</strong><small>niedrige Einstiegshuerde</small></div><p>Falls du erst einmal ohne grossen Druck reinschnuppern willst: ich wuerde mit diesem Freebie starten und danach nach Interesse weitergehen.</p><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/</code><div class="actions"><button type="button" data-copy="Falls%20du%20erst%20einmal%20ohne%20grossen%20Druck%20reinschnuppern%20willst%3A%20ich%20wuerde%20mit%20diesem%20Freebie%20starten%20und%20danach%20nach%20Interesse%20weitergehen.%5Cn%5Cnhttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fsoft-lead-freebie%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/">Landingpage</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/?src=social&utm_campaign=sers_launch_room&utm_content=Soft%20Lead%20Freebie">Direktlink</a></div></article></section>
+        <section class="section-heading"><div><h2>Daily 5 Sends Tracker</h2><span>Heute abhaken: Permission, Link, Follow-up, Ergebnis.</span></div><div class="actions"><span class="score-pill" id="daily-send-score">0/20</span><button id="copy-sprint-summary" type="button">Sprint Summary kopieren</button><button id="reset-daily-tracker" type="button">Heute resetten</button></div></section>
+        <section class="tracker-grid"><article class="card tracker-card" data-campaign-label="ai-starter"><div><strong>AI-Starter Nachfrage</strong><small>GPT verstehen und anwenden</small></div><label><input type="checkbox" data-tracker data-campaign="ai-starter" data-stage="permission" data-label="Permission gefragt" />Permission gefragt</label><label><input type="checkbox" data-tracker data-campaign="ai-starter" data-stage="link" data-label="Link gesendet" />Link gesendet</label><label><input type="checkbox" data-tracker data-campaign="ai-starter" data-stage="followup" data-label="Follow-up offen" />Follow-up offen</label><label><input type="checkbox" data-tracker data-campaign="ai-starter" data-stage="result" data-label="Ergebnis notiert" />Ergebnis notiert</label></article><article class="card tracker-card" data-campaign-label="affiliate-neustart"><div><strong>Affiliate Neustart</strong><small>Affiliate-Umsatz starten</small></div><label><input type="checkbox" data-tracker data-campaign="affiliate-neustart" data-stage="permission" data-label="Permission gefragt" />Permission gefragt</label><label><input type="checkbox" data-tracker data-campaign="affiliate-neustart" data-stage="link" data-label="Link gesendet" />Link gesendet</label><label><input type="checkbox" data-tracker data-campaign="affiliate-neustart" data-stage="followup" data-label="Follow-up offen" />Follow-up offen</label><label><input type="checkbox" data-tracker data-campaign="affiliate-neustart" data-stage="result" data-label="Ergebnis notiert" />Ergebnis notiert</label></article><article class="card tracker-card" data-campaign-label="mindset-reaktivierung"><div><strong>Mindset Reaktivierung</strong><small>Fokus und Umsetzung</small></div><label><input type="checkbox" data-tracker data-campaign="mindset-reaktivierung" data-stage="permission" data-label="Permission gefragt" />Permission gefragt</label><label><input type="checkbox" data-tracker data-campaign="mindset-reaktivierung" data-stage="link" data-label="Link gesendet" />Link gesendet</label><label><input type="checkbox" data-tracker data-campaign="mindset-reaktivierung" data-stage="followup" data-label="Follow-up offen" />Follow-up offen</label><label><input type="checkbox" data-tracker data-campaign="mindset-reaktivierung" data-stage="result" data-label="Ergebnis notiert" />Ergebnis notiert</label></article><article class="card tracker-card" data-campaign-label="exit-lifestyle"><div><strong>Exit/Lifestyle Intent</strong><small>Ortsunabhaengigkeit und Exit</small></div><label><input type="checkbox" data-tracker data-campaign="exit-lifestyle" data-stage="permission" data-label="Permission gefragt" />Permission gefragt</label><label><input type="checkbox" data-tracker data-campaign="exit-lifestyle" data-stage="link" data-label="Link gesendet" />Link gesendet</label><label><input type="checkbox" data-tracker data-campaign="exit-lifestyle" data-stage="followup" data-label="Follow-up offen" />Follow-up offen</label><label><input type="checkbox" data-tracker data-campaign="exit-lifestyle" data-stage="result" data-label="Ergebnis notiert" />Ergebnis notiert</label></article><article class="card tracker-card" data-campaign-label="soft-lead-freebie"><div><strong>Soft Lead Freebie</strong><small>niedrige Einstiegshuerde</small></div><label><input type="checkbox" data-tracker data-campaign="soft-lead-freebie" data-stage="permission" data-label="Permission gefragt" />Permission gefragt</label><label><input type="checkbox" data-tracker data-campaign="soft-lead-freebie" data-stage="link" data-label="Link gesendet" />Link gesendet</label><label><input type="checkbox" data-tracker data-campaign="soft-lead-freebie" data-stage="followup" data-label="Follow-up offen" />Follow-up offen</label><label><input type="checkbox" data-tracker data-campaign="soft-lead-freebie" data-stage="result" data-label="Ergebnis notiert" />Ergebnis notiert</label></article></section>
         <section class="hero"><article class="card"><strong>Direkt Traffic anschieben</strong><p>Ich habe dir einen SERS Launch Room gebaut: warme Kontakte einsammeln, Intent waehlen, passenden Affiliate-Link senden und Leads lokal tracken. https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html</p><div class="actions"><button type="button" data-copy="Ich%20habe%20dir%20einen%20SERS%20Launch%20Room%20gebaut%3A%20warme%20Kontakte%20einsammeln%2C%20Intent%20waehlen%2C%20passenden%20Affiliate-Link%20senden%20und%20Leads%20lokal%20tracken.%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html">Copy Launch Text</button><a class="primary" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html">LinkedIn</a><a class="primary" href="https://twitter.com/intent/tweet?text=Ich%20habe%20dir%20einen%20SERS%20Launch%20Room%20gebaut%3A%20warme%20Kontakte%20einsammeln%2C%20Intent%20waehlen%2C%20passenden%20Affiliate-Link%20senden%20und%20Leads%20lokal%20tracken.%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html">X</a><a class="primary" href="https://wa.me/?text=Ich%20habe%20dir%20einen%20SERS%20Launch%20Room%20gebaut%3A%20warme%20Kontakte%20einsammeln%2C%20Intent%20waehlen%2C%20passenden%20Affiliate-Link%20senden%20und%20Leads%20lokal%20tracken.%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html">WhatsApp</a><a class="primary" href="mailto:?subject=SERS%20Launch%20Room&body=Ich%20habe%20dir%20einen%20SERS%20Launch%20Room%20gebaut%3A%20warme%20Kontakte%20einsammeln%2C%20Intent%20waehlen%2C%20passenden%20Affiliate-Link%20senden%20und%20Leads%20lokal%20tracken.%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html">E-Mail</a></div></article><aside class="card"><strong>Close-Regel</strong><p>Erst Intent bestaetigen, dann Link senden. Wer nur neugierig ist, bekommt Router oder Freebie. Wer konkret kaufen will, bekommt den passenden /go/... Link.</p></aside></section>
+        <section class="hero"><article class="card"><strong>Hot Reply Classifier</strong><p>Antwort einfuegen, Intent waehlen und sofort den naechsten permission-safe Satz bekommen.</p><label>Antwort<textarea id="reply-text" placeholder="z.B. Klingt interessant, was kostet das und passt das fuer Einsteiger?">Klingt interessant, schick mir gerne den Link.</textarea></label><label>Intent<select id="reply-intent"><option>GPT</option><option>Affiliate</option><option>Mindset</option><option>Digital Business</option><option>Exit/Lifestyle</option><option>Unklar</option></select></label><div class="actions"><button id="classify-reply" type="button">Antwort sortieren</button><button id="copy-reply-next" type="button">Next Satz kopieren</button></div></article><aside class="card classifier-result"><span>Reply Class</span><strong id="reply-class">Neugierig</strong><p id="reply-detail">Noch nicht closen. Erst Intent schaerfen.</p><code id="reply-next">Gerne. Geht es dir eher um Einstieg, Umsetzung oder eine konkrete Kaufentscheidung?</code></aside></section>
         <section class="section-heading"><div><h2>Lead Log</h2><span>Bleibt lokal in deinem Browser und kann als CSV exportiert werden.</span></div><button id="export-leads" type="button">CSV Export</button></section>
         <form id="lead-form" class="grid-3">
           <label>Name/Kontakt<input name="name" placeholder="Name, Handle oder E-Mail" required /></label>
@@ -79,8 +89,10 @@ document.querySelectorAll("[data-copy]").forEach((button) => {
 });
 
 const leadKey = "sers-launch-room-leads-v1";
+const trackerKey = "sers-launch-room-daily-sends-v1";
 const form = document.getElementById("lead-form");
 const tbody = document.getElementById("lead-rows");
+let classifierCopy = "";
 function loadLeads() {
   try { return JSON.parse(localStorage.getItem(leadKey) || "[]"); } catch { return []; }
 }
@@ -95,6 +107,116 @@ function renderLeads() {
 function csvCell(value) {
   return '"' + String(value || "").replaceAll('"', '""') + '"';
 }
+function todayKey() {
+  return new Date().toISOString().slice(0, 10);
+}
+function loadTracker() {
+  try {
+    const value = JSON.parse(localStorage.getItem(trackerKey) || "{}");
+    return value.date === todayKey() ? value : { date: todayKey(), sends: {} };
+  } catch {
+    return { date: todayKey(), sends: {} };
+  }
+}
+function saveTracker(value) {
+  localStorage.setItem(trackerKey, JSON.stringify(value));
+}
+function renderTracker() {
+  const tracker = loadTracker();
+  let done = 0;
+  let total = 0;
+  document.querySelectorAll("[data-tracker]").forEach((input) => {
+    const campaign = input.dataset.campaign;
+    const stage = input.dataset.stage;
+    const checked = Boolean(tracker.sends?.[campaign]?.[stage]);
+    input.checked = checked;
+    total += 1;
+    if (checked) done += 1;
+  });
+  const score = document.getElementById("daily-send-score");
+  if (score) score.textContent = done + "/" + total;
+}
+function trackerSummary() {
+  const tracker = loadTracker();
+  const lines = ["# Daily 5 Sends", "", "Datum: " + tracker.date];
+  document.querySelectorAll("[data-campaign-label]").forEach((card) => {
+    const campaign = card.dataset.campaignLabel;
+    const label = card.querySelector("strong")?.textContent || campaign;
+    const stages = Array.from(card.querySelectorAll("[data-tracker]")).map((input) => {
+      const prefix = input.checked ? "[x]" : "[ ]";
+      return prefix + " " + input.dataset.label;
+    });
+    lines.push("", label, ...stages);
+  });
+  lines.push("", "Regel: kein Link ohne Permission und Affiliate-Hinweis.");
+  return lines.join("\n");
+}
+document.querySelectorAll("[data-tracker]").forEach((input) => {
+  input.addEventListener("change", () => {
+    const tracker = loadTracker();
+    const campaign = input.dataset.campaign;
+    const stage = input.dataset.stage;
+    tracker.sends[campaign] = tracker.sends[campaign] || {};
+    tracker.sends[campaign][stage] = input.checked;
+    saveTracker(tracker);
+    renderTracker();
+  });
+});
+document.getElementById("copy-sprint-summary")?.addEventListener("click", async (event) => {
+  await navigator.clipboard.writeText(trackerSummary());
+  event.currentTarget.textContent = "Kopiert";
+  setTimeout(() => { event.currentTarget.textContent = "Sprint Summary kopieren"; }, 1400);
+});
+document.getElementById("reset-daily-tracker")?.addEventListener("click", () => {
+  saveTracker({ date: todayKey(), sends: {} });
+  renderTracker();
+});
+function classifyReply(text, intent) {
+  const normalized = text.toLowerCase();
+  if (/kein interesse|nein|stop|passt nicht|nicht relevant|unsubscribe|lass/.test(normalized)) {
+    return {
+      label: "Kein Fit",
+      detail: "Opt-out respektieren, keinen Link senden.",
+      next: "Alles gut, dann lasse ich dir keinen Link da. Wenn das Thema spaeter wieder passt, sag einfach kurz Bescheid.",
+    };
+  }
+  if (/zu teuer|preis|kosten|spaeter|zeit|unsicher|skeptisch|funktioniert|garantie|warum/.test(normalized)) {
+    return {
+      label: "Einwand",
+      detail: "Einwand spiegeln, dann kleinen Fit-Check anbieten.",
+      next: "Fairer Punkt. Bevor ich dir irgendwas schicke: Soll ich dir kurz sagen, fuer wen es passt und fuer wen eher nicht?",
+    };
+  }
+  if (/kaufen|link|schick|senden|wo|jetzt|interessiert|ja|passt|will/.test(normalized)) {
+    return {
+      label: "Kaufbereit",
+      detail: "Permission bestaetigen, Link mit Hinweis senden.",
+      next: "Klingt passend. Wenn du willst, sende ich dir jetzt den direkten Link mit Affiliate-Hinweis, dann kannst du selbst entscheiden.",
+    };
+  }
+  return {
+    label: "Neugierig",
+    detail: "Noch nicht closen. Erst Intent schaerfen.",
+    next: "Gerne. Geht es dir bei " + intent + " eher um Einstieg, Umsetzung oder eine konkrete Kaufentscheidung? Dann schicke ich dir nur den passenden naechsten Schritt.",
+  };
+}
+document.getElementById("classify-reply")?.addEventListener("click", () => {
+  const text = document.getElementById("reply-text").value || "";
+  const intent = document.getElementById("reply-intent").value || "dem Thema";
+  const result = classifyReply(text, intent);
+  classifierCopy = [result.label, result.detail, "", result.next, "", "Regel: Affiliate-Link erst nach Permission und mit Hinweis senden."].join("\n");
+  document.getElementById("reply-class").textContent = result.label;
+  document.getElementById("reply-detail").textContent = result.detail;
+  document.getElementById("reply-next").textContent = result.next;
+});
+document.getElementById("copy-reply-next")?.addEventListener("click", async (event) => {
+  if (!classifierCopy) {
+    document.getElementById("classify-reply").click();
+  }
+  await navigator.clipboard.writeText(classifierCopy);
+  event.currentTarget.textContent = "Kopiert";
+  setTimeout(() => { event.currentTarget.textContent = "Next Satz kopieren"; }, 1400);
+});
 form.addEventListener("submit", (event) => {
   event.preventDefault();
   const data = new FormData(form);
@@ -123,5 +245,7 @@ document.getElementById("export-leads").addEventListener("click", () => {
   URL.revokeObjectURL(url);
 });
 renderLeads();
+renderTracker();
+document.getElementById("classify-reply")?.click();
 </script></body>
 </html>
