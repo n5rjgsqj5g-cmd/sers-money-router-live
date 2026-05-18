@@ -26,6 +26,10 @@
       .metric b { color:var(--green-dark); }
       .grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
       .intent-grid { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:10px; }
+      .section-heading { align-items:center; display:flex; gap:14px; justify-content:space-between; margin:10px 0 12px; }
+      .section-heading h2 { font-size:1.15rem; margin:0; }
+      .section-heading span { color:var(--muted); display:block; font-size:.92rem; margin-top:4px; }
+      .send-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
       .card { display:grid; gap:10px; }
       code, .linkbox { background:#eef2f7; border-radius:8px; color:var(--ink); display:block; overflow-wrap:anywhere; padding:10px; }
       .actions { display:flex; flex-wrap:wrap; gap:8px; }
@@ -34,13 +38,50 @@
       a:hover, a:focus-visible, button:hover, button:focus-visible { outline:none; border-color:var(--green); }
       a.primary:hover, button:hover { background:var(--green-dark); }
       .notice { background:#fffbeb; border-color:#fbbf24; margin-top:18px; }
-      @media (max-width: 980px) { .grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
-      @media (max-width: 760px) { .hero, .grid, .intent-grid { grid-template-columns:1fr; } }
+      @media (max-width: 980px) { .grid, .send-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+      @media (max-width: 760px) { .hero, .grid, .intent-grid, .send-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } }
     </style>
   </head>
   <body><main>
         <header class="bar"><div><strong>SERS Offer Wall</strong><span>GitHub-Pages Fallback, Netlify-unabhaengig.</span></div><span>16 Offers</span></header>
         <section class="hero"><div><h1>Passendes Angebot waehlen, Shortlink senden, Klicks retten.</h1><p class="lead">Diese Fallback-Seite funktioniert ohne Netlify-Quota. Nutze sie fuer warme Kontakte und konkrete Kaufintents.</p></div><aside class="panel"><div class="metric"><span>Shortlinks</span><b>16</b></div><div class="metric"><span>Hosting</span><b>GitHub Pages</b></div></aside></section>
+        <section class="section-heading"><div><h2>First 5 Sends</h2><span>Fuenf warme Offers fuer Permission-DMs und Follow-ups.</span></div><button type="button" data-copy="1.%20Lovable%20App%20Freebie%5CnPermission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Lovable%20App%20Freebie%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Flovable-app-freebie%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5Cn2.%20GPT%20Starter%20Guide%5CnPermission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22GPT%20Starter%20Guide%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fgpt-starter-guide%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5Cn3.%20Affiliate%20Insights%5CnPermission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Affiliate%20Insights%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Faffiliate-insights%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5Cn4.%20Power%20Mindset%5CnPermission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Power%20Mindset%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fpower-mindset%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.%5Cn%5Cn---%5Cn%5Cn5.%20Nomad%20Master%20Exit%20Masterplan%5CnPermission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Nomad%20Master%20Exit%20Masterplan%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Alle 5 kopieren</button></section>
+        <section class="send-grid"><article class="card">
+    <div><strong>1. Lovable App Freebie</strong><small>freebie,leadmagnet,digital,ready</small></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/</code>
+    <div class="actions">
+      <button type="button" data-copy="Permission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Lovable%20App%20Freebie%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Flovable-app-freebie%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button>
+      <a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/">Oeffnen</a>
+    </div>
+  </article><article class="card">
+    <div><strong>2. GPT Starter Guide</strong><small>gpt,ai,training,beginner,ready</small></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/</code>
+    <div class="actions">
+      <button type="button" data-copy="Permission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22GPT%20Starter%20Guide%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fgpt-starter-guide%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button>
+      <a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/">Oeffnen</a>
+    </div>
+  </article><article class="card">
+    <div><strong>3. Affiliate Insights</strong><small>affiliate,training,systeme,ready</small></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/</code>
+    <div class="actions">
+      <button type="button" data-copy="Permission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Affiliate%20Insights%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Faffiliate-insights%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button>
+      <a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/">Oeffnen</a>
+    </div>
+  </article><article class="card">
+    <div><strong>4. Power Mindset</strong><small>mindset,training,digistore,ready</small></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/</code>
+    <div class="actions">
+      <button type="button" data-copy="Permission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Power%20Mindset%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fpower-mindset%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button>
+      <a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/">Oeffnen</a>
+    </div>
+  </article><article class="card">
+    <div><strong>5. Nomad Master Exit Masterplan</strong><small>nomad,exit,masterplan,business,ready</small></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <div class="actions">
+      <button type="button" data-copy="Permission-Frage%3A%20Ich%20habe%20ein%20passendes%20Angebot%20zu%20%22Nomad%20Master%20Exit%20Masterplan%22%20im%20Kopf.%20Soll%20ich%20dir%20den%20kurzen%20Link%20schicken%3F%5Cn%5CnNach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%5Cn%5CnWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy Send</button>
+      <a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/">Oeffnen</a>
+    </div>
+  </article></section>
         <section class="grid"><article class="card">
     <div><strong>Power Mindset</strong><small>mindset,training,digistore,ready</small></div>
     <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/</code>
