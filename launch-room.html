@@ -42,6 +42,8 @@
       .decision-pill.test { background:#fffbeb; border:1px solid #fbbf24; color:#92400e; }
       .decision-pill.pause { background:#fff1f2; border:1px solid #fda4af; color:#9f1239; }
       .decision-pill.wait { background:#eef2f7; border:1px solid var(--line); color:var(--muted); }
+      .scale-card.done { background:#ecfdf5; border-color:#86efac; }
+      .scale-card.done strong::after { color:#166534; content:" erledigt"; font-size:.82rem; margin-left:6px; }
       .classifier-result { background:#f1f8ff; border-color:#9fc5e8; }
       .classifier-result strong { color:#1f5c85; }
       .qr-img { aspect-ratio:1; background:#fff; border:1px solid var(--line); border-radius:8px; max-width:220px; padding:10px; width:100%; }
@@ -75,10 +77,103 @@
         <section class="hero"><article class="card"><strong>Hot Reply Classifier</strong><p>Antwort einfuegen, Intent waehlen und sofort den naechsten permission-safe Satz bekommen.</p><label>Antwort<textarea id="reply-text" placeholder="z.B. Klingt interessant, was kostet das und passt das fuer Einsteiger?">Klingt interessant, schick mir gerne den Link.</textarea></label><label>Intent<select id="reply-intent"><option>GPT</option><option>Affiliate</option><option>Mindset</option><option>Digital Business</option><option>Exit/Lifestyle</option><option>Unklar</option></select></label><div class="actions"><button id="classify-reply" type="button">Antwort sortieren</button><button id="copy-reply-next" type="button">Next Satz kopieren</button></div></article><aside class="card classifier-result"><span>Reply Class</span><strong id="reply-class">Neugierig</strong><p id="reply-detail">Noch nicht closen. Erst Intent schaerfen.</p><code id="reply-next">Gerne. Geht es dir eher um Einstieg, Umsetzung oder eine konkrete Kaufentscheidung?</code></aside></section>
         <section class="hero"><article class="card classifier-result"><span>Daily Replay</span><strong>Daily Replay: CSV exportieren -> npm run first-results -> Gewinnerpfad senden</strong><p>Der lokale 15-Minuten-Loop macht aus dem Lead Log einen klaren naechsten Testpfad.</p><code>npm run first-results -- path/to/sers-leads.csv --write-replay</code><div class="actions"><button type="button" data-copy="Daily%20Replay%3A%20CSV%20exportieren%20-%3E%20npm%20run%20first-results%20-%3E%20Gewinnerpfad%20senden%0A%0A5%20Min%3A%20Lead%20CSV%20exportieren%0A3%20Min%3A%20npm%20run%20first-results%20--%20path%2Fto%2Fsers-leads.csv%20--write-replay%0A5%20Min%3A%203%20Gewinner-Replies%20manuell%20senden%0A2%20Min%3A%20Tracker%20aktualisieren%0A%0ARegel%3A%20Unter%203%20Leads%20oder%20Confidence%20unter%2050%20ist%20es%20Learning%2C%20kein%20harter%20Winner.">Replay Workflow kopieren</button></div></article><aside class="card"><strong>15 Minuten</strong><p>5 Min CSV exportieren. 3 Min Report laufen lassen. 5 Min drei Gewinner-Replies senden. 2 Min Tracker aktualisieren.</p><p>Unter 3 Leads bleibt es Learning; ab hoher Confidence wird der Gewinnerpfad wiederholt.</p></aside></section>
         <section class="hero"><article class="card classifier-result"><span>Today Content Pack</span><strong id="content-pack-title">Learning Content Pack</strong><p id="content-pack-action">Erst Leads speichern, dann Post, Permission-DM und Follow-up kopieren.</p><div class="metric"><span>Pack Mode</span><b id="content-pack-mode">learning</b></div><code id="content-pack-link">https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html</code><div class="actions"><button id="copy-content-post" type="button">Post kopieren</button><button id="copy-content-dm" type="button">Permission-DM kopieren</button><button id="copy-content-followup" type="button">Follow-up kopieren</button><button id="copy-content-one-more-send" type="button">One More Send kopieren</button><a id="content-pack-link-open" class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html">Pack Link oeffnen</a></div></article><aside class="card"><strong>Content Pack Output</strong><p>Jede Copy bleibt manuell, permission-first und mit Affiliate-Hinweis.</p><strong>Social Post</strong><code id="content-pack-post">Erst Leads im Lead Log speichern. Dann Content Pack kopieren.</code><strong>Permission-DM</strong><code id="content-pack-dm">Erst Permission fragen, dann Link senden.</code><strong>Follow-up</strong><code id="content-pack-followup">Nach 24h kurz, ruhig und ohne Druck nachfassen.</code><strong>One More Send</strong><code id="content-pack-one-more-send">3 neue Antworten einsammeln.</code></aside></section>
-        <section class="section-heading"><div><h2>Send Outcome Ledger</h2><span>Misst lokal, welcher Send Antworten und Kaufintent erzeugt.</span></div><div class="actions"><select id="ledger-send-type"><option value="post">Post</option><option value="permission_dm">Permission-DM</option><option value="follow_up">Follow-up</option><option value="one_more_send">One More Send</option></select><button id="mark-send-sent" type="button">Als gesendet markieren</button><button id="mark-send-response" type="button">Antwort erhalten</button><button id="mark-send-buying" type="button">Kaufintent markieren</button><button id="export-send-log" type="button">Send CSV exportieren</button></div></section>
-        <section class="card"><strong>Send Log</strong><div class="grid-3"><div class="metric"><span>Sends</span><b id="send-log-count">0</b></div><div class="metric"><span>Antwortquote</span><b id="send-log-response-rate">0%</b></div><div class="metric"><span>Kaufintentquote</span><b id="send-log-buying-rate">0%</b></div></div><table><thead><tr><th>Zeit</th><th>Intent</th><th>Mode</th><th>Typ</th><th>Status</th><th>Link</th></tr></thead><tbody id="send-log-rows"></tbody></table></section>
+        <section class="section-heading"><div><h2>Send Outcome Ledger</h2><span>Misst lokal, welcher Send Antworten und Kaufintent erzeugt.</span></div><div class="actions"><select id="ledger-send-type"><option value="post">Post</option><option value="permission_dm">Permission-DM</option><option value="follow_up">Follow-up</option><option value="one_more_send">One More Send</option><option value="manual_scale_queue">Manual Scale Queue</option></select><button id="mark-send-sent" type="button">Als gesendet markieren</button><button id="mark-send-response" type="button">Antwort erhalten</button><button id="mark-send-buying" type="button">Kaufintent markieren</button><button id="export-send-log" type="button">Send CSV exportieren</button></div></section>
+        <section class="card"><strong>Send Log</strong><div class="grid-3"><div class="metric"><span>Sends</span><b id="send-log-count">0</b></div><div class="metric"><span>Antwortquote</span><b id="send-log-response-rate">0%</b></div><div class="metric"><span>Kaufintentquote</span><b id="send-log-buying-rate">0%</b></div></div><table><thead><tr><th>Zeit</th><th>Intent</th><th>Mode</th><th>Typ</th><th>Status</th><th>Reply</th><th>Link</th></tr></thead><tbody id="send-log-rows"></tbody></table></section>
         <section class="hero"><article class="card classifier-result"><span>7-Day Replay Memory</span><strong>Aus Tages-Signalen wird eine Wochenentscheidung.</strong><p>Taeglich Leads und Send Log exportieren, archivieren und am Ende der Woche Keep, Test oder Pause entscheiden.</p><code>npm run first-results:content -- path/to/sers-leads.csv --send-log path/to/sers-send-log.csv --archive-day</code><div class="actions"><button type="button" data-copy="7-Day%20Replay%20Memory%0A%0ATaeglich%3A%0Anpm%20run%20first-results%3Acontent%20--%20path%2Fto%2Fsers-leads.csv%20--send-log%20path%2Fto%2Fsers-send-log.csv%20--archive-day%0A%0ASonntag%3A%0Anpm%20run%20replay%3Aweekly%0A%0AOutput%3A%20docs%2Freplay-history%2FYYYY-MM-DD.md%2C%20docs%2Freplay-history%2FYYYY-MM-DD.json%20und%20docs%2Freplay-weekly-summary.md.%0A%0ARegel%3A%20Keep%2C%20Test%20oder%20Pause%20bleibt%20manuell.%20Kein%20Auto-Sending%2C%20kein%20Paid%20Scaling.">Memory Workflow kopieren</button></div></article><aside class="card"><strong>Sonntag</strong><p>Dann die letzten 7 Archive lesen und den besten Intent, Send-Typ und Kanal bestimmen.</p><code>npm run replay:weekly</code><p>Weekly Summary bleibt nur Entscheidungshilfe: keine Auto-DMs, kein Auto-Posting, kein Paid Scaling.</p></aside></section>
-        <section class="hero"><article class="card classifier-result"><span>Replay Decision Dashboard</span><strong>Weekly Move aus der letzten Replay Summary.</strong><p>Summary gelesen und als manuelle Entscheidung vorbereitet.</p><span class="decision-pill keep">Ampel Keep</span><div class="metric"><span>Winner Intent</span><b>Exit/Lifestyle</b></div><div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div><div class="metric"><span>Kanal</span><b>WhatsApp</b></div><div class="metric"><span>Heat Score</span><b>56/100</b></div><code>Keep: Permission-DM fuer Exit/Lifestyle ueber WhatsApp wiederholen.</code><div class="actions"><button type="button" data-copy="Weekly%20Move%3A%20Keep%0AWinner%20Intent%3A%20Exit%2FLifestyle%0ABester%20Send-Typ%3A%20Permission-DM%0ABester%20Kanal%3A%20WhatsApp%0ADurchschnitts-Heat%3A%2056%2F100%0ANext%20Manual%20Move%3A%20Keep%3A%20Permission-DM%20fuer%20Exit%2FLifestyle%20ueber%20WhatsApp%20wiederholen.%0AManual%20Scale%20Cap%3A%20maximal%2010%20warme%20Sends%2C%20dann%20wieder%20messen.%0A%0ARegel%3A%20nur%20manuell%20senden%2C%20permission-first%2C%20kein%20Auto-Posting%2C%20kein%20Paid%20Scaling.%0ABei%20Link-Sends%20mitsenden%3A%20Werbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Weekly Move kopieren</button><button type="button" data-copy="7-Day%20Replay%20Memory%0A%0ATaeglich%3A%0Anpm%20run%20first-results%3Acontent%20--%20path%2Fto%2Fsers-leads.csv%20--send-log%20path%2Fto%2Fsers-send-log.csv%20--archive-day%0A%0ASonntag%3A%0Anpm%20run%20replay%3Aweekly%0A%0AOutput%3A%20docs%2Freplay-history%2FYYYY-MM-DD.md%2C%20docs%2Freplay-history%2FYYYY-MM-DD.json%20und%20docs%2Freplay-weekly-summary.md.%0A%0ARegel%3A%20Keep%2C%20Test%20oder%20Pause%20bleibt%20manuell.%20Kein%20Auto-Sending%2C%20kein%20Paid%20Scaling.">Memory Workflow kopieren</button></div></article><aside class="card"><strong>Next Manual Move</strong><p>Keep: Permission-DM fuer Exit/Lifestyle ueber WhatsApp wiederholen.</p><p>Manual Scale Cap: maximal 10 warme Sends, dann wieder messen.</p><code>npm run replay:weekly</code><small>Quelle: 2026-05-18T15:01:15.132Z</small></aside></section>
+        <section class="hero"><article class="card classifier-result"><span>Replay Decision Dashboard</span><strong>Weekly Move aus der letzten Replay Summary.</strong><p>Summary gelesen und als manuelle Entscheidung vorbereitet.</p><span class="decision-pill keep">Ampel Keep</span><div class="metric"><span>Winner Intent</span><b>Exit/Lifestyle</b></div><div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div><div class="metric"><span>Kanal</span><b>WhatsApp</b></div><div class="metric"><span>Heat Score</span><b>56/100</b></div><code>Keep: Permission-DM fuer Exit/Lifestyle ueber WhatsApp wiederholen.</code><div class="actions"><button type="button" data-copy="Weekly%20Move%3A%20Keep%0AWinner%20Intent%3A%20Exit%2FLifestyle%0ABester%20Send-Typ%3A%20Permission-DM%0ABester%20Kanal%3A%20WhatsApp%0ADurchschnitts-Heat%3A%2056%2F100%0ANext%20Manual%20Move%3A%20Keep%3A%20Permission-DM%20fuer%20Exit%2FLifestyle%20ueber%20WhatsApp%20wiederholen.%0AManual%20Scale%20Cap%3A%20maximal%2010%20warme%20Sends%2C%20dann%20wieder%20messen.%0A%0ARegel%3A%20nur%20manuell%20senden%2C%20permission-first%2C%20kein%20Auto-Posting%2C%20kein%20Paid%20Scaling.%0ABei%20Link-Sends%20mitsenden%3A%20Werbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Weekly Move kopieren</button><button type="button" data-copy="7-Day%20Replay%20Memory%0A%0ATaeglich%3A%0Anpm%20run%20first-results%3Acontent%20--%20path%2Fto%2Fsers-leads.csv%20--send-log%20path%2Fto%2Fsers-send-log.csv%20--archive-day%0A%0ASonntag%3A%0Anpm%20run%20replay%3Aweekly%0A%0AOutput%3A%20docs%2Freplay-history%2FYYYY-MM-DD.md%2C%20docs%2Freplay-history%2FYYYY-MM-DD.json%20und%20docs%2Freplay-weekly-summary.md.%0A%0ARegel%3A%20Keep%2C%20Test%20oder%20Pause%20bleibt%20manuell.%20Kein%20Auto-Sending%2C%20kein%20Paid%20Scaling.">Memory Workflow kopieren</button></div></article><aside class="card"><strong>Next Manual Move</strong><p>Keep: Permission-DM fuer Exit/Lifestyle ueber WhatsApp wiederholen.</p><p>Manual Scale Cap: maximal 10 warme Sends, dann wieder messen.</p><code>npm run replay:weekly</code><small>Quelle: 2026-05-18T15:12:31.382Z</small></aside></section>
+        <section class="section-heading"><div><h2>Manual Scale Queue</h2><span>Begrenzte Tages-Queue aus der Wochenentscheidung: Keep 10, Test 3, Pause nur Lead-Sammeln.</span></div><div class="actions"><span class="score-pill" id="manual-scale-progress">0/10</span><span class="score-pill" id="manual-scale-responses">Antworten 0</span><span class="score-pill" id="manual-scale-buying">Kaufintent 0</span><span class="score-pill" id="manual-scale-no-fit">Kein Fit 0</span><button id="export-scale-queue" type="button">Scale Queue CSV exportieren</button></div></section>
+        <section class="card"><strong>Reply Capture Mini-Loop</strong><p id="manual-scale-rule">Regel: erst Antwortsignal erfassen, dann morgen Keep, Copy-Test oder Pause entscheiden.</p></section>
+        <section class="grid-3" id="manual-scale-queue"><article class="card scale-card" data-scale-slot data-slot-id="send-1" data-slot-label="Manual Send 1" data-slot-channel="WhatsApp" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 1</strong><small>Keep / WhatsApp</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-1" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-1">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-1">Send kopieren</button><button type="button" data-scale-done="send-1">Als erledigt markieren</button><button type="button" data-scale-reply="send-1" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-1" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-1" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-2" data-slot-label="Manual Send 2" data-slot-channel="LinkedIn" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 2</strong><small>Keep / LinkedIn</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-2" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-2">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-2">Send kopieren</button><button type="button" data-scale-done="send-2">Als erledigt markieren</button><button type="button" data-scale-reply="send-2" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-2" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-2" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-3" data-slot-label="Manual Send 3" data-slot-channel="E-Mail" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 3</strong><small>Keep / E-Mail</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-3" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-3">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-3">Send kopieren</button><button type="button" data-scale-done="send-3">Als erledigt markieren</button><button type="button" data-scale-reply="send-3" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-3" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-3" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-4" data-slot-label="Manual Send 4" data-slot-channel="Instagram" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 4</strong><small>Keep / Instagram</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-4" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-4">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-4">Send kopieren</button><button type="button" data-scale-done="send-4">Als erledigt markieren</button><button type="button" data-scale-reply="send-4" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-4" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-4" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-5" data-slot-label="Manual Send 5" data-slot-channel="Direkt" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 5</strong><small>Keep / Direkt</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-5" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-5">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-5">Send kopieren</button><button type="button" data-scale-done="send-5">Als erledigt markieren</button><button type="button" data-scale-reply="send-5" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-5" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-5" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-6" data-slot-label="Manual Send 6" data-slot-channel="WhatsApp" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 6</strong><small>Keep / WhatsApp</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-6" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-6">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-6">Send kopieren</button><button type="button" data-scale-done="send-6">Als erledigt markieren</button><button type="button" data-scale-reply="send-6" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-6" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-6" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-7" data-slot-label="Manual Send 7" data-slot-channel="LinkedIn" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 7</strong><small>Keep / LinkedIn</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-7" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-7">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-7">Send kopieren</button><button type="button" data-scale-done="send-7">Als erledigt markieren</button><button type="button" data-scale-reply="send-7" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-7" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-7" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-8" data-slot-label="Manual Send 8" data-slot-channel="E-Mail" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 8</strong><small>Keep / E-Mail</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-8" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-8">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-8">Send kopieren</button><button type="button" data-scale-done="send-8">Als erledigt markieren</button><button type="button" data-scale-reply="send-8" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-8" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-8" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-9" data-slot-label="Manual Send 9" data-slot-channel="Instagram" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 9</strong><small>Keep / Instagram</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-9" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-9">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-9">Send kopieren</button><button type="button" data-scale-done="send-9">Als erledigt markieren</button><button type="button" data-scale-reply="send-9" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-9" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-9" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article><article class="card scale-card" data-scale-slot data-slot-id="send-10" data-slot-label="Manual Send 10" data-slot-channel="Direkt" data-slot-send-type="Permission-DM" data-slot-intent="Exit/Lifestyle" data-slot-action="Keep" data-slot-url="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/" data-slot-copy="Kurze%20Frage%3A%20Exit%2FLifestyle%20kam%20diese%20Woche%20als%20staerkster%20Pfad%20raus.%0ASoll%20ich%20dir%20den%20passenden%20kurzen%20Link%20schicken%2C%20damit%20du%20selbst%20pruefen%20kannst%2C%20ob%20es%20passt%3F%0A%0ANach%20Ja%20senden%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fgo%2Fexit-masterplan%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">
+    <div><strong>Manual Send 10</strong><small>Keep / Direkt</small></div>
+    <div class="metric"><span>Intent</span><b>Exit/Lifestyle</b></div>
+    <div class="metric"><span>Send-Typ</span><b>Permission-DM</b></div>
+    <code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/</code>
+    <p>Permission-first: erst Zustimmung, dann Link mit Hinweis.</p>
+    <label>Antwort notieren<textarea data-scale-reply-note="send-10" placeholder="Kurz notieren: Antwort, Einwand, Kaufintent oder Kein Fit"></textarea></label>
+    <small data-scale-reply-state="send-10">Noch keine Antwort erfasst.</small>
+    <div class="actions"><button type="button" data-scale-copy="send-10">Send kopieren</button><button type="button" data-scale-done="send-10">Als erledigt markieren</button><button type="button" data-scale-reply="send-10" data-reply-status="antwort">Antwort</button><button type="button" data-scale-reply="send-10" data-reply-status="kaufintent">Kaufintent</button><button type="button" data-scale-reply="send-10" data-reply-status="kein_fit">Kein Fit</button></div>
+  </article></section>
         <section class="hero"><article class="card classifier-result"><span>First Results Loop</span><strong>Winner Replay</strong><p id="winner-detail">Noch keine Leads gespeichert. Nach dem ersten CSV/Lead-Log wird hier der staerkste Intent sichtbar.</p><div class="metric"><span>Winner Intent</span><b id="winner-intent">Unklar</b></div><div class="metric"><span>Score</span><b id="winner-score">0</b></div><div class="metric"><span>Confidence</span><b id="winner-confidence">0/100</b></div><div class="metric"><span>Replay Mode</span><b id="winner-mode">learning</b></div><code id="winner-link">https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html</code><div class="actions"><button id="copy-winner-replay" type="button">Winner Replay kopieren</button><a id="winner-link-open" class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html">Winner Link oeffnen</a></div></article><aside class="card"><strong>One More Reply</strong><p>Der Replay-Text bleibt permission-first: weich, direkt und Einwand. Morgen nur den Gewinnerpfad mit 3 neuen Sends wiederholen.</p><code id="winner-replay-copy">Erst Leads im Lead Log speichern. Dann Winner Replay kopieren.</code></aside></section>
         <section class="section-heading"><div><h2>Lead Log</h2><span>Bleibt lokal in deinem Browser und kann als CSV exportiert werden.</span></div><button id="export-leads" type="button">CSV Export</button></section>
         <form id="lead-form" class="grid-3">
@@ -105,6 +200,7 @@ document.querySelectorAll("[data-copy]").forEach((button) => {
 const leadKey = "sers-launch-room-leads-v1";
 const trackerKey = "sers-launch-room-daily-sends-v1";
 const sendLogKey = "sers-send-outcome-ledger-v1";
+const scaleQueueKey = "sers-manual-scale-queue-v1";
 const form = document.getElementById("lead-form");
 const tbody = document.getElementById("lead-rows");
 let classifierCopy = "";
@@ -263,7 +359,8 @@ function sendTypeLabel(type) {
     post: "Post",
     permission_dm: "Permission-DM",
     follow_up: "Follow-up",
-    one_more_send: "One More Send"
+    one_more_send: "One More Send",
+    manual_scale_queue: "Manual Scale Queue"
   }[type] || type;
 }
 function renderWinnerReplay(leads = loadLeads()) {
@@ -319,7 +416,7 @@ function renderSendLog() {
   const rows = loadSendLog();
   const body = document.getElementById("send-log-rows");
   if (!body) return;
-  body.innerHTML = rows.map((row) => "<tr><td>" + row.date + "</td><td>" + row.intent + "</td><td>" + row.replay_mode + "</td><td>" + sendTypeLabel(row.send_type) + "</td><td>" + row.status + "</td><td>" + row.link + "</td></tr>").join("");
+  body.innerHTML = rows.map((row) => "<tr><td>" + row.date + "</td><td>" + row.intent + "</td><td>" + row.replay_mode + "</td><td>" + sendTypeLabel(row.send_type) + "</td><td>" + row.status + "</td><td>" + (row.reply_status ? replyStatusLabel(row.reply_status) : "") + (row.reply_note ? " - " + row.reply_note : "") + "</td><td>" + row.link + "</td></tr>").join("");
   const total = rows.length;
   const responses = rows.filter((row) => /antwort|kaufintent/i.test(row.status || "")).length;
   const buying = rows.filter((row) => /kaufintent/i.test(row.status || "")).length;
@@ -333,7 +430,7 @@ function selectedLedgerType() {
   return document.getElementById("ledger-send-type")?.value || "permission_dm";
 }
 function exportSendLog() {
-  const rows = [["date","intent","replay_mode","send_type","channel","link","status","note"], ...loadSendLog().map((row) => [row.date, row.intent, row.replay_mode, row.send_type, row.channel, row.link, row.status, row.note])];
+  const rows = [["date","intent","replay_mode","send_type","channel","link","status","note","slot_id","reply_status","reply_note"], ...loadSendLog().map((row) => [row.date, row.intent, row.replay_mode, row.send_type, row.channel, row.link, row.status, row.note, row.slot_id || "", row.reply_status || "", row.reply_note || ""])];
   const csv = rows.map((row) => row.map(csvCell).join(",")).join("\n");
   const url = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
   const a = document.createElement("a");
@@ -342,6 +439,166 @@ function exportSendLog() {
   a.click();
   URL.revokeObjectURL(url);
 }
+function scaleQueueSlots() {
+  return Array.from(document.querySelectorAll("[data-scale-slot]")).map((card) => ({
+    id: card.dataset.slotId || "",
+    label: card.dataset.slotLabel || "",
+    channel: card.dataset.slotChannel || "",
+    sendType: card.dataset.slotSendType || "",
+    intent: card.dataset.slotIntent || "Unklar",
+    action: card.dataset.slotAction || "",
+    url: card.dataset.slotUrl || "",
+    copy: decodeURIComponent(card.dataset.slotCopy || ""),
+    replyNote: card.querySelector("[data-scale-reply-note]")?.value || "",
+    card
+  }));
+}
+function scaleQueueSignature(slots = scaleQueueSlots()) {
+  return slots.map((slot) => slot.id).join("|");
+}
+function loadScaleQueueState() {
+  const slots = scaleQueueSlots();
+  const signature = scaleQueueSignature(slots);
+  try {
+    const value = JSON.parse(localStorage.getItem(scaleQueueKey) || "{}");
+    return value.signature === signature ? { signature, done: value.done || {}, replies: value.replies || {} } : { signature, done: {}, replies: {} };
+  } catch {
+    return { signature, done: {}, replies: {} };
+  }
+}
+function saveScaleQueueState(state) {
+  localStorage.setItem(scaleQueueKey, JSON.stringify(state));
+}
+function addManualQueueLog(slot, status, replyStatus = "", replyNote = "") {
+  const row = {
+    date: new Date().toISOString(),
+    intent: slot.intent || "Unklar",
+    replay_mode: "manual_scale_queue",
+    send_type: "manual_scale_queue",
+    channel: slot.channel || slot.sendType || "Manual",
+    link: slot.url || "",
+    status,
+    note: (slot.label || "Manual Scale Queue") + " | " + (slot.sendType || "Send"),
+    slot_id: slot.id || "",
+    reply_status: replyStatus,
+    reply_note: replyNote
+  };
+  saveSendLog([row, ...loadSendLog()].slice(0, 300));
+  renderSendLog();
+}
+function replyStatusLabel(status) {
+  return {
+    antwort: "Antwort",
+    kaufintent: "Kaufintent",
+    kein_fit: "Kein Fit"
+  }[status] || "Noch keine Antwort";
+}
+function scaleQueueRuleText(action, responses, buying, noFit) {
+  if (/keep/i.test(action) && buying >= 2) return "Regel: 2+ Kaufintent bei Keep -> morgen denselben Gewinnerpfad wiederholen.";
+  if (responses >= 2 && buying === 0) return "Regel: viele Antworten, wenig Kaufintent -> Copy testen, nicht mehr Volumen senden.";
+  if (noFit >= 2 && noFit >= responses) return "Regel: viele Kein-Fit-Signale -> Intent pausieren und neue Leads sammeln.";
+  return "Regel: erst Antwortsignal erfassen, dann morgen Keep, Copy-Test oder Pause entscheiden.";
+}
+function renderScaleQueue() {
+  const slots = scaleQueueSlots();
+  const state = loadScaleQueueState();
+  let done = 0;
+  let responses = 0;
+  let buying = 0;
+  let noFit = 0;
+  slots.forEach((slot) => {
+    const isDone = Boolean(state.done?.[slot.id]);
+    const reply = state.replies?.[slot.id] || {};
+    if (isDone) done += 1;
+    if (reply.status === "antwort") responses += 1;
+    if (reply.status === "kaufintent") buying += 1;
+    if (reply.status === "kein_fit") noFit += 1;
+    slot.card.classList.toggle("done", isDone);
+    const doneButton = slot.card.querySelector("[data-scale-done]");
+    if (doneButton) doneButton.textContent = isDone ? "Erledigt" : "Als erledigt markieren";
+    const note = slot.card.querySelector("[data-scale-reply-note]");
+    if (note && document.activeElement !== note && reply.note) note.value = reply.note;
+    const replyState = slot.card.querySelector("[data-scale-reply-state]");
+    if (replyState) replyState.textContent = reply.status ? replyStatusLabel(reply.status) + (reply.note ? ": " + reply.note : "") : "Noch keine Antwort erfasst.";
+  });
+  const progress = document.getElementById("manual-scale-progress");
+  if (progress) progress.textContent = done + "/" + slots.length;
+  const responseNode = document.getElementById("manual-scale-responses");
+  if (responseNode) responseNode.textContent = "Antworten " + responses;
+  const buyingNode = document.getElementById("manual-scale-buying");
+  if (buyingNode) buyingNode.textContent = "Kaufintent " + buying;
+  const noFitNode = document.getElementById("manual-scale-no-fit");
+  if (noFitNode) noFitNode.textContent = "Kein Fit " + noFit;
+  const rule = document.getElementById("manual-scale-rule");
+  if (rule) rule.textContent = scaleQueueRuleText(slots[0]?.action || "", responses, buying, noFit);
+}
+async function copyScaleSlot(slot, event) {
+  await navigator.clipboard.writeText(slot.copy || "");
+  addManualQueueLog(slot, "kopiert");
+  event.currentTarget.textContent = "Kopiert";
+  setTimeout(() => { event.currentTarget.textContent = "Send kopieren"; }, 1400);
+}
+function markScaleSlotDone(slot) {
+  const state = loadScaleQueueState();
+  state.done = state.done || {};
+  state.done[slot.id] = true;
+  saveScaleQueueState(state);
+  addManualQueueLog(slot, "erledigt");
+  renderScaleQueue();
+}
+function captureScaleReply(slot, replyStatus) {
+  const state = loadScaleQueueState();
+  const note = slot.card.querySelector("[data-scale-reply-note]")?.value || "";
+  state.replies = state.replies || {};
+  state.replies[slot.id] = { status: replyStatus, note, date: new Date().toISOString() };
+  saveScaleQueueState(state);
+  addManualQueueLog(slot, replyStatus, replyStatus, note);
+  renderScaleQueue();
+}
+function exportScaleQueue() {
+  const state = loadScaleQueueState();
+  const rows = [["slot_id","label","intent","send_type","channel","link","status","reply_status","reply_note","copy"], ...scaleQueueSlots().map((slot) => {
+    const reply = state.replies?.[slot.id] || {};
+    return [
+    slot.id,
+    slot.label,
+    slot.intent,
+    slot.sendType,
+    slot.channel,
+    slot.url,
+    state.done?.[slot.id] ? "erledigt" : "offen",
+    reply.status || "",
+    reply.note || "",
+    slot.copy
+  ];
+  })];
+  const csv = rows.map((row) => row.map(csvCell).join(",")).join("\n");
+  const url = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "sers-manual-scale-queue.csv";
+  a.click();
+  URL.revokeObjectURL(url);
+}
+document.querySelectorAll("[data-scale-copy]").forEach((button) => {
+  button.addEventListener("click", (event) => {
+    const slot = scaleQueueSlots().find((item) => item.id === button.dataset.scaleCopy);
+    if (slot) copyScaleSlot(slot, event);
+  });
+});
+document.querySelectorAll("[data-scale-done]").forEach((button) => {
+  button.addEventListener("click", () => {
+    const slot = scaleQueueSlots().find((item) => item.id === button.dataset.scaleDone);
+    if (slot) markScaleSlotDone(slot);
+  });
+});
+document.querySelectorAll("[data-scale-reply]").forEach((button) => {
+  button.addEventListener("click", () => {
+    const slot = scaleQueueSlots().find((item) => item.id === button.dataset.scaleReply);
+    if (slot) captureScaleReply(slot, button.dataset.replyStatus || "antwort");
+  });
+});
+document.getElementById("export-scale-queue")?.addEventListener("click", exportScaleQueue);
 function todayKey() {
   return new Date().toISOString().slice(0, 10);
 }
@@ -506,6 +763,7 @@ document.getElementById("export-leads").addEventListener("click", () => {
 renderLeads();
 renderTracker();
 renderSendLog();
+renderScaleQueue();
 document.getElementById("classify-reply")?.click();
 </script></body>
 </html>
