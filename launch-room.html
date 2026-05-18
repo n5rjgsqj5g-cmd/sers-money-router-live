@@ -70,6 +70,8 @@
         <section class="hero"><article class="card"><strong>Hot Reply Classifier</strong><p>Antwort einfuegen, Intent waehlen und sofort den naechsten permission-safe Satz bekommen.</p><label>Antwort<textarea id="reply-text" placeholder="z.B. Klingt interessant, was kostet das und passt das fuer Einsteiger?">Klingt interessant, schick mir gerne den Link.</textarea></label><label>Intent<select id="reply-intent"><option>GPT</option><option>Affiliate</option><option>Mindset</option><option>Digital Business</option><option>Exit/Lifestyle</option><option>Unklar</option></select></label><div class="actions"><button id="classify-reply" type="button">Antwort sortieren</button><button id="copy-reply-next" type="button">Next Satz kopieren</button></div></article><aside class="card classifier-result"><span>Reply Class</span><strong id="reply-class">Neugierig</strong><p id="reply-detail">Noch nicht closen. Erst Intent schaerfen.</p><code id="reply-next">Gerne. Geht es dir eher um Einstieg, Umsetzung oder eine konkrete Kaufentscheidung?</code></aside></section>
         <section class="hero"><article class="card classifier-result"><span>Daily Replay</span><strong>Daily Replay: CSV exportieren -> npm run first-results -> Gewinnerpfad senden</strong><p>Der lokale 15-Minuten-Loop macht aus dem Lead Log einen klaren naechsten Testpfad.</p><code>npm run first-results -- path/to/sers-leads.csv --write-replay</code><div class="actions"><button type="button" data-copy="Daily%20Replay%3A%20CSV%20exportieren%20-%3E%20npm%20run%20first-results%20-%3E%20Gewinnerpfad%20senden%0A%0A5%20Min%3A%20Lead%20CSV%20exportieren%0A3%20Min%3A%20npm%20run%20first-results%20--%20path%2Fto%2Fsers-leads.csv%20--write-replay%0A5%20Min%3A%203%20Gewinner-Replies%20manuell%20senden%0A2%20Min%3A%20Tracker%20aktualisieren%0A%0ARegel%3A%20Unter%203%20Leads%20oder%20Confidence%20unter%2050%20ist%20es%20Learning%2C%20kein%20harter%20Winner.">Replay Workflow kopieren</button></div></article><aside class="card"><strong>15 Minuten</strong><p>5 Min CSV exportieren. 3 Min Report laufen lassen. 5 Min drei Gewinner-Replies senden. 2 Min Tracker aktualisieren.</p><p>Unter 3 Leads bleibt es Learning; ab hoher Confidence wird der Gewinnerpfad wiederholt.</p></aside></section>
         <section class="hero"><article class="card classifier-result"><span>Today Content Pack</span><strong id="content-pack-title">Learning Content Pack</strong><p id="content-pack-action">Erst Leads speichern, dann Post, Permission-DM und Follow-up kopieren.</p><div class="metric"><span>Pack Mode</span><b id="content-pack-mode">learning</b></div><code id="content-pack-link">https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html</code><div class="actions"><button id="copy-content-post" type="button">Post kopieren</button><button id="copy-content-dm" type="button">Permission-DM kopieren</button><button id="copy-content-followup" type="button">Follow-up kopieren</button><button id="copy-content-one-more-send" type="button">One More Send kopieren</button><a id="content-pack-link-open" class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html">Pack Link oeffnen</a></div></article><aside class="card"><strong>Content Pack Output</strong><p>Jede Copy bleibt manuell, permission-first und mit Affiliate-Hinweis.</p><strong>Social Post</strong><code id="content-pack-post">Erst Leads im Lead Log speichern. Dann Content Pack kopieren.</code><strong>Permission-DM</strong><code id="content-pack-dm">Erst Permission fragen, dann Link senden.</code><strong>Follow-up</strong><code id="content-pack-followup">Nach 24h kurz, ruhig und ohne Druck nachfassen.</code><strong>One More Send</strong><code id="content-pack-one-more-send">3 neue Antworten einsammeln.</code></aside></section>
+        <section class="section-heading"><div><h2>Send Outcome Ledger</h2><span>Misst lokal, welcher Send Antworten und Kaufintent erzeugt.</span></div><div class="actions"><select id="ledger-send-type"><option value="post">Post</option><option value="permission_dm">Permission-DM</option><option value="follow_up">Follow-up</option><option value="one_more_send">One More Send</option></select><button id="mark-send-sent" type="button">Als gesendet markieren</button><button id="mark-send-response" type="button">Antwort erhalten</button><button id="mark-send-buying" type="button">Kaufintent markieren</button><button id="export-send-log" type="button">Send CSV exportieren</button></div></section>
+        <section class="card"><strong>Send Log</strong><div class="grid-3"><div class="metric"><span>Sends</span><b id="send-log-count">0</b></div><div class="metric"><span>Antwortquote</span><b id="send-log-response-rate">0%</b></div><div class="metric"><span>Kaufintentquote</span><b id="send-log-buying-rate">0%</b></div></div><table><thead><tr><th>Zeit</th><th>Intent</th><th>Mode</th><th>Typ</th><th>Status</th><th>Link</th></tr></thead><tbody id="send-log-rows"></tbody></table></section>
         <section class="hero"><article class="card classifier-result"><span>First Results Loop</span><strong>Winner Replay</strong><p id="winner-detail">Noch keine Leads gespeichert. Nach dem ersten CSV/Lead-Log wird hier der staerkste Intent sichtbar.</p><div class="metric"><span>Winner Intent</span><b id="winner-intent">Unklar</b></div><div class="metric"><span>Score</span><b id="winner-score">0</b></div><div class="metric"><span>Confidence</span><b id="winner-confidence">0/100</b></div><div class="metric"><span>Replay Mode</span><b id="winner-mode">learning</b></div><code id="winner-link">https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html</code><div class="actions"><button id="copy-winner-replay" type="button">Winner Replay kopieren</button><a id="winner-link-open" class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html">Winner Link oeffnen</a></div></article><aside class="card"><strong>One More Reply</strong><p>Der Replay-Text bleibt permission-first: weich, direkt und Einwand. Morgen nur den Gewinnerpfad mit 3 neuen Sends wiederholen.</p><code id="winner-replay-copy">Erst Leads im Lead Log speichern. Dann Winner Replay kopieren.</code></aside></section>
         <section class="section-heading"><div><h2>Lead Log</h2><span>Bleibt lokal in deinem Browser und kann als CSV exportiert werden.</span></div><button id="export-leads" type="button">CSV Export</button></section>
         <form id="lead-form" class="grid-3">
@@ -95,9 +97,13 @@ document.querySelectorAll("[data-copy]").forEach((button) => {
 
 const leadKey = "sers-launch-room-leads-v1";
 const trackerKey = "sers-launch-room-daily-sends-v1";
+const sendLogKey = "sers-send-outcome-ledger-v1";
 const form = document.getElementById("lead-form");
 const tbody = document.getElementById("lead-rows");
 let classifierCopy = "";
+let currentWinner = { intent: "Unklar" };
+let currentConfidence = { mode: "learning" };
+let currentContentPack = { actionUrl: "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live" + "/money-router.html" };
 function loadLeads() {
   try { return JSON.parse(localStorage.getItem(leadKey) || "[]"); } catch { return []; }
 }
@@ -109,6 +115,7 @@ function renderLeads() {
   tbody.innerHTML = leads.map((lead) => "<tr><td>" + lead.date + "</td><td>" + lead.name + "</td><td>" + lead.source + "</td><td>" + lead.intent + "</td><td>" + lead.status + "</td><td>" + lead.note + "</td></tr>").join("");
   document.getElementById("lead-count").textContent = String(leads.length);
   renderWinnerReplay(leads);
+  renderSendLog();
 }
 function csvCell(value) {
   return '"' + String(value || "").replaceAll('"', '""') + '"';
@@ -244,10 +251,21 @@ function contentPackForWinner(winner, confidence) {
   const oneMoreSend = confidence.mode === "replay" ? "One More Send: Permission-DM an 3 warme Kontakte mit klarem Intent senden." : confidence.mode === "watch" ? "One More Send: 1 Testsend an einen warmen Kontakt, danach Lead Log aktualisieren." : "One More Send: 3 neue Antworten/Leads einsammeln, bevor du den Pfad Gewinner nennst.";
   return { title, action, actionUrl, winnerUrl, post, permissionDm, followUp, oneMoreSend };
 }
+function sendTypeLabel(type) {
+  return {
+    post: "Post",
+    permission_dm: "Permission-DM",
+    follow_up: "Follow-up",
+    one_more_send: "One More Send"
+  }[type] || type;
+}
 function renderWinnerReplay(leads = loadLeads()) {
   const winner = analyzeWinner(leads);
   const confidence = replayConfidence(leads);
   const contentPack = contentPackForWinner(winner, confidence);
+  currentWinner = winner;
+  currentConfidence = confidence;
+  currentContentPack = contentPack;
   const url = offerUrlForIntent(winner.intent);
   const intentNode = document.getElementById("winner-intent");
   if (!intentNode) return;
@@ -268,6 +286,54 @@ function renderWinnerReplay(leads = loadLeads()) {
   document.getElementById("content-pack-dm").textContent = contentPack.permissionDm;
   document.getElementById("content-pack-followup").textContent = contentPack.followUp;
   document.getElementById("content-pack-one-more-send").textContent = contentPack.oneMoreSend;
+}
+function loadSendLog() {
+  try { return JSON.parse(localStorage.getItem(sendLogKey) || "[]"); } catch { return []; }
+}
+function saveSendLog(rows) {
+  localStorage.setItem(sendLogKey, JSON.stringify(rows));
+}
+function addSendLog(sendType, status, note) {
+  renderWinnerReplay();
+  const row = {
+    date: new Date().toISOString(),
+    intent: currentWinner.intent || "Unklar",
+    replay_mode: currentConfidence.mode || "learning",
+    send_type: sendType,
+    channel: sendTypeLabel(sendType),
+    link: currentContentPack.actionUrl || offerUrlForIntent(currentWinner.intent),
+    status,
+    note: note || ""
+  };
+  saveSendLog([row, ...loadSendLog()].slice(0, 300));
+  renderSendLog();
+}
+function renderSendLog() {
+  const rows = loadSendLog();
+  const body = document.getElementById("send-log-rows");
+  if (!body) return;
+  body.innerHTML = rows.map((row) => "<tr><td>" + row.date + "</td><td>" + row.intent + "</td><td>" + row.replay_mode + "</td><td>" + sendTypeLabel(row.send_type) + "</td><td>" + row.status + "</td><td>" + row.link + "</td></tr>").join("");
+  const total = rows.length;
+  const responses = rows.filter((row) => /antwort|kaufintent/i.test(row.status || "")).length;
+  const buying = rows.filter((row) => /kaufintent/i.test(row.status || "")).length;
+  const responseRate = total ? Math.round((responses / total) * 100) : 0;
+  const buyingRate = total ? Math.round((buying / total) * 100) : 0;
+  document.getElementById("send-log-count").textContent = String(total);
+  document.getElementById("send-log-response-rate").textContent = responseRate + "%";
+  document.getElementById("send-log-buying-rate").textContent = buyingRate + "%";
+}
+function selectedLedgerType() {
+  return document.getElementById("ledger-send-type")?.value || "permission_dm";
+}
+function exportSendLog() {
+  const rows = [["date","intent","replay_mode","send_type","channel","link","status","note"], ...loadSendLog().map((row) => [row.date, row.intent, row.replay_mode, row.send_type, row.channel, row.link, row.status, row.note])];
+  const csv = rows.map((row) => row.map(csvCell).join(",")).join("\n");
+  const url = URL.createObjectURL(new Blob([csv], { type: "text/csv" }));
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = "sers-send-log.csv";
+  a.click();
+  URL.revokeObjectURL(url);
 }
 function todayKey() {
   return new Date().toISOString().slice(0, 10);
@@ -391,10 +457,18 @@ async function copyTextById(id, event, label) {
   event.currentTarget.textContent = "Kopiert";
   setTimeout(() => { event.currentTarget.textContent = label; }, 1400);
 }
-document.getElementById("copy-content-post")?.addEventListener("click", (event) => copyTextById("content-pack-post", event, "Post kopieren"));
-document.getElementById("copy-content-dm")?.addEventListener("click", (event) => copyTextById("content-pack-dm", event, "Permission-DM kopieren"));
-document.getElementById("copy-content-followup")?.addEventListener("click", (event) => copyTextById("content-pack-followup", event, "Follow-up kopieren"));
-document.getElementById("copy-content-one-more-send")?.addEventListener("click", (event) => copyTextById("content-pack-one-more-send", event, "One More Send kopieren"));
+async function copyAndLogTextById(id, event, label, sendType) {
+  await copyTextById(id, event, label);
+  addSendLog(sendType, "kopiert", label);
+}
+document.getElementById("copy-content-post")?.addEventListener("click", (event) => copyAndLogTextById("content-pack-post", event, "Post kopieren", "post"));
+document.getElementById("copy-content-dm")?.addEventListener("click", (event) => copyAndLogTextById("content-pack-dm", event, "Permission-DM kopieren", "permission_dm"));
+document.getElementById("copy-content-followup")?.addEventListener("click", (event) => copyAndLogTextById("content-pack-followup", event, "Follow-up kopieren", "follow_up"));
+document.getElementById("copy-content-one-more-send")?.addEventListener("click", (event) => copyAndLogTextById("content-pack-one-more-send", event, "One More Send kopieren", "one_more_send"));
+document.getElementById("mark-send-sent")?.addEventListener("click", () => addSendLog(selectedLedgerType(), "gesendet", "Manuell als gesendet markiert"));
+document.getElementById("mark-send-response")?.addEventListener("click", () => addSendLog(selectedLedgerType(), "antwort", "Antwort erhalten"));
+document.getElementById("mark-send-buying")?.addEventListener("click", () => addSendLog(selectedLedgerType(), "kaufintent", "Kaufintent markiert"));
+document.getElementById("export-send-log")?.addEventListener("click", exportSendLog);
 form.addEventListener("submit", (event) => {
   event.preventDefault();
   const data = new FormData(form);
@@ -424,6 +498,7 @@ document.getElementById("export-leads").addEventListener("click", () => {
 });
 renderLeads();
 renderTracker();
+renderSendLog();
 document.getElementById("classify-reply")?.click();
 </script></body>
 </html>
