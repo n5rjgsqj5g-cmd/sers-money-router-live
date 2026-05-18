@@ -37,6 +37,11 @@
       .tracker-card label { align-items:center; display:grid; gap:8px; grid-template-columns:auto minmax(0,1fr); font-weight:700; }
       .tracker-card input[type="checkbox"] { min-height:auto; width:auto; }
       .score-pill { background:#eef8f1; border:1px solid #9bc8ab; border-radius:999px; color:var(--green-dark); font-weight:900; padding:8px 12px; white-space:nowrap; }
+      .decision-pill { align-items:center; border-radius:999px; display:inline-flex; font-weight:900; min-height:42px; padding:8px 12px; width:max-content; }
+      .decision-pill.keep { background:#ecfdf5; border:1px solid #86efac; color:#166534; }
+      .decision-pill.test { background:#fffbeb; border:1px solid #fbbf24; color:#92400e; }
+      .decision-pill.pause { background:#fff1f2; border:1px solid #fda4af; color:#9f1239; }
+      .decision-pill.wait { background:#eef2f7; border:1px solid var(--line); color:var(--muted); }
       .classifier-result { background:#f1f8ff; border-color:#9fc5e8; }
       .classifier-result strong { color:#1f5c85; }
       .qr-img { aspect-ratio:1; background:#fff; border:1px solid var(--line); border-radius:8px; max-width:220px; padding:10px; width:100%; }
