@@ -26,12 +26,19 @@
       .metric { display:flex; justify-content:space-between; gap:16px; }
       .metric b { color:var(--green-dark); }
       .grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
+      .grid-3 { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
       .intent-grid { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:10px; }
       .section-heading { align-items:center; display:flex; gap:14px; justify-content:space-between; margin:10px 0 12px; }
       .section-heading h2 { font-size:1.15rem; margin:0; }
       .section-heading span { color:var(--muted); display:block; font-size:.92rem; margin-top:4px; }
       .send-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
       .card { display:grid; gap:10px; }
+      label { display:grid; gap:6px; font-weight:800; }
+      input, select, textarea { border:1px solid var(--line); border-radius:8px; color:var(--ink); font:inherit; min-height:42px; padding:10px 12px; width:100%; }
+      textarea { min-height:92px; resize:vertical; }
+      table { border-collapse:collapse; width:100%; }
+      th, td { border-bottom:1px solid var(--line); padding:10px 8px; text-align:left; vertical-align:top; }
+      th { color:var(--muted); font-size:.86rem; }
       code, .linkbox { background:#eef2f7; border-radius:8px; color:var(--ink); display:block; overflow-wrap:anywhere; padding:10px; }
       .actions { display:flex; flex-wrap:wrap; gap:8px; }
       a, button { align-items:center; border:1px solid var(--line); border-radius:8px; color:var(--ink); cursor:pointer; display:inline-flex; font:inherit; font-weight:800; justify-content:center; min-height:42px; padding:10px 12px; text-decoration:none; }
@@ -39,9 +46,24 @@
       a:hover, a:focus-visible, button:hover, button:focus-visible { outline:none; border-color:var(--green); }
       a.primary:hover, button:hover { background:var(--green-dark); }
       .notice { background:#fffbeb; border-color:#fbbf24; margin-top:18px; }
-      @media (max-width: 980px) { .grid, .send-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
-      @media (max-width: 760px) { .hero, .grid, .intent-grid, .send-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } }
+      @media (max-width: 980px) { .grid, .grid-3, .send-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+      @media (max-width: 760px) { .hero, .grid, .grid-3, .intent-grid, .send-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } table { display:block; overflow-x:auto; } }
     </style>
   </head>
-  <body><main><header class="bar"><div><strong>Digistore Offer 472249</strong><span>Affiliate Redirect</span></div><span>Weiterleitung</span></header><section class="hero"><div><h1>Weiter zum passenden Angebot.</h1><p class="lead">Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.</p><div class="actions"><a class="primary" href="https://www.digistore24.com/redir/472249/swenni/">Jetzt oeffnen</a><a href="../../offers.html">Zur Offer Wall</a></div></div><aside class="panel"><div class="metric"><span>Netzwerk</span><b>Digistore24</b></div><div class="metric"><span>Slug</span><b>ds-472249</b></div></aside></section></main><script>setTimeout(() => { window.location.href = "https://www.digistore24.com/redir/472249/swenni/"; }, 700);</script></body>
+  <body><main><header class="bar"><div><strong>Digistore Offer 472249</strong><span>Affiliate Redirect</span></div><span>Weiterleitung</span></header><section class="hero"><div><h1>Weiter zum passenden Angebot.</h1><p class="lead">Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.</p><div class="actions"><a class="primary" data-outbound href="https://www.digistore24.com/redir/472249/swenni/">Jetzt oeffnen</a><a href="../../offers.html">Zur Offer Wall</a></div></div><aside class="panel"><div class="metric"><span>Netzwerk</span><b>Digistore24</b></div><div class="metric"><span>Slug</span><b>ds-472249</b></div></aside></section></main><script>
+const target = "https://www.digistore24.com/redir/472249/swenni/";
+function outboundUrl(raw) {
+  const url = new URL(raw, window.location.href);
+  const incoming = new URLSearchParams(window.location.search);
+  for (const [key, value] of incoming) {
+    if (key === "src" || key.startsWith("utm_")) {
+      url.searchParams.set(key, value);
+    }
+  }
+  return url.toString();
+}
+const outbound = outboundUrl(target);
+document.querySelectorAll("[data-outbound]").forEach((link) => { link.href = outbound; });
+setTimeout(() => { window.location.href = outbound; }, 700);
+</script></body>
 </html>
