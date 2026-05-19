@@ -1,0 +1,233 @@
+{
+  "version": "2026-05-19",
+  "title": "SERS Affiliate Share Manifest",
+  "home": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+  "disclosure": "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+  "boundaries": [
+    "no auto-DMs",
+    "no hidden auto-posts",
+    "no paid spend",
+    "permission-first"
+  ],
+  "coreUrls": {
+    "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+    "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+    "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+    "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
+    "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
+    "fitCheck": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+    "offerWall": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html"
+  },
+  "outreach": [
+    {
+      "channel": "Partner",
+      "label": "Partner Quick Invite",
+      "target": "Freunde, Creator, Micro-Partner",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+      "copy": "Ich habe einen sauberen Affiliate-Router live: erst Intent klaeren, dann den passenden Link teilen. Wenn du ihn weitergeben willst, nutz bitte dieses Outreach-Kit mit fertigen Texten und Tracking-Pfaden.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Newsletter",
+      "label": "Newsletter Snippet",
+      "target": "Eigene Liste oder befreundete Newsletter",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "copy": "Kurzer Ressourcen-Hinweis: SERS sortiert GPT, Affiliate, Mindset, Digital Business und Exit/Lifestyle in klare naechste Schritte. Erst Fit, dann Link, mit Affiliate-Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "LinkedIn",
+      "label": "Creator Collab DM",
+      "target": "Creator mit Business-/AI-/Affiliate-Publikum",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
+      "copy": "Ich habe ein Post Pack mit fertigen, disclosure-sicheren Texten gebaut. Wenn du gerade Content zu GPT, Affiliate oder Digital Business machst, kannst du daraus einen passenden Post nehmen und mit eigenem Kontext teilen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Community",
+      "label": "Helpful Answer",
+      "target": "Foren, Gruppen, Kommentare",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "copy": "Ich wuerde nicht direkt irgendeinen Kurs empfehlen. Nimm erst den Fit-Check: GPT, Affiliate, Mindset, Digital Business oder Exit. Danach passt der naechste Link deutlich besser.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "E-Mail",
+      "label": "Warm Intro",
+      "target": "Warme Kontakte mit Exit/Lifestyle-Intent",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "copy": "Du hattest mal Richtung Freiheit, Exit oder ortsunabhaengiges Arbeiten gedacht. Ich habe dafuer einen kurzen Realitaetscheck plus passenden Einstieg gebaut.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "WhatsApp",
+      "label": "Soft Permission",
+      "target": "Bekannte Kontakte, kein Cold Spam",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner",
+      "copy": "Kurze Frage: Soll ich dir meinen Exit/Lifestyle-Pfad schicken? Ist nur sinnvoll, wenn das Thema gerade wirklich relevant ist. Sonst einfach ignorieren.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Bio",
+      "label": "Bio Swap",
+      "target": "Profile, Signaturen, About-Seiten",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "copy": "SERS: Waehle deinen naechsten Schritt fuer GPT, Affiliate, Mindset, Digital Business oder Exit. Erst Intent, dann passender Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Partner Tracking",
+      "label": "UTM Builder Invite",
+      "target": "Partner, die sauber tracken wollen",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "copy": "Wenn du den SERS Pfad weitergibst, bau dir hier einen sauberen Tracking-Link pro Kanal. So sehen wir spaeter, was wirklich funktioniert.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "QR",
+      "label": "Offline Share",
+      "target": "Calls, Screenshares, lokale Kontakte",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "copy": "Wenn jemand im Gespraech fragt, scan den SERS Fit-Check. Der QR fuehrt zuerst in die Sortierung und nicht blind in einen Kauf.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Manifest",
+      "label": "Machine Readable Kit",
+      "target": "Tools, Assistenten, Wiederverwendung",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json",
+      "copy": "Das Share Manifest enthaelt die wichtigsten SERS URLs, Texte und Kanaele maschinenlesbar fuer weitere Verteilung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "posts": [
+    {
+      "channel": "Winner",
+      "label": "Exit/Lifestyle Public Push",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
+      "copy": "Viele bleiben bei Exit/Lifestyle nicht am Angebot haengen, sondern am fehlenden naechsten Schritt. Ich habe den Pfad jetzt sauber sortiert.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "WhatsApp",
+      "label": "Exit/Lifestyle Permission-DM",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner",
+      "copy": "Kurze Frage: Exit/Lifestyle kam in meinen ersten Signalen am staerksten raus. Soll ich dir den passenden Link schicken, damit du selbst pruefen kannst, ob es fuer dich passt?\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "E-Mail",
+      "label": "Exit/Lifestyle Follow-up",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner",
+      "copy": "Ich wollte kurz nachfassen: Wenn Exit/Lifestyle bei dir gerade wirklich relevant ist, wuerde ich mit diesem Pfad starten. Wenn es nicht passt, einfach ignorieren.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "LinkedIn",
+      "label": "Problem-Post AI",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "copy": "Viele wollen mit GPT produktiver werden, aber starten mit zu vielen Tools und zu wenig Klarheit. Ich habe einen kurzen Einstieg gebaut, der erst den Bedarf sortiert und dann den passenden naechsten Schritt zeigt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "LinkedIn",
+      "label": "Problem-Post Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "copy": "Affiliate-Marketing scheitert selten am Link. Es scheitert daran, dass kein klarer Intent und kein sauberer naechster Schritt da ist. Genau dafuer habe ich eine kurze SERS-Seite gebaut.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "WhatsApp",
+      "label": "Permission-DM GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "copy": "Kurze Frage: Willst du GPT gerade wirklich nutzen oder erstmal nur verstehen, was sinnvoll ist? Ich habe dir dafuer einen kurzen Einstieg gebaut.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "WhatsApp",
+      "label": "Permission-DM Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "copy": "Du hattest doch mal Affiliate/Online-Umsatz im Kopf. Soll ich dir meinen kurzen Einstieg schicken? Keine Wall of Text, nur der passende Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "E-Mail",
+      "label": "Follow-up Kaufintent",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+      "copy": "Ich habe dir die Optionen sortiert: GPT, Affiliate, Mindset, Digital Business oder Exit. Waehle kurz den Intent, dann bekommst du den passenden Link mit Affiliate-Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Social Bio",
+      "label": "Bio-Link Text",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "copy": "SERS: Waehle deinen naechsten Schritt fuer GPT, Affiliate, Mindset, Digital Business oder Exit.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Social Bio",
+      "label": "Fit-Check Link",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "copy": "Nicht sicher, welcher Weg passt? Mach den kurzen SERS Fit-Check und nimm danach nur den passenden naechsten Schritt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Kommentar",
+      "label": "Kommentar-Antwort",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
+      "copy": "Ich habe es kurz sortiert und nicht als langen Thread gebaut. Hier kannst du den passenden Einstieg waehlen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Partner",
+      "label": "Partner-Link Builder",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "copy": "Wenn du den SERS Pfad teilen willst, nutz bitte den Partner-Link-Builder. Dann bekommt jeder Kanal einen sauberen Tracking-Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Content",
+      "label": "Content Engine",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+      "copy": "Wenn du nicht weisst, was du posten sollst: Die SERS Content Engine baut dir Hooks, Posts und kurze Antworten fuer den passenden Funnel.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Direkt",
+      "label": "Warm Close",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
+      "copy": "Wenn du schon weisst, welcher Intent passt, nimm direkt die Offer Wall. Sonst zuerst den Router nehmen und den passenden Link auswaehlen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "LinkedIn",
+      "label": "Tool-Dschungel Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "copy": "Viele wollen GPT nutzen, aber verlieren sich zuerst im Tool-Dschungel.\n\nDer bessere Einstieg ist nicht noch eine Tool-Liste, sondern ein kurzer Fit-Check: Was willst du wirklich verbessern, wie dringend ist es und welcher naechste Schritt passt?\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "LinkedIn",
+      "label": "Link ist nicht das Problem",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "copy": "Affiliate-Marketing scheitert selten am Link.\n\nEs scheitert daran, dass kein klarer Intent, keine saubere Permission und kein sinnvoller naechster Schritt da ist. Darum fuehre ich erst durch einen kurzen Pfad, dann zum passenden Angebot.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Short Video",
+      "label": "Umsetzung statt Sammeln",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/",
+      "copy": "Wenn du seit Wochen speicherst, aber nichts umsetzt, brauchst du keinen weiteren Tipp.\n\nDu brauchst einen kleinen Neustart: ein klares Ziel, einen einfachen naechsten Schritt und weniger Reibung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Story",
+      "label": "Soft Start",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/",
+      "copy": "Nicht jeder Lead ist bereit fuer ein Angebot.\n\nManche brauchen erst einen leichten Einstieg. Dafuer ist ein Freebie-Pfad oft besser als direkt ein harter Verkaufslink.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "E-Mail",
+      "label": "Exit Realitaetscheck",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
+      "copy": "Mehr Freiheit klingt gut. Aber der Plan muss zur aktuellen Realitaet passen.\n\nWenn du Richtung Exit, ortsunabhaengiges Arbeiten oder Lifestyle-Business denkst, starte mit einem strukturierten Pfad statt Wunschdenken.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Kommentar",
+      "label": "Antwort ohne Link-Spam",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "copy": "Ich wuerde dir nicht blind irgendeinen Link schicken.\n\nNimm erst den kurzen Fit-Check. Danach siehst du, ob GPT, Affiliate, Mindset, Digital Business oder Exit gerade besser passt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Partner",
+      "label": "Partner Einladung",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "copy": "Wenn du den SERS Pfad teilen willst, nutze bitte einen sauberen Partner-Link.\n\nDann bleibt nachvollziehbar, welcher Kanal funktioniert, und neue Kontakte landen zuerst im passenden Fit-Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Bio",
+      "label": "Bio Text kurz",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "copy": "SERS: GPT, Affiliate, Mindset, Digital Business oder Exit.\n\nWaehle deinen naechsten Schritt. Erst Intent, dann passender Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "QR",
+      "label": "QR Callout",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "copy": "Scan den SERS Fit-Check, bevor du dich fuer irgendeinen Kurs entscheidest.\n\nDer QR fuehrt zuerst in die Sortierung, nicht direkt in einen Kauf.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ]
+}

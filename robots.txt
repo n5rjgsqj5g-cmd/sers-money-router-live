@@ -6,3 +6,4 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # RSS Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.xml
 # JSON Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json
 # LLM discovery: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
+# Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
