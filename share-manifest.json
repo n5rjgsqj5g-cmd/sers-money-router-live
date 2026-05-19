@@ -16,6 +16,7 @@
     "channelKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
     "videoKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
     "audienceKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+    "useCaseKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -410,6 +411,118 @@
       "problem": "Zu viele gespeicherte Tipps erzeugen das Gefuehl von Fortschritt, aber keinen Output.",
       "promise": "Der Mindset-Pfad fuehrt in einen kleinen Abschluss und danach zum naechsten passenden Link.",
       "copy": "Wenn du mehr speicherst als umsetzt, brauchst du heute keinen neuen Tipp. Du brauchst einen kleinen Abschluss.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/umsetzer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "useCases": [
+    {
+      "question": "Wie schreibe ich als Freelancer schneller ein gutes Angebot mit GPT?",
+      "audience": "Freelancer",
+      "intent": "GPT",
+      "label": "Angebot mit GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/freelancer-angebot-mit-gpt/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "scenario": "Ein warmer Lead fragt nach einem Angebot, aber der Text kostet zu viel Zeit.",
+      "answer": "Nutze GPT nicht fuer generische Texte, sondern fuer ein strukturiertes Angebot: Problem, Ergebnis, Umfang, naechster Schritt. Danach fuehrt der GPT Guide in den passenden Einstieg.",
+      "copy": "Wie schreibe ich als Freelancer schneller ein gutes Angebot mit GPT?\n\nNutze GPT nicht fuer generische Texte, sondern fuer ein strukturiertes Angebot: Problem, Ergebnis, Umfang, naechster Schritt. Danach fuehrt der GPT Guide in den passenden Einstieg.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/freelancer-angebot-mit-gpt/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie mache ich aus einem Affiliate-Link ein hilfreiches Creator-Video?",
+      "audience": "Creator",
+      "intent": "Distribution",
+      "label": "Affiliate Video",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/creator-affiliate-video-aufnehmen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "scenario": "Ein Creator will einen Link teilen, ohne wie Werbung ohne Kontext zu wirken.",
+      "answer": "Starte mit dem Problem, nicht mit dem Link. Das Video Kit liefert Hook, 30-Sekunden-Skript, Caption und CTA, damit der Link als naechster Schritt statt als Pitch erscheint.",
+      "copy": "Wie mache ich aus einem Affiliate-Link ein hilfreiches Creator-Video?\n\nStarte mit dem Problem, nicht mit dem Link. Das Video Kit liefert Hook, 30-Sekunden-Skript, Caption und CTA, damit der Link als naechster Schritt statt als Pitch erscheint.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/creator-affiliate-video-aufnehmen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie starte ich Affiliate-Marketing, wenn ich noch kein grosses Publikum habe?",
+      "audience": "Side-Hustler",
+      "intent": "Affiliate",
+      "label": "Affiliate ohne Publikum",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "scenario": "Jemand will anfangen, hat aber keine Reichweite und keine klare Zielgruppe.",
+      "answer": "Starte nicht mit Reichweite, sondern mit einem kleinen Problem und warmem Kontext. Eine hilfreiche Antwort plus Permission ist besser als ein Link an alle.",
+      "copy": "Wie starte ich Affiliate-Marketing, wenn ich noch kein grosses Publikum habe?\n\nStarte nicht mit Reichweite, sondern mit einem kleinen Problem und warmem Kontext. Eine hilfreiche Antwort plus Permission ist besser als ein Link an alle.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie empfehle ich als Coach ein Angebot, ohne Vertrauen zu verlieren?",
+      "audience": "Coaches und Berater",
+      "intent": "Presell",
+      "label": "Empfehlung mit Fit",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/coach-empfehlung-mit-fit/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "scenario": "Ein Kontakt fragt nach einer Empfehlung, aber ein Direktlink waere zu frueh.",
+      "answer": "Nutze eine Presell-Seite, die Fit und Nicht-Fit sichtbar macht. So bleibt die Empfehlung nachvollziehbar und der Affiliate-Hinweis offen.",
+      "copy": "Wie empfehle ich als Coach ein Angebot, ohne Vertrauen zu verlieren?\n\nNutze eine Presell-Seite, die Fit und Nicht-Fit sichtbar macht. So bleibt die Empfehlung nachvollziehbar und der Affiliate-Hinweis offen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/coach-empfehlung-mit-fit/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie teste ich digitales Business neben dem Job, ohne alles zu kuendigen?",
+      "audience": "Job-Wechsler",
+      "intent": "Digital Business",
+      "label": "Digitaler Test",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/jobwechsel-digital-testen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "scenario": "Jemand will online etwas starten, aber der Wechsel fuehlt sich zu gross an.",
+      "answer": "Teste zuerst ein kleines Signal: eine Frage beantworten, einen Soft-Start teilen, Reaktion notieren. Der Digital Business Guide ist dafuer der ruhige Einstieg.",
+      "copy": "Wie teste ich digitales Business neben dem Job, ohne alles zu kuendigen?\n\nTeste zuerst ein kleines Signal: eine Frage beantworten, einen Soft-Start teilen, Reaktion notieren. Der Digital Business Guide ist dafuer der ruhige Einstieg.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/jobwechsel-digital-testen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Welchen Bio-Link sollte ich als Solopreneur setzen?",
+      "audience": "Solopreneure",
+      "intent": "Bio",
+      "label": "Bio Link Router",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/bio-link-fuer-solopreneure/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "scenario": "Ein Profil bekommt verschiedene Besucher mit verschiedenen Kaufintents.",
+      "answer": "Setze keinen einzelnen Direktlink. Nutze einen Router, der GPT, Affiliate, Mindset, Digital Business und Exit sortiert und erst danach zum passenden Pfad fuehrt.",
+      "copy": "Welchen Bio-Link sollte ich als Solopreneur setzen?\n\nSetze keinen einzelnen Direktlink. Nutze einen Router, der GPT, Affiliate, Mindset, Digital Business und Exit sortiert und erst danach zum passenden Pfad fuehrt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/bio-link-fuer-solopreneure/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie antworte ich in Communities hilfreich, ohne Link-Spam?",
+      "audience": "Community",
+      "intent": "Antwort",
+      "label": "Community Antwort",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/community-antwort-ohne-spam/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/was-in-community-antworten/",
+      "scenario": "In einer Gruppe fragt jemand nach GPT, Affiliate oder Online-Business, aber ein Kauf-Link waere unpassend.",
+      "answer": "Antworte zuerst direkt auf die Frage. Wenn ein Link hilft, fuehre auf Antwort-Bank oder Fit-Check statt direkt auf ein Angebot.",
+      "copy": "Wie antworte ich in Communities hilfreich, ohne Link-Spam?\n\nAntworte zuerst direkt auf die Frage. Wenn ein Link hilft, fuehre auf Antwort-Bank oder Fit-Check statt direkt auf ein Angebot.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/community-antwort-ohne-spam/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie nutze ich QR-Codes in Calls oder Gespraechen fuer Affiliate-Links?",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "label": "QR im Gespraech",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "scenario": "Im Call fragt jemand nach dem passenden Einstieg, aber mehrere Links waeren chaotisch.",
+      "answer": "Nutze QR als ruhigen Einstieg in Fit-Check oder Bio Hub. Der Code soll sortieren, nicht blind in einen Kauf fuehren.",
+      "copy": "Wie nutze ich QR-Codes in Calls oder Gespraechen fuer Affiliate-Links?\n\nNutze QR als ruhigen Einstieg in Fit-Check oder Bio Hub. Der Code soll sortieren, nicht blind in einen Kauf fuehren.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie pruefe ich einen Exit- oder Lifestyle-Plan realistisch?",
+      "audience": "Digitale Nomaden",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Realitaet",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/exit-plan-realistisch-pruefen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "scenario": "Jemand will Freiheit und Ortsunabhaengigkeit, aber der echte Engpass ist unklar.",
+      "answer": "Klaere zuerst, ob Zeit, Einkommen, Skills oder Klarheit fehlen. Der Exit Guide hilft, Wunschdenken in einen naechsten Schritt zu uebersetzen.",
+      "copy": "Wie pruefe ich einen Exit- oder Lifestyle-Plan realistisch?\n\nKlaere zuerst, ob Zeit, Einkommen, Skills oder Klarheit fehlen. Der Exit Guide hilft, Wunschdenken in einen naechsten Schritt zu uebersetzen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/exit-plan-realistisch-pruefen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie komme ich aus Ideenstau wieder in Umsetzung?",
+      "audience": "Umsetzer mit Ideenstau",
+      "intent": "Mindset",
+      "label": "Ideenstau loesen",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/ideenstau-in-umsetzung-bringen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "scenario": "Jemand speichert viele Tipps, aber macht keinen sichtbaren naechsten Schritt.",
+      "answer": "Der naechste Hebel ist nicht mehr Input. Waehle eine verschobene Entscheidung, mach sie klein und schliesse heute einen sichtbaren Schritt ab.",
+      "copy": "Wie komme ich aus Ideenstau wieder in Umsetzung?\n\nDer naechste Hebel ist nicht mehr Input. Waehle eine verschobene Entscheidung, mach sie klein und schliesse heute einen sichtbaren Schritt ab.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/ideenstau-in-umsetzung-bringen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
