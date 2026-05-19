@@ -65,6 +65,54 @@
       "content_text": "Partner-, Newsletter-, Community- und Creator-Verteilung fuer SERS Affiliate-Links."
     },
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
+      "title": "SERS Channel Kit",
+      "content_text": "Kanal-spezifische Verteilung fuer LinkedIn, WhatsApp, E-Mail, Community, Bio, QR und Partner."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/",
+      "title": "SERS Channel: LinkedIn",
+      "content_text": "Oeffentlich posten oder kommentieren, aber keinen nackten Offer-Link droppen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
+      "title": "SERS Channel: WhatsApp",
+      "content_text": "Erst fragen, dann Link senden. Keine Broadcasts an kalte Kontakte."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/",
+      "title": "SERS Channel: E-Mail",
+      "content_text": "Nur an erlaubte Kontakte oder eigene Liste. Affiliate-Hinweis sichtbar lassen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/",
+      "title": "SERS Channel: Community",
+      "content_text": "Antwort zuerst, Link zuletzt. Bei unklarem Intent nur Fit-Check oder Antwort-Bank."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/",
+      "title": "SERS Channel: Bio",
+      "content_text": "Ein Bio-Link, der sortiert. Nicht auf ein einzelnes Angebot zwingen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/",
+      "title": "SERS Channel: QR",
+      "content_text": "QR nur mit sichtbarem Kontext nutzen, nicht als blinder Kauf-Code."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/",
+      "title": "SERS Channel: Partner",
+      "content_text": "Nur Partner mit passendem Publikum. Keine massenhaften Collab-DMs."
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
       "title": "SERS Antwort-Bank",

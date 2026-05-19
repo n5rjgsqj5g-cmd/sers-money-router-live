@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /guides/
+Allow: /channels/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
@@ -9,4 +10,5 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # LLM discovery: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
+# Channel kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html
 # Offer presell hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html

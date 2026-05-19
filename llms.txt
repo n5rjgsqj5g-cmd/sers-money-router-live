@@ -13,6 +13,14 @@
 - [SERS Share Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html): Sofort kopierbare Posts, DMs und Follow-ups fuer organische Verteilung.
 - [SERS Post Pack](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html): Fertige Social-, DM-, Kommentar- und E-Mail-Texte mit direkten Share-Links.
 - [SERS Outreach Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html): Partner-, Newsletter-, Community- und Creator-Verteilung fuer SERS Affiliate-Links.
+- [SERS Channel Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html): Kanal-spezifische Verteilung fuer LinkedIn, WhatsApp, E-Mail, Community, Bio, QR und Partner.
+- [SERS Channel: LinkedIn](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/): Oeffentlich posten oder kommentieren, aber keinen nackten Offer-Link droppen.
+- [SERS Channel: WhatsApp](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/): Erst fragen, dann Link senden. Keine Broadcasts an kalte Kontakte.
+- [SERS Channel: E-Mail](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/): Nur an erlaubte Kontakte oder eigene Liste. Affiliate-Hinweis sichtbar lassen.
+- [SERS Channel: Community](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/): Antwort zuerst, Link zuletzt. Bei unklarem Intent nur Fit-Check oder Antwort-Bank.
+- [SERS Channel: Bio](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/): Ein Bio-Link, der sortiert. Nicht auf ein einzelnes Angebot zwingen.
+- [SERS Channel: QR](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/): QR nur mit sichtbarem Kontext nutzen, nicht als blinder Kauf-Code.
+- [SERS Channel: Partner](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/): Nur Partner mit passendem Publikum. Keine massenhaften Collab-DMs.
 - [SERS Antwort-Bank](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html): Indexierbare Antworten fuer GPT, Affiliate, Mindset, Digital Business, Exit und Community-Fragen.
 - [Welcher Online-Business-Schritt passt, wenn ich noch unsicher bin?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welcher-online-business-schritt-passt/): Erst Intent klaeren, dann Link. So vermeidest du Kurs-Hopping und Fehlkaeufe.
 - [Wie starte ich mit GPT, ohne mich in Tools zu verlieren?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/gpt-starten-ohne-tool-chaos/): Use Case vor Tool. Ein kleiner Workflow ist besser als 20 neue Apps.

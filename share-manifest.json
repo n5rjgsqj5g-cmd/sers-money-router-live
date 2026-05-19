@@ -13,6 +13,7 @@
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+    "channelKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -90,6 +91,71 @@
       "target": "Tools, Assistenten, Wiederverwendung",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json",
       "copy": "Das Share Manifest enthaelt die wichtigsten SERS URLs, Texte und Kanaele maschinenlesbar fuer weitere Verteilung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "channels": [
+    {
+      "channel": "LinkedIn",
+      "label": "Problem-Post",
+      "target": "Eigenes Profil, Creator-Kommentare mit echtem Kontext",
+      "rule": "Oeffentlich posten oder kommentieren, aber keinen nackten Offer-Link droppen.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "copy": "Ich habe meine Affiliate-Links in klare Presell-Seiten sortiert: erst Fit, dann Nicht-Fit, dann passender Link mit Hinweis. Wenn jemand bei GPT, Affiliate, Digital Business oder Exit haengt, ist das sauberer als ein Direktlink.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "WhatsApp",
+      "label": "Permission-DM",
+      "target": "Warme Kontakte, die das Thema schon kennen",
+      "rule": "Erst fragen, dann Link senden. Keine Broadcasts an kalte Kontakte.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "copy": "Kurze Frage: Ich habe die passenden Links gerade sauber sortiert. Soll ich dir den kurzen Pfad schicken, damit du selbst pruefen kannst, ob GPT, Affiliate, Mindset, Digital Business oder Exit passt?\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "E-Mail",
+      "label": "Warm Follow-up",
+      "target": "Warme Liste, bestehende Kontakte, Signatur",
+      "rule": "Nur an erlaubte Kontakte oder eigene Liste. Affiliate-Hinweis sichtbar lassen.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "copy": "Ich habe dir den aktuellen SERS Router sortiert: Antwort-Bank, Presell-Seiten, Offer Wall und Share Kit. So kannst du erst den Intent klaeren und danach nur den passenden Link oeffnen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Community",
+      "label": "Helpful Answer",
+      "target": "Foren, Gruppen, Kommentare, Q&A",
+      "rule": "Antwort zuerst, Link zuletzt. Bei unklarem Intent nur Fit-Check oder Antwort-Bank.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "copy": "Ich wuerde nicht direkt irgendeinen Kurs empfehlen. Erst klaeren, ob es um GPT, Affiliate, Mindset, Digital Business oder Exit geht. Danach passt der naechste Schritt deutlich besser.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Bio",
+      "label": "Profile Link",
+      "target": "Instagram, TikTok, LinkedIn, X, Signatur",
+      "rule": "Ein Bio-Link, der sortiert. Nicht auf ein einzelnes Angebot zwingen.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "copy": "SERS: Waehle deinen naechsten Schritt fuer GPT, Affiliate, Mindset, Digital Business oder Exit. Erst Intent, dann passender Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "QR",
+      "label": "Offline / Call",
+      "target": "Screenshares, Calls, Notizen, lokale Kontakte",
+      "rule": "QR nur mit sichtbarem Kontext nutzen, nicht als blinder Kauf-Code.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "copy": "Scan den SERS Fit-Check, bevor du dich fuer irgendeinen Kurs entscheidest. Der QR fuehrt zuerst in die Sortierung und nicht direkt in einen Kauf.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "channel": "Partner",
+      "label": "Partner Invite",
+      "target": "Micro-Partner, Creator, befreundete Newsletter",
+      "rule": "Nur Partner mit passendem Publikum. Keine massenhaften Collab-DMs.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+      "copy": "Ich habe einen SERS Affiliate-Router mit Presell-Seiten, Antwort-Bank und Share-Manifest live. Wenn du ihn teilen willst, nutz bitte das Outreach Kit und bau dir pro Kanal einen sauberen Tracking-Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
