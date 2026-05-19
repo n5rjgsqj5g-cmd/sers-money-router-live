@@ -17,6 +17,7 @@
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
     "fitCheck": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+    "offerPresellHub": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
     "offerWall": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html"
   },
   "outreach": [
@@ -287,6 +288,136 @@
       "label": "QR Callout",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
       "copy": "Scan den SERS Fit-Check, bevor du dich fuer irgendeinen Kurs entscheidest.\n\nDer QR fuehrt zuerst in die Sortierung, nicht direkt in einen Kauf.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "offerPages": [
+    {
+      "label": "Power Mindset",
+      "intent": "Mindset",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/",
+      "goal": "Mindset- und Neustart-Intent in ein passendes Einstiegsangebot fuehren."
+    },
+    {
+      "label": "Digistore Offer 472249",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-472249/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-472249/",
+      "goal": "Konkreten Digistore-Kaufintent nach Fit auf das Angebot leiten."
+    },
+    {
+      "label": "Lovable App Freebie",
+      "intent": "Soft Lead",
+      "network": "Direct",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/lovable-app-freebie/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/",
+      "goal": "Kalte oder lauwarme Kontakte zuerst in ein Freebie statt direkt in einen Kauf schicken."
+    },
+    {
+      "label": "GPT Starter Guide",
+      "intent": "GPT / AI",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/",
+      "goal": "AI-Einsteiger mit GPT-Interesse in ein niedrigschwelliges Lernangebot fuehren."
+    },
+    {
+      "label": "Affiliate Insights",
+      "intent": "Affiliate",
+      "network": "Systeme.io",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/affiliate-insights/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/",
+      "goal": "Affiliate-Marketing-Intent in ein Training mit transparentem Hinweis fuehren."
+    },
+    {
+      "label": "Checkout Offer 656847",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-656847/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-656847/",
+      "goal": "Kaufbereite Kontakte direkt auf den Checkout-Redirect fuehren."
+    },
+    {
+      "label": "Online Digital Redemption",
+      "intent": "Digital Business",
+      "network": "Direct",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/online-digital-redemption/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/online-digital-redemption/",
+      "goal": "Digital-Business-Intent nach kurzem Fit auf das Angebot leiten."
+    },
+    {
+      "label": "Digistore Offer 552961",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-552961/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-552961/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 552961 leiten."
+    },
+    {
+      "label": "Digistore Offer 459976",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-459976/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-459976/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 459976 leiten."
+    },
+    {
+      "label": "Digistore Offer 38219",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-38219/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-38219/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 38219 leiten."
+    },
+    {
+      "label": "Digistore Offer 376915",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-376915/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-376915/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 376915 leiten."
+    },
+    {
+      "label": "Checkout Offer 649413",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-649413/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-649413/",
+      "goal": "Kaufbereite Kontakte direkt auf den Checkout-Redirect fuehren."
+    },
+    {
+      "label": "Millionaire Partnership Webclass",
+      "intent": "Affiliate",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/millionaire-webclass/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/millionaire-webclass/",
+      "goal": "Business- und Partnership-Intent in eine Webclass fuehren."
+    },
+    {
+      "label": "Nomad Master Exit Masterplan",
+      "intent": "Exit/Lifestyle",
+      "network": "Direct",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/exit-masterplan/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/",
+      "goal": "Lifestyle- und Exit-Intent in einen strukturierten Masterplan fuehren."
+    },
+    {
+      "label": "Digistore Offer 500683",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-500683/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-500683/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 500683 leiten."
+    },
+    {
+      "label": "Digistore Offer 607228",
+      "intent": "Kaufintent",
+      "network": "Digistore24",
+      "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-607228/",
+      "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-607228/",
+      "goal": "Konkreten Digistore-Intent nach Fit auf Angebot 607228 leiten."
     }
   ]
 }
