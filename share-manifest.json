@@ -13,6 +13,7 @@
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+    "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
     "fitCheck": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
@@ -88,6 +89,64 @@
       "target": "Tools, Assistenten, Wiederverwendung",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json",
       "copy": "Das Share Manifest enthaelt die wichtigsten SERS URLs, Texte und Kanaele maschinenlesbar fuer weitere Verteilung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "answers": [
+    {
+      "intent": "Unklar",
+      "question": "Welcher Online-Business-Schritt passt, wenn ich noch unsicher bin?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welcher-online-business-schritt-passt/",
+      "answer": "Wenn du zwischen GPT, Affiliate, Mindset, Digital Business und Exit schwankst, ist der beste erste Schritt kein Kauf. Der beste erste Schritt ist ein kurzer Fit-Check: Was willst du verbessern, wie dringend ist es, und welcher naechste Schritt passt wirklich?",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html"
+    },
+    {
+      "intent": "GPT",
+      "question": "Wie starte ich mit GPT, ohne mich in Tools zu verlieren?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/gpt-starten-ohne-tool-chaos/",
+      "answer": "Starte nicht mit einer Tool-Liste. Starte mit einem wiederkehrenden Vorgang, der jede Woche Zeit kostet. Danach entscheidest du, ob du Ideen, Struktur, Text, Analyse oder Automatisierung brauchst.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/"
+    },
+    {
+      "intent": "Affiliate",
+      "question": "Wie starte ich Affiliate-Marketing, ohne wie Link-Spam zu wirken?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/affiliate-starten-ohne-link-spam/",
+      "answer": "Affiliate wirkt schnell falsch, wenn der Link der Einstieg ist. Besser: Frage kurz, ob das Thema relevant ist. Wenn ja, schickst du den passenden Pfad mit Affiliate-Hinweis. Wenn nein, stoppst du.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/"
+    },
+    {
+      "intent": "Exit/Lifestyle",
+      "question": "Wie plane ich Exit/Lifestyle realistisch statt nur motiviert?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/exit-lifestyle-realistisch-planen/",
+      "answer": "Exit/Lifestyle klingt gut, aber der naechste Schritt muss zur Realitaet passen. Klaere zuerst, ob gerade Zeit, Einkommen, Skills oder Klarheit fehlt. Dann nimm nur den Pfad, der diesen Engpass wirklich adressiert.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/"
+    },
+    {
+      "intent": "Digital Business",
+      "question": "Was ist ein guter Soft Start ins digitale Business?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/digital-business-soft-start/",
+      "answer": "Wenn jemand neugierig, aber nicht kaufbereit ist, ist ein Freebie- oder Soft-Start-Pfad oft besser. So entsteht ein echtes Signal, ohne sofort Druck aufzubauen.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/"
+    },
+    {
+      "intent": "Mindset",
+      "question": "Wie komme ich von Sammeln wieder in Umsetzung?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/mindset-umsetzung-statt-sammeln/",
+      "answer": "Der Wechsel passiert nicht durch noch mehr Input. Schreibe eine verschobene Entscheidung auf, waehle den kleinsten sichtbaren Umsetzungsschritt und mach ihn heute messbar.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/"
+    },
+    {
+      "intent": "Bio",
+      "question": "Welchen Link sollte ich in meine Bio setzen?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/",
+      "answer": "Der beste Bio-Link ist nicht der aggressivste Offer-Link, sondern ein kurzer Router. Besucher waehlen erst GPT, Affiliate, Mindset, Digital Business oder Exit. Danach passt der naechste Link deutlich besser.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html"
+    },
+    {
+      "intent": "Community",
+      "question": "Was antworte ich in Communities, ohne Spam zu posten?",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/was-in-community-antworten/",
+      "answer": "Gib zuerst eine kurze, echte Antwort auf die Frage. Wenn ein Link sinnvoll ist, fuehre zum Fit-Check oder Guide, nicht direkt zum Kauf. Der Kauf-Link kommt erst, wenn der Intent klar ist.",
+      "nextStep": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html"
     }
   ],
   "posts": [

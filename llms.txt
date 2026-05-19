@@ -13,6 +13,15 @@
 - [SERS Share Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html): Sofort kopierbare Posts, DMs und Follow-ups fuer organische Verteilung.
 - [SERS Post Pack](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html): Fertige Social-, DM-, Kommentar- und E-Mail-Texte mit direkten Share-Links.
 - [SERS Outreach Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html): Partner-, Newsletter-, Community- und Creator-Verteilung fuer SERS Affiliate-Links.
+- [SERS Antwort-Bank](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html): Indexierbare Antworten fuer GPT, Affiliate, Mindset, Digital Business, Exit und Community-Fragen.
+- [Welcher Online-Business-Schritt passt, wenn ich noch unsicher bin?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welcher-online-business-schritt-passt/): Erst Intent klaeren, dann Link. So vermeidest du Kurs-Hopping und Fehlkaeufe.
+- [Wie starte ich mit GPT, ohne mich in Tools zu verlieren?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/gpt-starten-ohne-tool-chaos/): Use Case vor Tool. Ein kleiner Workflow ist besser als 20 neue Apps.
+- [Wie starte ich Affiliate-Marketing, ohne wie Link-Spam zu wirken?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/affiliate-starten-ohne-link-spam/): Der Link kommt zuletzt: Kontext, Permission, Hinweis, dann passender Pfad.
+- [Wie plane ich Exit/Lifestyle realistisch statt nur motiviert?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/exit-lifestyle-realistisch-planen/): Freiheit braucht einen realen Engpass: Zeit, Einkommen, Skills oder Klarheit.
+- [Was ist ein guter Soft Start ins digitale Business?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/digital-business-soft-start/): Bei wenig Kaufbereitschaft ist ein leichter Einstieg besser als ein harter Pitch.
+- [Wie komme ich von Sammeln wieder in Umsetzung?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/mindset-umsetzung-statt-sammeln/): Wenn du zu viel speicherst, brauchst du keinen weiteren Tipp, sondern einen klaren Neustart.
+- [Welchen Link sollte ich in meine Bio setzen?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/): Nutze keinen einzelnen Offer-Link. Nutze einen Router, der erst den Intent klaert.
+- [Was antworte ich in Communities, ohne Spam zu posten?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/was-in-community-antworten/): Hilfreich antworten, Fit-Check anbieten, keinen kalten Kauf-Link droppen.
 - [SERS Bio Hub](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html): Ein Link fuer Profile, Bios und warme Antworten.
 - [SERS Offer Wall](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html): Kurze Affiliate-Links fuer passende Angebote nach Fit-Check und Kaufintent.
 
