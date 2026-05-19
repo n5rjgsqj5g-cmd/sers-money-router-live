@@ -17,6 +17,7 @@
     "videoKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
     "audienceKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
     "useCaseKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
+    "objectionKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -523,6 +524,118 @@
       "scenario": "Jemand speichert viele Tipps, aber macht keinen sichtbaren naechsten Schritt.",
       "answer": "Der naechste Hebel ist nicht mehr Input. Waehle eine verschobene Entscheidung, mach sie klein und schliesse heute einen sichtbaren Schritt ab.",
       "copy": "Wie komme ich aus Ideenstau wieder in Umsetzung?\n\nDer naechste Hebel ist nicht mehr Input. Waehle eine verschobene Entscheidung, mach sie klein und schliesse heute einen sichtbaren Schritt ab.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/ideenstau-in-umsetzung-bringen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "objections": [
+    {
+      "objection": "Kann Affiliate funktionieren, wenn ich noch kein grosses Publikum habe?",
+      "audience": "Side-Hustler",
+      "intent": "Affiliate",
+      "label": "Affiliate ohne Publikum",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-ohne-publikum/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "Erst ein echtes Problem beantworten, dann Permission holen, dann den Affiliate-Pfad mit Hinweis senden.",
+      "reframe": "Ja, wenn du nicht Reichweite jagst, sondern konkrete Situationen beantwortest. Ein sauberer hilfreicher Send an eine passende Person ist am Anfang wertvoller als ein Post an alle.",
+      "copy": "Affiliate ohne Publikum\n\nKann Affiliate funktionieren, wenn ich noch kein grosses Publikum habe?\n\nJa, wenn du nicht Reichweite jagst, sondern konkrete Situationen beantwortest. Ein sauberer hilfreicher Send an eine passende Person ist am Anfang wertvoller als ein Post an alle.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-ohne-publikum/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Ist GPT nur Hype oder kann es mir wirklich Arbeit abnehmen?",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "label": "GPT nur Hype",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/gpt-ist-nur-hype/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "Nicht ueber KI reden. Einen kleinen Arbeitsablauf zeigen und danach den GPT-Pfad senden.",
+      "reframe": "GPT wird erst dann praktisch, wenn du es an eine wiederkehrende Aufgabe bindest: Angebot schreiben, Recherche sortieren, Content strukturieren oder Follow-up vorbereiten.",
+      "copy": "GPT nur Hype\n\nIst GPT nur Hype oder kann es mir wirklich Arbeit abnehmen?\n\nGPT wird erst dann praktisch, wenn du es an eine wiederkehrende Aufgabe bindest: Angebot schreiben, Recherche sortieren, Content strukturieren oder Follow-up vorbereiten.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/gpt-ist-nur-hype/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Was mache ich, wenn ich mich in zu vielen Tools verliere?",
+      "audience": "Tool-Sammler",
+      "intent": "Klarheit",
+      "label": "Zu viele Tools",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "rule": "Ein Engpass, ein Pfad, ein naechster Schritt. Keine neue Tool-Liste ohne Entscheidung.",
+      "reframe": "Tool-Chaos entsteht meistens, wenn der naechste Schritt unklar ist. Sortiere zuerst Intent und Engpass, dann oeffne nur den passenden Pfad.",
+      "copy": "Zu viele Tools\n\nWas mache ich, wenn ich mich in zu vielen Tools verliere?\n\nTool-Chaos entsteht meistens, wenn der naechste Schritt unklar ist. Sortiere zuerst Intent und Engpass, dann oeffne nur den passenden Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Wie teile ich Affiliate-Links, ohne spammy zu wirken?",
+      "audience": "Creator und Coaches",
+      "intent": "Vertrauen",
+      "label": "Affiliate wirkt spammy",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-wirkt-spammy/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Erklaere, fuer wen es passt, fuer wen nicht, und markiere den Affiliate-Hinweis sichtbar.",
+      "reframe": "Affiliate wirkt spammy, wenn der Link vor dem Kontext kommt. Mit Fit, Nicht-Fit und offenem Hinweis wird daraus eine nachvollziehbare Empfehlung.",
+      "copy": "Affiliate wirkt spammy\n\nWie teile ich Affiliate-Links, ohne spammy zu wirken?\n\nAffiliate wirkt spammy, wenn der Link vor dem Kontext kommt. Mit Fit, Nicht-Fit und offenem Hinweis wird daraus eine nachvollziehbare Empfehlung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-wirkt-spammy/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Was, wenn ich keine Zeit fuer Online-Business habe?",
+      "audience": "Beschaeftigte Starter",
+      "intent": "Digital Business",
+      "label": "Keine Zeit fuer Online-Business",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/keine-zeit-fuer-online-business/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "rule": "Zeitmangel wird mit kleiner Wiederholung geloest, nicht mit groesserem Plan.",
+      "reframe": "Dann brauchst du keinen grossen Launch, sondern einen 20-Minuten-Test: eine Frage beantworten, eine Reaktion messen, einen Pfad nachziehen.",
+      "copy": "Keine Zeit fuer Online-Business\n\nWas, wenn ich keine Zeit fuer Online-Business habe?\n\nDann brauchst du keinen grossen Launch, sondern einen 20-Minuten-Test: eine Frage beantworten, eine Reaktion messen, einen Pfad nachziehen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/keine-zeit-fuer-online-business/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Woher weiss ich, welches Angebot wirklich passt?",
+      "audience": "Unklare Leads",
+      "intent": "Fit",
+      "label": "Welches Angebot passt",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/welches-angebot-passt/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "rule": "Bei unklarem Intent immer erst sortieren, nicht verkaufen.",
+      "reframe": "Du musst nicht raten. Der Fit-Check sortiert nach GPT, Affiliate, Mindset, Digital Business und Exit/Lifestyle, bevor ein Angebot ins Spiel kommt.",
+      "copy": "Welches Angebot passt\n\nWoher weiss ich, welches Angebot wirklich passt?\n\nDu musst nicht raten. Der Fit-Check sortiert nach GPT, Affiliate, Mindset, Digital Business und Exit/Lifestyle, bevor ein Angebot ins Spiel kommt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/welches-angebot-passt/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Was, wenn ich Angst habe, etwas Falsches zu empfehlen?",
+      "audience": "Vertrauensbasierte Netzwerke",
+      "intent": "Vertrauen",
+      "label": "Angst vor falscher Empfehlung",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/angst-vor-falscher-empfehlung/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Keine Empfehlung ohne Nicht-Fit. Wer nicht passt, bekommt keinen Link.",
+      "reframe": "Die Sorge ist gesund. Nutze sie als Filter: nur empfehlen, wenn Problem, Timing und Nicht-Fit-Kriterien klar sind.",
+      "copy": "Angst vor falscher Empfehlung\n\nWas, wenn ich Angst habe, etwas Falsches zu empfehlen?\n\nDie Sorge ist gesund. Nutze sie als Filter: nur empfehlen, wenn Problem, Timing und Nicht-Fit-Kriterien klar sind.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/angst-vor-falscher-empfehlung/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Darf ich in Communities ueberhaupt einen Link posten?",
+      "audience": "Community-Mitglieder",
+      "intent": "Antwort",
+      "label": "Community Link erlaubt",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/community-link-erlaubt/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "rule": "Gruppenregeln lesen, direkt antworten, Link nur bei Nachfrage oder klarer Erlaubnis.",
+      "reframe": "Viele Communities erlauben Hilfe, aber keine plumpen Promos. Antworte zuerst inhaltlich und sende nur einen Link, wenn Regeln und Kontext es zulassen.",
+      "copy": "Community Link erlaubt\n\nDarf ich in Communities ueberhaupt einen Link posten?\n\nViele Communities erlauben Hilfe, aber keine plumpen Promos. Antworte zuerst inhaltlich und sende nur einen Link, wenn Regeln und Kontext es zulassen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/community-link-erlaubt/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Was, wenn sich Exit/Lifestyle zu gross anfuehlt?",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Plan zu gross",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/exit-plan-zu-gross/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Nicht den ganzen Exit verkaufen. Nur den naechsten realistischen Schritt klaeren.",
+      "reframe": "Dann ist der Wunsch wahrscheinlich zu weit vom naechsten Schritt entfernt. Reduziere Exit auf eine realistische Entscheidung: Zeit, Einkommen, Skills oder Ort.",
+      "copy": "Exit Plan zu gross\n\nWas, wenn sich Exit/Lifestyle zu gross anfuehlt?\n\nDann ist der Wunsch wahrscheinlich zu weit vom naechsten Schritt entfernt. Reduziere Exit auf eine realistische Entscheidung: Zeit, Einkommen, Skills oder Ort.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/exit-plan-zu-gross/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "objection": "Was, wenn Mindset-Content mich nicht mehr bewegt?",
+      "audience": "Umsetzer mit Ideenstau",
+      "intent": "Mindset",
+      "label": "Mindset bringt nichts",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/mindset-bringt-nichts/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "rule": "Motivation nur verwenden, wenn danach ein sichtbarer Abschluss passiert.",
+      "reframe": "Dann brauchst du wahrscheinlich keinen motivierenden Satz, sondern eine geschlossene Mini-Aktion. Mindset wird nuetzlich, wenn es Output ausloest.",
+      "copy": "Mindset bringt nichts\n\nWas, wenn Mindset-Content mich nicht mehr bewegt?\n\nDann brauchst du wahrscheinlich keinen motivierenden Satz, sondern eine geschlossene Mini-Aktion. Mindset wird nuetzlich, wenn es Output ausloest.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/mindset-bringt-nichts/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
