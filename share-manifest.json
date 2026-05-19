@@ -14,6 +14,7 @@
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
     "channelKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
+    "videoKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -156,6 +157,168 @@
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/",
       "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
       "copy": "Ich habe einen SERS Affiliate-Router mit Presell-Seiten, Antwort-Bank und Share-Manifest live. Wenn du ihn teilen willst, nutz bitte das Outreach Kit und bau dir pro Kanal einen sauberen Tracking-Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "videos": [
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "GPT",
+      "label": "GPT Tool-Chaos",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/gpt-tool-chaos/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "hook": "Du brauchst nicht 20 AI-Tools. Du brauchst eine erste klare Aufgabe.",
+      "caption": "GPT starten ohne Tool-Chaos: erst Aufgabe klaeren, dann den passenden naechsten Schritt waehlen.",
+      "cta": "Kommentiere GPT oder oeffne den Guide.",
+      "script": [
+        "Zeig kurz einen vollen Tool-Stack oder eine ueberladene Notiz.",
+        "Sag: Wenn GPT nicht hilft, ist meistens nicht GPT das Problem, sondern die Aufgabe ist zu unscharf.",
+        "Nenne einen einfachen Start: ein Ziel, ein Ergebnis, ein Beispiel.",
+        "Fuehre auf den GPT Guide, nicht direkt in einen Kauf."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Affiliate",
+      "label": "Affiliate ohne Link-Spam",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/affiliate-link-spam/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "hook": "Affiliate-Marketing scheitert selten am Link. Es scheitert am fehlenden Kontext.",
+      "caption": "So teilst du Affiliate-Links sauber: erst Bedarf, dann Permission, dann Link mit Affiliate-Hinweis.",
+      "cta": "Schick den Guide nur, wenn die Person wirklich Affiliate starten will.",
+      "script": [
+        "Starte mit einem nackten Link auf dem Bildschirm und streich ihn sichtbar durch.",
+        "Sag: Ein Link ist erst sinnvoll, wenn der Intent klar ist.",
+        "Zeig die Reihenfolge: Problem, Fit, Permission, Link mit Hinweis.",
+        "Fuehre auf den Affiliate Guide als saubere Einstiegsseite."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Realitaetscheck",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/exit-realitaet/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "hook": "Ortsunabhaengig klingt gut. Aber passt dein naechster Schritt schon dazu?",
+      "caption": "Exit/Lifestyle nicht romantisieren. Erst Realitaet pruefen, dann passenden naechsten Schritt waehlen.",
+      "cta": "Oeffne den Realitaetscheck, wenn Exit wirklich gerade Thema ist.",
+      "script": [
+        "Oeffne mit einer kurzen Frage: Freiheit oder nur Flucht?",
+        "Nenne drei Checks: Einkommen, Plan, Energie.",
+        "Sag: Wenn einer fehlt, brauchst du keinen Hype, sondern einen klaren Pfad.",
+        "Fuehre auf den Exit/Lifestyle Realitaetscheck."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Mindset",
+      "label": "Mindset Sammelfalle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/mindset-sammeln/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "hook": "Noch ein Mindset-Video hilft nicht, wenn du danach nichts bewegst.",
+      "caption": "Mindset ist kein Sammelordner. Nutze es, um eine echte kleine Aktion auszufuehren.",
+      "cta": "Oeffne den Mindset-Pfad, wenn du heute ins Tun kommen willst.",
+      "script": [
+        "Sag den Satz ruhig in die Kamera, ohne schnellen Schnitt.",
+        "Nenne den Unterschied: Input fuehlt sich produktiv an, Output beweist es.",
+        "Gib eine Mikro-Aktion: eine Nachricht, ein Angebot, ein Follow-up.",
+        "Fuehre auf den Mindset Guide fuer den naechsten kleinen Schritt."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Digital Business",
+      "label": "Digital Business Soft Start",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/digital-soft-start/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "hook": "Du musst nicht sofort ein grosses Business bauen. Du brauchst ein erstes klares Signal.",
+      "caption": "Digital Business kleiner starten: hilfreicher Einstieg, klares Signal, dann erst skalieren.",
+      "cta": "Nimm den Soft-Start, wenn du noch nicht hart verkaufen willst.",
+      "script": [
+        "Zeig eine kleine Liste: Thema, Person, Problem, naechster Schritt.",
+        "Sag: Der erste Umsatzpfad beginnt oft mit einer simplen hilfreichen Seite.",
+        "Nenne den Soft-Start: Frage beantworten, Link sauber setzen, Reaktion notieren.",
+        "Fuehre auf den Digital Business Guide."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Bio",
+      "label": "Bio Link Router",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/bio-link-router/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "hook": "Dein Bio-Link sollte nicht raten. Er sollte sortieren.",
+      "caption": "Ein guter Bio-Link sortiert Intent und fuehrt erst danach zum passenden Angebot.",
+      "cta": "Setz den Bio Hub in Profile, Signaturen oder warme Antworten.",
+      "script": [
+        "Zeig eine Bio mit nur einem unklaren Direktlink.",
+        "Sag: Wer neu ist, braucht erst Auswahl statt Druck.",
+        "Zeig die Intents: GPT, Affiliate, Mindset, Digital Business, Exit.",
+        "Fuehre auf den Bio Hub als einen Link fuer alle Einstiege."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Community",
+      "label": "Community ohne Spam",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/community-ohne-spam/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/was-in-community-antworten/",
+      "hook": "In Communities gewinnt nicht der schnellste Link, sondern die hilfreichste Antwort.",
+      "caption": "Community-Marketing bleibt nur sauber, wenn du erst hilfst und danach passend verlinkst.",
+      "cta": "Nutze die Antwortseite fuer echte Fragen, nicht fuer Massenkommentare.",
+      "script": [
+        "Starte mit: Antwort zuerst, Link zuletzt.",
+        "Nenne die Regel: Frage beantworten, Kontext pruefen, bei Fit eine Ressource senden.",
+        "Zeig Antwort-Bank oder Fit-Check als neutrale Einstiege.",
+        "Fuehre auf die Community-Antwort statt auf einen Direktlink."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Presell",
+      "label": "Fit vor Link",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/offer-fit-vor-link/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "hook": "Der beste Affiliate-Link ist manchmal der, den du noch nicht sendest.",
+      "caption": "Presell statt Druck: erst Fit klaeren, Nicht-Fit sichtbar machen, dann Link senden.",
+      "cta": "Oeffne den Presell Hub und waehle nur das passende Angebot.",
+      "script": [
+        "Sag: Wenn der Fit fehlt, verbrennt der Link Vertrauen.",
+        "Nenne Fit-Kriterien: Problem, Zeitpunkt, Budget, Bereitschaft.",
+        "Zeig die Presell-Seiten als kurze Zwischenstufe.",
+        "Fuehre auf den Offer Presell Hub."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "Distribution",
+      "label": "Kanalwahl statt Copy-Recycling",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/kanalwahl/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
+      "hook": "Der gleiche Text funktioniert nicht auf WhatsApp, LinkedIn und E-Mail.",
+      "caption": "Mehr Reichweite entsteht nicht durch Copy-Recycling, sondern durch kanalpassenden Kontext.",
+      "cta": "Oeffne das Channel Kit, bevor du denselben Text ueberall postest.",
+      "script": [
+        "Zeig drei Kanalnamen nebeneinander.",
+        "Sag: Kanal entscheidet ueber Ton, Link und Grenze.",
+        "Nenne Beispiele: LinkedIn Problem-Post, WhatsApp Permission, E-Mail Follow-up.",
+        "Fuehre auf das Channel Kit."
+      ]
+    },
+    {
+      "platform": "Reels/TikTok/Shorts",
+      "intent": "QR",
+      "label": "QR im Call",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/qr-call/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "hook": "Wenn jemand im Call fragt, schick nicht hektisch drei Links. Zeig einen QR.",
+      "caption": "QR ist nicht alt. QR ist ein ruhiger Einstieg, wenn der Kontext im Gespraech schon da ist.",
+      "cta": "Oeffne das QR Kit fuer Calls, Signaturen und Screenshares.",
+      "script": [
+        "Simuliere einen Call oder Screenshare.",
+        "Sag: Ein QR kann erst in den Fit-Check fuehren statt direkt in den Kauf.",
+        "Nenne Einsatzorte: Signatur, Notiz, Profilgrafik, Screenshare.",
+        "Fuehre auf das QR Kit."
+      ]
     }
   ],
   "answers": [
