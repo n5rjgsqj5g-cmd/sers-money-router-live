@@ -1,0 +1,68 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "SERS Organic Marketing Feed",
+  "home_page_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+  "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
+  "items": [
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "title": "SERS Organic Blitz",
+      "content_text": "Live-Verteiler fuer Market Now, Guides, Share Kit, QR Kit und Offer Wall."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "title": "SERS Market Now",
+      "content_text": "Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "title": "Exit/Lifestyle Realitaetscheck: Freiheit planen, ohne Wunschdenken",
+      "content_text": "Ein kurzer Entscheidungsrahmen fuer Menschen, die Richtung Exit, ortsunabhaengiges Arbeiten oder Lifestyle-Business denken und einen konkreten naechsten Schritt brauchen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "title": "GPT starten ohne Tool-Chaos: erst Use Case, dann Werkzeug",
+      "content_text": "Ein praktischer Einstieg fuer Menschen, die mit GPT produktiver werden wollen, aber sich in Tools, Prompts und Tutorials verlieren."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "title": "Affiliate Neustart: nicht der Link verkauft, sondern der passende Kontext",
+      "content_text": "Ein sauberer Affiliate-Pfad fuer warme Kontakte: Problem verstehen, Permission holen, passenden Link mit Hinweis senden."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "title": "Digital Business Soft Start: niedrige Einstiegshuerde statt harter Pitch",
+      "content_text": "Ein warmer Einstieg fuer Kontakte, die noch nicht kaufbereit sind, aber ein echtes Interesse an digitalen Geschaeftsmodellen zeigen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "title": "Mindset: Umsetzung statt noch eine Idee speichern",
+      "content_text": "Ein kurzer Pfad fuer Menschen, die genug Ideen haben, aber wieder in konkrete Umsetzung kommen muessen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
+      "title": "SERS Share Kit",
+      "content_text": "Sofort kopierbare Posts, DMs und Follow-ups fuer organische Verteilung."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "title": "SERS Bio Hub",
+      "content_text": "Ein Link fuer Profile, Bios und warme Antworten."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
+      "title": "SERS Offer Wall",
+      "content_text": "Kurze Affiliate-Links fuer passende Angebote nach Fit-Check und Kaufintent."
+    }
+  ]
+}
