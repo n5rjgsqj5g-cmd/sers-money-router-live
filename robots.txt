@@ -7,6 +7,7 @@ Allow: /audiences/
 Allow: /use-cases/
 Allow: /objections/
 Allow: /compare/
+Allow: /checklists/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
@@ -21,4 +22,5 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # Use case kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html
 # Objection kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html
 # Compare kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html
+# Checklist kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html
 # Offer presell hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html

@@ -19,6 +19,7 @@
     "useCaseKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
     "objectionKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
     "compareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
+    "checklistKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -779,6 +780,188 @@
       "rule": "Freiheitswunsch braucht Realitaetscheck, nicht nur Energie.",
       "decision": "Nimm den Exit Guide, wenn der Wunsch real werden soll. Motivation kann anschieben, aber ein Realitaetscheck klaert Zeit, Einkommen, Skills und naechste Entscheidung.",
       "copy": "Exit Guide vs Motivation\n\nBrauche ich fuer Exit/Lifestyle Motivation oder einen Realitaetscheck?\n\nGewinner: Exit Guide\n\nNimm den Exit Guide, wenn der Wunsch real werden soll. Motivation kann anschieben, aber ein Realitaetscheck klaert Zeit, Einkommen, Skills und naechste Entscheidung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "checklists": [
+    {
+      "question": "Bin ich bereit, GPT praktisch statt nur als Hype zu nutzen?",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "label": "GPT Starter Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/gpt-starter-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "Wenn drei Punkte klar sind, oeffne den GPT Guide. Wenn nicht, erst Use Case schaerfen.",
+      "promise": "Diese Checkliste prueft, ob ein klarer Use Case, ein kleiner Workflow und ein naechster Schritt da sind.",
+      "checks": [
+        "Ich habe eine konkrete Aufgabe",
+        "Ich kenne das gewuenschte Ergebnis",
+        "Ich will heute testen, nicht nur recherchieren",
+        "Ich brauche keine weitere Tool-Liste",
+        "Ich kann 20 Minuten investieren"
+      ],
+      "copy": "GPT Starter Checkliste\n\nBin ich bereit, GPT praktisch statt nur als Hype zu nutzen?\n\nDiese Checkliste prueft, ob ein klarer Use Case, ein kleiner Workflow und ein naechster Schritt da sind.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/gpt-starter-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Darf ich diesen Affiliate-Link jetzt sauber senden?",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "label": "Affiliate Send Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/affiliate-send-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "Nur senden, wenn Kontext, Permission und Hinweis klar sind.",
+      "promise": "Diese Checkliste klaert Kontext, Permission, Fit und Hinweis, bevor ein Affiliate-Link rausgeht.",
+      "checks": [
+        "Die Person hat ein passendes Problem",
+        "Der Kontext ist warm oder erlaubt",
+        "Permission wurde eingeholt",
+        "Der Affiliate-Hinweis ist sichtbar",
+        "Ein Nicht-Fit waere okay"
+      ],
+      "copy": "Affiliate Send Checkliste\n\nDarf ich diesen Affiliate-Link jetzt sauber senden?\n\nDiese Checkliste klaert Kontext, Permission, Fit und Hinweis, bevor ein Affiliate-Link rausgeht.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/affiliate-send-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Soll ich eine Presell-Seite oder direkt das Angebot zeigen?",
+      "audience": "Warme Kontakte",
+      "intent": "Presell",
+      "label": "Presell Fit Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Bei Unsicherheit erst Presell. Direktlink nur bei klarem Fit.",
+      "promise": "Diese Checkliste zeigt, ob genug Vertrauen und Kaufintent fuer den naechsten Schritt da sind.",
+      "checks": [
+        "Das Problem ist konkret",
+        "Das Timing passt",
+        "Die Person versteht den Nutzen",
+        "Nicht-Fit-Kriterien sind sichtbar",
+        "Der naechste Klick ist freiwillig"
+      ],
+      "copy": "Presell Fit Checkliste\n\nSoll ich eine Presell-Seite oder direkt das Angebot zeigen?\n\nDiese Checkliste zeigt, ob genug Vertrauen und Kaufintent fuer den naechsten Schritt da sind.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist mein Bio-Link klar genug, um Besucher richtig zu sortieren?",
+      "audience": "Solopreneure",
+      "intent": "Bio",
+      "label": "Bio Link Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/bio-link-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "rule": "Mehrere Intents brauchen einen Hub. Ein einzelner Link braucht einen eindeutigen Fokus.",
+      "promise": "Diese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt.",
+      "checks": [
+        "Besucher sehen sofort den naechsten Schritt",
+        "Mehrere Intents werden sortiert",
+        "Der Affiliate-Hinweis ist auffindbar",
+        "Der Link ist kurz genug fuer Profile",
+        "Der Hauptpfad ist messbar"
+      ],
+      "copy": "Bio Link Checkliste\n\nIst mein Bio-Link klar genug, um Besucher richtig zu sortieren?\n\nDiese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/bio-link-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist meine Community-Antwort hilfreich genug, bevor ich einen Link teile?",
+      "audience": "Community",
+      "intent": "Antwort",
+      "label": "Community Antwort Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/community-antwort-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "rule": "Erst Frage beantworten, dann Link nur bei Nutzen und Erlaubnis.",
+      "promise": "Diese Checkliste verhindert Link-Spam und hilft, erst nuetzlich zu antworten.",
+      "checks": [
+        "Ich habe die Gruppenregel geprueft",
+        "Meine Antwort funktioniert auch ohne Link",
+        "Der Link loest die konkrete Frage",
+        "Der Hinweis ist sichtbar",
+        "Ich poste nicht massenhaft"
+      ],
+      "copy": "Community Antwort Checkliste\n\nIst meine Community-Antwort hilfreich genug, bevor ich einen Link teile?\n\nDiese Checkliste verhindert Link-Spam und hilft, erst nuetzlich zu antworten.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/community-antwort-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist mein kurzes Video bereit, einen Link sinnvoll zu tragen?",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "label": "Shortform Video Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/shortform-video-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "rule": "Video zuerst als Hilfe bauen, CTA danach leicht halten.",
+      "promise": "Diese Checkliste prueft Hook, Problem, 30-Sekunden-Struktur, Caption und CTA.",
+      "checks": [
+        "Der Hook nennt ein echtes Problem",
+        "Das Video ist in 30 Sekunden erklaerbar",
+        "Ein Beispiel macht es konkret",
+        "Die Caption enthaelt den Hinweis",
+        "Der CTA fuehrt auf eine passende Seite"
+      ],
+      "copy": "Shortform Video Checkliste\n\nIst mein kurzes Video bereit, einen Link sinnvoll zu tragen?\n\nDiese Checkliste prueft Hook, Problem, 30-Sekunden-Struktur, Caption und CTA.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/shortform-video-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Spreche ich die richtige Zielgruppe an oder poste ich zu allgemein?",
+      "audience": "Creator und Coaches",
+      "intent": "Zielgruppe",
+      "label": "Audience Targeting Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/audience-targeting-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+      "rule": "Sobald die Zielgruppe klar ist, wird der Send spezifisch.",
+      "promise": "Diese Checkliste macht Zielgruppe, Problem, Sprache und passenden Pfad klar.",
+      "checks": [
+        "Ich kenne die Zielgruppe",
+        "Ich kenne ihr aktuelles Problem",
+        "Der Text klingt nach dieser Person",
+        "Der Pfad passt zum Segment",
+        "Ich vermeide generische Claims"
+      ],
+      "copy": "Audience Targeting Checkliste\n\nSpreche ich die richtige Zielgruppe an oder poste ich zu allgemein?\n\nDiese Checkliste macht Zielgruppe, Problem, Sprache und passenden Pfad klar.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/audience-targeting-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist mein Exit/Lifestyle-Wunsch bereit fuer einen realistischen naechsten Schritt?",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Lifestyle Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/exit-lifestyle-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Freiheitswunsch erst in Realitaet uebersetzen, dann passenden Pfad oeffnen.",
+      "promise": "Diese Checkliste klaert Zeit, Einkommen, Skills, Ort und naechste Entscheidung.",
+      "checks": [
+        "Ich kenne meinen groessten Engpass",
+        "Ich weiss, ob Zeit oder Einkommen fehlt",
+        "Ich habe einen kleinen naechsten Schritt",
+        "Ich romantisiere den Exit nicht",
+        "Ich kann eine Entscheidung heute treffen"
+      ],
+      "copy": "Exit Lifestyle Checkliste\n\nIst mein Exit/Lifestyle-Wunsch bereit fuer einen realistischen naechsten Schritt?\n\nDiese Checkliste klaert Zeit, Einkommen, Skills, Ort und naechste Entscheidung.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/exit-lifestyle-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Kann ich nachfassen, ohne Druck aufzubauen?",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "label": "Follow-up Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/follow-up-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "rule": "Nachfassen darf erinnern, aber nicht druecken.",
+      "promise": "Diese Checkliste hilft, warme Follow-ups respektvoll, passend und mit klarem Link zu senden.",
+      "checks": [
+        "Es gab vorher Interesse oder Permission",
+        "Der Follow-up ist kurz",
+        "Kein Druck oder falsche Dringlichkeit",
+        "Der passende Pfad ist klar",
+        "Der Hinweis ist enthalten"
+      ],
+      "copy": "Follow-up Checkliste\n\nKann ich nachfassen, ohne Druck aufzubauen?\n\nDiese Checkliste hilft, warme Follow-ups respektvoll, passend und mit klarem Link zu senden.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/follow-up-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist mein QR-Code als Offline- oder Call-Einstieg sinnvoll?",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "label": "QR Offline Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/qr-offline-checkliste/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "rule": "QR ist Einstieg in Sortierung, nicht Ersatz fuer Kontext.",
+      "promise": "Diese Checkliste prueft, ob der QR-Code sortiert, erklaert und nicht blind in einen Kauf fuehrt.",
+      "checks": [
+        "Der QR-Zweck ist klar",
+        "Der Code fuehrt nicht blind zum Kauf",
+        "Fit-Check oder Hub ist sichtbar",
+        "Der Hinweis ist auffindbar",
+        "Ich kann im Gespraech Kontext geben"
+      ],
+      "copy": "QR Offline Checkliste\n\nIst mein QR-Code als Offline- oder Call-Einstieg sinnvoll?\n\nDiese Checkliste prueft, ob der QR-Code sortiert, erklaert und nicht blind in einen Kauf fuehrt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/qr-offline-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [

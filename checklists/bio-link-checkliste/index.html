@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Bio Link Checkliste: Diese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt." />
+    <meta property="og:title" content="SERS Checklist: Bio Link Checkliste" />
+    <meta property="og:description" content="Bio Link Checkliste: Diese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-card.svg" />
+    <meta property="og:image:type" content="image/svg+xml" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-card.svg" />
+    <link rel="alternate" type="application/rss+xml" title="SERS Organic Marketing Feed" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.xml" />
+    <link rel="alternate" type="application/feed+json" title="SERS Organic Marketing Feed" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json" />
+    <link rel="icon" type="image/svg+xml" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/app-icon.svg" />
+    <title>SERS Checklist: Bio Link Checkliste</title>
+    <style>
+      :root { color-scheme: light; --ink:#17212b; --muted:#526170; --line:#cbd5df; --paper:#f8fafc; --panel:#ffffff; --green:#0f766e; --green-dark:#115e59; }
+      * { box-sizing: border-box; }
+      body { margin:0; background:var(--paper); color:var(--ink); font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height:1.52; }
+      main { max-width:1120px; margin:0 auto; padding:30px 18px 44px; }
+      .bar { border-bottom:1px solid var(--line); display:flex; justify-content:space-between; gap:14px; padding-bottom:18px; }
+      .bar strong, .card strong { display:block; }
+      .bar span, p, small { color:var(--muted); }
+      .hero { display:grid; grid-template-columns:minmax(0,1fr) minmax(280px,360px); gap:28px; padding:38px 0 24px; }
+      h1 { margin:0; max-width:820px; font-size:clamp(2rem,4vw,4rem); letter-spacing:0; line-height:1.03; }
+      .lead { max-width:720px; font-size:1.08rem; margin:18px 0 0; }
+      .panel, .card, .notice { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:18px; }
+      .panel { display:grid; gap:10px; }
+      .metric { display:flex; justify-content:space-between; gap:16px; }
+      .metric b { color:var(--green-dark); }
+      .grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; }
+      .grid-3 { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; }
+      .intent-grid { display:grid; grid-template-columns:repeat(5,minmax(0,1fr)); gap:10px; }
+      .section-heading { align-items:center; display:flex; gap:14px; justify-content:space-between; margin:10px 0 12px; }
+      .section-heading h2 { font-size:1.15rem; margin:0; }
+      .section-heading span { color:var(--muted); display:block; font-size:.92rem; margin-top:4px; }
+      .send-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
+      .tracker-grid { display:grid; gap:12px; grid-template-columns:repeat(5,minmax(0,1fr)); margin-bottom:20px; }
+      .tracker-card { align-content:start; }
+      .tracker-card label { align-items:center; display:grid; gap:8px; grid-template-columns:auto minmax(0,1fr); font-weight:700; }
+      .tracker-card input[type="checkbox"] { min-height:auto; width:auto; }
+      .score-pill { background:#eef8f1; border:1px solid #9bc8ab; border-radius:999px; color:var(--green-dark); font-weight:900; padding:8px 12px; white-space:nowrap; }
+      .decision-pill { align-items:center; border-radius:999px; display:inline-flex; font-weight:900; min-height:42px; padding:8px 12px; width:max-content; }
+      .decision-pill.keep { background:#ecfdf5; border:1px solid #86efac; color:#166534; }
+      .decision-pill.test { background:#fffbeb; border:1px solid #fbbf24; color:#92400e; }
+      .decision-pill.pause { background:#fff1f2; border:1px solid #fda4af; color:#9f1239; }
+      .decision-pill.wait { background:#eef2f7; border:1px solid var(--line); color:var(--muted); }
+      .scale-card.done { background:#ecfdf5; border-color:#86efac; }
+      .scale-card.done strong::after { color:#166534; content:" erledigt"; font-size:.82rem; margin-left:6px; }
+      .classifier-result { background:#f1f8ff; border-color:#9fc5e8; }
+      .classifier-result strong { color:#1f5c85; }
+      .qr-img { aspect-ratio:1; background:#fff; border:1px solid var(--line); border-radius:8px; max-width:220px; padding:10px; width:100%; }
+      .print-note { color:var(--muted); font-size:.92rem; }
+      .card { display:grid; gap:10px; }
+      label { display:grid; gap:6px; font-weight:800; }
+      input, select, textarea { border:1px solid var(--line); border-radius:8px; color:var(--ink); font:inherit; min-height:42px; padding:10px 12px; width:100%; }
+      textarea { min-height:92px; resize:vertical; }
+      table { border-collapse:collapse; width:100%; }
+      th, td { border-bottom:1px solid var(--line); padding:10px 8px; text-align:left; vertical-align:top; }
+      th { color:var(--muted); font-size:.86rem; }
+      code, .linkbox { background:#eef2f7; border-radius:8px; color:var(--ink); display:block; overflow-wrap:anywhere; padding:10px; }
+      .actions { display:flex; flex-wrap:wrap; gap:8px; }
+      a, button { align-items:center; border:1px solid var(--line); border-radius:8px; color:var(--ink); cursor:pointer; display:inline-flex; font:inherit; font-weight:800; justify-content:center; min-height:42px; padding:10px 12px; text-decoration:none; }
+      a.primary, button.primary, button { background:var(--green); border-color:var(--green); color:#fff; }
+      a:hover, a:focus-visible, button:hover, button:focus-visible { outline:none; border-color:var(--green); }
+      a.primary:hover, button:hover { background:var(--green-dark); }
+      .notice { background:#fffbeb; border-color:#fbbf24; margin-top:18px; }
+      @media (max-width: 980px) { .grid, .grid-3, .send-grid, .tracker-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+      @media (max-width: 760px) { .hero, .grid, .grid-3, .intent-grid, .send-grid, .tracker-grid { grid-template-columns:1fr; } .section-heading { align-items:stretch; flex-direction:column; } table { display:block; overflow-x:auto; } }
+    </style>
+  </head>
+  <body><main>
+          <header class="bar"><div><strong>SERS Checklist</strong><span>Bio Link Checkliste</span></div><span>Bio</span></header>
+          <section class="hero"><div><h1>Ist mein Bio-Link klar genug, um Besucher richtig zu sortieren?</h1><p class="lead">Diese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt.</p><div class="actions"><a class="primary" href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html">Passenden Pfad oeffnen</a><button type="button" data-copy="Bio%20Link%20Checkliste%0A%0AIst%20mein%20Bio-Link%20klar%20genug%2C%20um%20Besucher%20richtig%20zu%20sortieren%3F%0A%0ADiese%20Checkliste%20prueft%2C%20ob%20dein%20Profil-Link%20verschiedene%20Intents%20sauber%20auffaengt.%0A%0ABereit-Regel%3A%20Mehrere%20Intents%20brauchen%20einen%20Hub.%20Ein%20einzelner%20Link%20braucht%20einen%20eindeutigen%20Fokus.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Checklist-Copy kopieren</button><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html">Checklist Kit</a><a href="https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html">Organic Blitz</a></div></div><aside class="panel"><div class="metric"><span>Audience</span><b>Solopreneure</b></div><div class="metric"><span>Intent</span><b>Bio</b></div><div class="metric"><span>Auto-Sends</span><b>0</b></div></aside></section>
+          <section class="hero"><article class="card"><strong>Bereit-Regel</strong><p>Mehrere Intents brauchen einen Hub. Ein einzelner Link braucht einen eindeutigen Fokus.</p><strong>Checkliste</strong><ul><li>Besucher sehen sofort den naechsten Schritt</li><li>Mehrere Intents werden sortiert</li><li>Der Affiliate-Hinweis ist auffindbar</li><li>Der Link ist kurz genug fuer Profile</li><li>Der Hauptpfad ist messbar</li></ul></article><aside class="card"><strong>Sendetext</strong><p>Bio Link Checkliste<br><br>Ist mein Bio-Link klar genug, um Besucher richtig zu sortieren?<br><br>Diese Checkliste prueft, ob dein Profil-Link verschiedene Intents sauber auffaengt.<br><br>Bereit-Regel: Mehrere Intents brauchen einen Hub. Ein einzelner Link braucht einen eindeutigen Fokus.<br><br>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/bio-link-checkliste/<br><br>Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.</p><div class="actions"><button type="button" data-copy="Bio%20Link%20Checkliste%0A%0AIst%20mein%20Bio-Link%20klar%20genug%2C%20um%20Besucher%20richtig%20zu%20sortieren%3F%0A%0ADiese%20Checkliste%20prueft%2C%20ob%20dein%20Profil-Link%20verschiedene%20Intents%20sauber%20auffaengt.%0A%0ABereit-Regel%3A%20Mehrere%20Intents%20brauchen%20einen%20Hub.%20Ein%20einzelner%20Link%20braucht%20einen%20eindeutigen%20Fokus.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">Copy</button></div></aside></section>
+          <section class="grid-3"><article class="card"><span>Check 1</span><strong>Besucher sehen sofort den naechsten Schritt</strong><p>Wenn dieser Punkt offen ist, erst klaeren und dann den Link senden.</p></article><article class="card"><span>Check 2</span><strong>Mehrere Intents werden sortiert</strong><p>Wenn dieser Punkt offen ist, erst klaeren und dann den Link senden.</p></article><article class="card"><span>Check 3</span><strong>Der Affiliate-Hinweis ist auffindbar</strong><p>Wenn dieser Punkt offen ist, erst klaeren und dann den Link senden.</p></article><article class="card"><span>Check 4</span><strong>Der Link ist kurz genug fuer Profile</strong><p>Wenn dieser Punkt offen ist, erst klaeren und dann den Link senden.</p></article><article class="card"><span>Check 5</span><strong>Der Hauptpfad ist messbar</strong><p>Wenn dieser Punkt offen ist, erst klaeren und dann den Link senden.</p></article></section>
+          <section class="hero"><article class="card"><strong>Share-Dialoge</strong><p>Oeffnet nur den Dialog. Kein automatisches Senden.</p><div class="actions"><a class="primary" href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F">LinkedIn</a><a href="https://twitter.com/intent/tweet?text=Bio%20Link%20Checkliste%0A%0AIst%20mein%20Bio-Link%20klar%20genug%2C%20um%20Besucher%20richtig%20zu%20sortieren%3F%0A%0ADiese%20Checkliste%20prueft%2C%20ob%20dein%20Profil-Link%20verschiedene%20Intents%20sauber%20auffaengt.%0A%0ABereit-Regel%3A%20Mehrere%20Intents%20brauchen%20einen%20Hub.%20Ein%20einzelner%20Link%20braucht%20einen%20eindeutigen%20Fokus.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">X</a><a href="https://wa.me/?text=Bio%20Link%20Checkliste%0A%0AIst%20mein%20Bio-Link%20klar%20genug%2C%20um%20Besucher%20richtig%20zu%20sortieren%3F%0A%0ADiese%20Checkliste%20prueft%2C%20ob%20dein%20Profil-Link%20verschiedene%20Intents%20sauber%20auffaengt.%0A%0ABereit-Regel%3A%20Mehrere%20Intents%20brauchen%20einen%20Hub.%20Ein%20einzelner%20Link%20braucht%20einen%20eindeutigen%20Fokus.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">WhatsApp</a><a href="mailto:?subject=SERS%20Checklist%3A%20Bio%20Link%20Checkliste&body=Bio%20Link%20Checkliste%0A%0AIst%20mein%20Bio-Link%20klar%20genug%2C%20um%20Besucher%20richtig%20zu%20sortieren%3F%0A%0ADiese%20Checkliste%20prueft%2C%20ob%20dein%20Profil-Link%20verschiedene%20Intents%20sauber%20auffaengt.%0A%0ABereit-Regel%3A%20Mehrere%20Intents%20brauchen%20einen%20Hub.%20Ein%20einzelner%20Link%20braucht%20einen%20eindeutigen%20Fokus.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fbio-link-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.">E-Mail</a></div></article><aside class="card"><strong>Hauptpfad</strong><code>https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html</code></aside></section>
+          <section class="notice"><strong>Werbung/Affiliate-Hinweis</strong><p>Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.</p><p>Nur teilen, wenn die Checkliste zum Kontext passt. Bei Unklarheit zuerst Fit-Check nutzen.</p></section>
+        </main><script>
+document.querySelectorAll("[data-copy]").forEach((button) => {
+  const label = button.textContent;
+  button.addEventListener("click", async () => {
+    await navigator.clipboard.writeText(decodeURIComponent(button.dataset.copy));
+    button.textContent = "Kopiert";
+    setTimeout(() => { button.textContent = label; }, 1400);
+  });
+});
+</script></body>
+</html>
