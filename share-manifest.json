@@ -15,6 +15,7 @@
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
     "channelKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
     "videoKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+    "audienceKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -319,6 +320,96 @@
         "Nenne Einsatzorte: Signatur, Notiz, Profilgrafik, Screenshare.",
         "Fuehre auf das QR Kit."
       ]
+    }
+  ],
+  "audiences": [
+    {
+      "audience": "Freelancer",
+      "intent": "GPT",
+      "label": "Mehr Output ohne Tool-Chaos",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "Freelancer brauchen Zeitgewinn und klare Workflows, nicht noch eine Tool-Liste.",
+      "problem": "Viele Freelancer verlieren Zeit in Angeboten, Recherche, Content und Kundenkommunikation.",
+      "promise": "Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.",
+      "copy": "Wenn du als Freelancer GPT nutzen willst, starte nicht mit 20 Tools. Starte mit einem wiederkehrenden Workflow und einem klaren Ergebnis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Creator",
+      "intent": "Distribution",
+      "label": "Content aus Links bauen",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "rule": "Creator brauchen Hooks, Scripts und klare CTAs, nicht nackte Affiliate-Links.",
+      "problem": "Affiliate-Links wirken schnell plump, wenn kein Content-Kontext davorsteht.",
+      "promise": "Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.",
+      "copy": "Wenn du Creator bist, bau zuerst ein kurzes hilfreiches Video. Der Link kommt danach als naechster Schritt mit Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Coaches und Berater",
+      "intent": "Presell",
+      "label": "Empfehlungen ohne Vertrauensbruch",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Coaches sollten Empfehlungen nur nach Fit geben und Nicht-Fit sichtbar machen.",
+      "problem": "Eine Empfehlung kann Vertrauen kosten, wenn sie zu frueh oder zu breit kommt.",
+      "promise": "Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.",
+      "copy": "Wenn du Kunden oder Kontakte etwas empfiehlst, pruefe zuerst den Fit. Dann wird aus einem Affiliate-Link eine saubere Ressource.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Side-Hustler",
+      "intent": "Affiliate",
+      "label": "Erster Umsatzpfad ohne Spam",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/side-hustler/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "Side-Hustler brauchen einen kleinen sauberen Pfad, nicht Massenlinks.",
+      "problem": "Der erste Affiliate-Versuch scheitert oft an zu viel Druck und zu wenig Kontext.",
+      "promise": "Der Affiliate Guide zeigt Kontext, Permission, Hinweis und passenden Link in der richtigen Reihenfolge.",
+      "copy": "Wenn du nebenbei Affiliate starten willst, ist der erste Job nicht posten. Der erste Job ist ein klarer Intent.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/side-hustler/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Job-Wechsler",
+      "intent": "Digital Business",
+      "label": "Digital testen ohne alles zu kuendigen",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/jobwechsel/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "rule": "Job-Wechsler brauchen risikoarme Tests, bevor sie grosse Entscheidungen treffen.",
+      "problem": "Der Wunsch nach online Einkommen ist da, aber ein harter Sprung ist oft zu gross.",
+      "promise": "Der Soft-Start fuehrt in einen kleinen digitalen Testpfad mit messbarem Signal.",
+      "copy": "Wenn du beruflich wechseln willst, teste erst ein kleines digitales Signal. Nicht alles muss sofort gross sein.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/jobwechsel/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Digitale Nomaden",
+      "intent": "Exit/Lifestyle",
+      "label": "Freiheit mit Realitaetscheck",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/digital-nomads/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Exit/Lifestyle braucht Plan, Einkommen und Energie, nicht nur Inspiration.",
+      "problem": "Viele sammeln Lifestyle-Ideen, aber der echte naechste Schritt bleibt unscharf.",
+      "promise": "Der Exit Realitaetscheck klaert, ob gerade Zeit, Einkommen, Skills oder Klarheit fehlt.",
+      "copy": "Wenn ortsunabhaengiges Arbeiten gerade Thema ist, pruefe erst die Realitaet. Danach passt der naechste Schritt besser.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/digital-nomads/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Solopreneure",
+      "intent": "Bio",
+      "label": "Ein Link fuer mehrere Kaufintents",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/solopreneure/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "rule": "Solopreneure brauchen einen Router, der Intents sortiert und nicht Besucher raet.",
+      "problem": "Ein einzelner Direktlink verfehlt oft die Person, die eigentlich einen anderen Einstieg braucht.",
+      "promise": "Der Bio Hub sortiert GPT, Affiliate, Mindset, Digital Business und Exit vor dem Angebot.",
+      "copy": "Wenn du allein verkaufst, lass deinen Bio-Link sortieren. Ein guter Router bringt mehr Kontext vor den Kauf.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/solopreneure/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "audience": "Umsetzer mit Ideenstau",
+      "intent": "Mindset",
+      "label": "Von Sammlung in Bewegung",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/umsetzer/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "rule": "Umsetzer brauchen eine kleine sichtbare Aktion, nicht noch mehr gespeicherte Ideen.",
+      "problem": "Zu viele gespeicherte Tipps erzeugen das Gefuehl von Fortschritt, aber keinen Output.",
+      "promise": "Der Mindset-Pfad fuehrt in einen kleinen Abschluss und danach zum naechsten passenden Link.",
+      "copy": "Wenn du mehr speicherst als umsetzt, brauchst du heute keinen neuen Tipp. Du brauchst einen kleinen Abschluss.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/umsetzer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
