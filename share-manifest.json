@@ -20,6 +20,7 @@
     "objectionKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
     "compareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
     "checklistKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
+    "scoreKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -962,6 +963,188 @@
         "Ich kann im Gespraech Kontext geben"
       ],
       "copy": "QR Offline Checkliste\n\nIst mein QR-Code als Offline- oder Call-Einstieg sinnvoll?\n\nDiese Checkliste prueft, ob der QR-Code sortiert, erklaert und nicht blind in einen Kauf fuehrt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/qr-offline-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "scores": [
+    {
+      "question": "Wie bereit bin ich, GPT in Arbeit statt nur Recherche zu nutzen?",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "label": "GPT Einsatz Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/gpt-einsatz-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "3 von 5 klaren Signalen reichen fuer den GPT Guide. Unter 3 erst Use Case schaerfen.",
+      "promise": "Dieser Score macht sichtbar, ob GPT heute eine konkrete Aufgabe verbessern kann oder ob erst der Use Case enger werden muss.",
+      "signals": [
+        "Aufgabe konkret",
+        "Ergebnis sichtbar",
+        "Wiederholung vorhanden",
+        "20 Minuten Testzeit",
+        "Kein neues Tool noetig"
+      ],
+      "copy": "GPT Einsatz Score\n\nWie bereit bin ich, GPT in Arbeit statt nur Recherche zu nutzen?\n\nDieser Score macht sichtbar, ob GPT heute eine konkrete Aufgabe verbessern kann oder ob erst der Use Case enger werden muss.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/gpt-einsatz-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie sauber ist dieser Affiliate-Send gerade?",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "label": "Affiliate Send Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/affiliate-send-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "Sende nur bei 4 von 5 Signalen: Problem, Kontext, Permission, Fit und Hinweis.",
+      "promise": "Dieser Score prueft, ob ein Linksend hilfreich, erlaubt und transparent genug ist.",
+      "signals": [
+        "Problem passt",
+        "Kontext warm",
+        "Permission klar",
+        "Fit nachvollziehbar",
+        "Hinweis sichtbar"
+      ],
+      "copy": "Affiliate Send Score\n\nWie sauber ist dieser Affiliate-Send gerade?\n\nDieser Score prueft, ob ein Linksend hilfreich, erlaubt und transparent genug ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/affiliate-send-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Braucht dieser Kontakt erst Vertrauen, bevor ein Offer-Link Sinn macht?",
+      "audience": "Warme Kontakte",
+      "intent": "Presell",
+      "label": "Presell Trust Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Unter 4 Trust-Signalen zuerst Presell. Direktlink nur bei klarem Fit und Kaufintent.",
+      "promise": "Dieser Score entscheidet, ob eine Presell-Seite besser ist als ein nackter Direktlink.",
+      "signals": [
+        "Problem benannt",
+        "Timing passt",
+        "Nutzen verstanden",
+        "Nicht-Fit erlaubt",
+        "Kaufintent sichtbar"
+      ],
+      "copy": "Presell Trust Score\n\nBraucht dieser Kontakt erst Vertrauen, bevor ein Offer-Link Sinn macht?\n\nDieser Score entscheidet, ob eine Presell-Seite besser ist als ein nackter Direktlink.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Sortiert mein Bio-Link Besucher wirklich oder verliert er sie?",
+      "audience": "Solopreneure",
+      "intent": "Bio",
+      "label": "Bio Router Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/bio-router-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "rule": "Ab 3 Segment-Signalen Bio Hub nutzen. Bei 1 bis 2 Signalen einen einzigen Fokus-Link setzen.",
+      "promise": "Dieser Score zeigt, ob ein Profil-Link mehrere Intents auffaengt oder zu allgemein bleibt.",
+      "signals": [
+        "Mehrere Intents",
+        "Hauptproblem sichtbar",
+        "Hinweis auffindbar",
+        "Link kurz genug",
+        "Pfad messbar"
+      ],
+      "copy": "Bio Router Score\n\nSortiert mein Bio-Link Besucher wirklich oder verliert er sie?\n\nDieser Score zeigt, ob ein Profil-Link mehrere Intents auffaengt oder zu allgemein bleibt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/bio-router-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Hilft meine Antwort genug, bevor ich einen Link erwaehne?",
+      "audience": "Community",
+      "intent": "Antwort",
+      "label": "Community Help Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/community-help-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "rule": "Erst bei 4 Hilfesignalen Linkpfad erwaehnen. Sonst nur antworten und Rueckfrage stellen.",
+      "promise": "Dieser Score schuetzt vor Link-Spam und macht die Antwort zuerst nuetzlich.",
+      "signals": [
+        "Regel geprueft",
+        "Antwort funktioniert ohne Link",
+        "Frage exakt getroffen",
+        "Hinweis sichtbar",
+        "Kein Massenpost"
+      ],
+      "copy": "Community Help Score\n\nHilft meine Antwort genug, bevor ich einen Link erwaehne?\n\nDieser Score schuetzt vor Link-Spam und macht die Antwort zuerst nuetzlich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/community-help-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Traegt mein kurzes Video einen Link oder braucht es erst mehr Kontext?",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "label": "Shortform CTA Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/shortform-cta-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "rule": "Ab 4 Signalen CTA setzen. Unter 4 erst Hook oder Beispiel schaerfen.",
+      "promise": "Dieser Score klaert Hook, Beispiel, Caption und CTA, bevor Video-Traffic auf den Link geht.",
+      "signals": [
+        "Hook nennt Problem",
+        "Beispiel konkret",
+        "30 Sekunden machbar",
+        "Caption erklaert Fit",
+        "CTA fuehrt passend"
+      ],
+      "copy": "Shortform CTA Score\n\nTraegt mein kurzes Video einen Link oder braucht es erst mehr Kontext?\n\nDieser Score klaert Hook, Beispiel, Caption und CTA, bevor Video-Traffic auf den Link geht.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/shortform-cta-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Spreche ich eine echte Zielgruppe an oder nur ein breites Thema?",
+      "audience": "Creator und Coaches",
+      "intent": "Zielgruppe",
+      "label": "Audience Fit Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/audience-fit-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+      "rule": "Bei 3 von 5 Segment-Signalen Zielgruppen-Seite nutzen. Darunter erst enger formulieren.",
+      "promise": "Dieser Score macht Sprache, Problem, Segment und Pfad spezifisch genug fuer organische Sends.",
+      "signals": [
+        "Segment benannt",
+        "Problem akut",
+        "Sprache passt",
+        "Pfad segmentiert",
+        "Kein generischer Claim"
+      ],
+      "copy": "Audience Fit Score\n\nSpreche ich eine echte Zielgruppe an oder nur ein breites Thema?\n\nDieser Score macht Sprache, Problem, Segment und Pfad spezifisch genug fuer organische Sends.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/audience-fit-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist mein Exit/Lifestyle-Wunsch konkret genug fuer den naechsten Schritt?",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Reality Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/exit-reality-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Ab 3 Realitaets-Signalen Exit Guide oeffnen. Unter 3 erst Engpass und Zeitfenster klaeren.",
+      "promise": "Dieser Score trennt Freiheitswunsch von einem realistischen naechsten Schritt.",
+      "signals": [
+        "Engpass bekannt",
+        "Zeitfenster real",
+        "Einkommensfrage klar",
+        "Skill-Luecke sichtbar",
+        "Naechste Entscheidung klein"
+      ],
+      "copy": "Exit Reality Score\n\nIst mein Exit/Lifestyle-Wunsch konkret genug fuer den naechsten Schritt?\n\nDieser Score trennt Freiheitswunsch von einem realistischen naechsten Schritt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/exit-reality-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Ist dieser Follow-up warm genug oder fuehlt er sich nach Druck an?",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "label": "Follow-up Heat Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/follow-up-heat-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "rule": "Bei 4 Waerme-Signalen kurz nachfassen. Unter 4 lieber warten oder Mehrwert senden.",
+      "promise": "Dieser Score macht klar, ob Nachfassen hilfreich oder zu frueh ist.",
+      "signals": [
+        "Interesse vorher",
+        "Permission vorhanden",
+        "Timing fair",
+        "Pfad klar",
+        "Druckfrei formuliert"
+      ],
+      "copy": "Follow-up Heat Score\n\nIst dieser Follow-up warm genug oder fuehlt er sich nach Druck an?\n\nDieser Score macht klar, ob Nachfassen hilfreich oder zu frueh ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/follow-up-heat-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Fuehrt mein QR-Code in Kontext oder nur blind auf einen Kaufpfad?",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "label": "QR Context Score",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/qr-context-score/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "rule": "Ab 3 Kontext-Signalen QR nutzen. Ohne Kontext zuerst Fit-Check oder Bio Hub waehlen.",
+      "promise": "Dieser Score prueft, ob QR-Traffic sauber sortiert, erklaert und transparent bleibt.",
+      "signals": [
+        "QR-Zweck klar",
+        "Fit-Check sichtbar",
+        "Kein Blindkauf",
+        "Hinweis auffindbar",
+        "Gespraechskontext vorhanden"
+      ],
+      "copy": "QR Context Score\n\nFuehrt mein QR-Code in Kontext oder nur blind auf einen Kaufpfad?\n\nDieser Score prueft, ob QR-Traffic sauber sortiert, erklaert und transparent bleibt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/qr-context-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
