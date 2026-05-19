@@ -9,6 +9,7 @@ Allow: /objections/
 Allow: /compare/
 Allow: /checklists/
 Allow: /scores/
+Allow: /hooks/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
@@ -25,4 +26,5 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # Compare kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html
 # Checklist kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html
 # Score kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html
+# Hook kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html
 # Offer presell hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html

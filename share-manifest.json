@@ -21,6 +21,7 @@
     "compareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
     "checklistKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
     "scoreKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
+    "hookKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -1145,6 +1146,188 @@
         "Gespraechskontext vorhanden"
       ],
       "copy": "QR Context Score\n\nFuehrt mein QR-Code in Kontext oder nur blind auf einen Kaufpfad?\n\nDieser Score prueft, ob QR-Traffic sauber sortiert, erklaert und transparent bleibt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/qr-context-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "hooks": [
+    {
+      "hook": "Du brauchst nicht noch zehn GPT-Tools. Du brauchst eine Aufgabe, die heute besser wird.",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "label": "GPT Tool-Chaos Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/gpt-tool-chaos-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "Problem erst entlasten, dann kleinen GPT-Pfad anbieten.",
+      "promise": "Dieser Hook holt Menschen ab, die zu viel recherchieren und zu wenig umsetzen.",
+      "angles": [
+        "Tool-Chaos benennen",
+        "Eine Aufgabe versprechen",
+        "Heute statt irgendwann",
+        "Keine Tool-Liste",
+        "Guide als naechster Schritt"
+      ],
+      "copy": "Du brauchst nicht noch zehn GPT-Tools. Du brauchst eine Aufgabe, die heute besser wird.\n\nWenn GPT gerade nach Tool-Chaos klingt: Starte mit einer Aufgabe, nicht mit zehn Tools.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/gpt-tool-chaos-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Affiliate startet nicht mit Reichweite. Es startet mit einer passenden Frage und einem sauberen Link.",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "label": "Affiliate ohne Publikum Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/affiliate-ohne-publikum-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "Reichweiten-Scham rausnehmen, Permission und Fit reinbringen.",
+      "promise": "Dieser Hook macht Affiliate fuer kleine Kontakte und warme Fragen nutzbar.",
+      "angles": [
+        "Kein Publikum noetig",
+        "Warme Frage zuerst",
+        "Permission statt Push",
+        "Hinweis sichtbar",
+        "Guide als Start"
+      ],
+      "copy": "Affiliate startet nicht mit Reichweite. Es startet mit einer passenden Frage und einem sauberen Link.\n\nWenn du Affiliate ohne grosses Publikum testen willst, starte klein und sauber.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/affiliate-ohne-publikum-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Exit/Lifestyle wird erst brauchbar, wenn Wunsch, Zeit und Einkommen auf eine Seite passen.",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Realitaetscheck Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Freiheitswunsch anerkennen, Realitaet klaeren, Guide oeffnen.",
+      "promise": "Dieser Hook verkauft keine Flucht, sondern einen realistischen naechsten Schritt.",
+      "angles": [
+        "Freiheitswunsch ernst nehmen",
+        "Keine Romantik",
+        "Zeit und Einkommen",
+        "Kleiner Schritt",
+        "Realitaetscheck"
+      ],
+      "copy": "Exit/Lifestyle wird erst brauchbar, wenn Wunsch, Zeit und Einkommen auf eine Seite passen.\n\nWenn Exit/Lifestyle gerade gross wirkt, mach ihn zuerst realistisch und klein.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Ein Direktlink ist oft zu schnell. Eine gute Vorstufe macht den Klick fairer.",
+      "audience": "Warme Kontakte",
+      "intent": "Presell",
+      "label": "Presell Vertrauens Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/presell-vertrauens-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Wenn Vertrauen fehlt, Presell statt Direktlink senden.",
+      "promise": "Dieser Hook fuehrt weg vom nackten Affiliate-Link und hin zu Kontext.",
+      "angles": [
+        "Direktlink zu schnell",
+        "Kontext zuerst",
+        "Fit sichtbar",
+        "Nicht-Fit erlaubt",
+        "Presell Hub"
+      ],
+      "copy": "Ein Direktlink ist oft zu schnell. Eine gute Vorstufe macht den Klick fairer.\n\nWenn du nicht sicher bist, ob der Direktlink fair ist, sende erst eine kurze Vorstufe.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/presell-vertrauens-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Ein Bio-Link soll nicht alles verkaufen. Er soll Besucher schnell richtig sortieren.",
+      "audience": "Solopreneure",
+      "intent": "Bio",
+      "label": "Bio Sortier Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/bio-sortier-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "rule": "Mehrere Intents nicht in einen Direktlink quetschen.",
+      "promise": "Dieser Hook macht aus Profil-Traffic eine sortierte Intent-Auswahl.",
+      "angles": [
+        "Profil-Traffic sortieren",
+        "Nicht alles verkaufen",
+        "Intent waehlen",
+        "Hinweis sichtbar",
+        "Bio Hub"
+      ],
+      "copy": "Ein Bio-Link soll nicht alles verkaufen. Er soll Besucher schnell richtig sortieren.\n\nWenn dein Profil mehrere Menschen anzieht, gib ihnen zuerst eine saubere Auswahl.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/bio-sortier-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Die beste Link-Antwort funktioniert auch dann, wenn niemand auf den Link klickt.",
+      "audience": "Community",
+      "intent": "Antwort",
+      "label": "Community Helpful Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/community-helpful-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "rule": "Antwort muss ohne Link nuetzlich sein, Link nur als Zusatz.",
+      "promise": "Dieser Hook bringt Hilfe vor Link und reduziert Spam-Risiko.",
+      "angles": [
+        "Hilfe zuerst",
+        "Ohne Link nuetzlich",
+        "Gruppenregeln respektieren",
+        "Passender Zusatz",
+        "Antwort-Bank"
+      ],
+      "copy": "Die beste Link-Antwort funktioniert auch dann, wenn niemand auf den Link klickt.\n\nWenn du in einer Community antwortest, baue die Antwort so, dass sie schon ohne Link hilft.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/community-helpful-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Ein gutes 30-Sekunden-Video verkauft nicht. Es macht den naechsten Klick logisch.",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "label": "Shortform Neugier Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/shortform-neugier-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "rule": "Erst Problem und Beispiel, dann leichter CTA.",
+      "promise": "Dieser Hook gibt kurzen Videos eine klare Bruecke zum passenden Pfad.",
+      "angles": [
+        "30 Sekunden reichen",
+        "Problem sichtbar",
+        "Beispiel konkret",
+        "CTA logisch",
+        "Video Kit"
+      ],
+      "copy": "Ein gutes 30-Sekunden-Video verkauft nicht. Es macht den naechsten Klick logisch.\n\nWenn du ein kurzes Video machst, lass es nur den naechsten Klick logisch machen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/shortform-neugier-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Wenn dein Post fuer alle ist, erkennt sich niemand schnell genug wieder.",
+      "audience": "Creator und Coaches",
+      "intent": "Zielgruppe",
+      "label": "Zielgruppe Schmerz Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/zielgruppe-schmerz-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+      "rule": "Eine Zielgruppe, ein Schmerz, ein passender Pfad.",
+      "promise": "Dieser Hook macht organische Posts spezifischer und schneller erkennbar.",
+      "angles": [
+        "Zu breit vermeiden",
+        "Eine Person ansprechen",
+        "Akuter Schmerz",
+        "Konkreter Pfad",
+        "Audience Kit"
+      ],
+      "copy": "Wenn dein Post fuer alle ist, erkennt sich niemand schnell genug wieder.\n\nWenn dein Post zu allgemein klingt, waehle erst eine Zielgruppe und einen Schmerz.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/zielgruppe-schmerz-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Ein guter Follow-up erinnert. Er draengt nicht.",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "label": "Follow-up Fair Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/follow-up-fair-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "rule": "Nur mit vorherigem Interesse oder Permission nachfassen.",
+      "promise": "Dieser Hook macht Nachfassen kurz, fair und passend.",
+      "angles": [
+        "Kurz bleiben",
+        "Kein Druck",
+        "Vorheriges Interesse",
+        "Passender Pfad",
+        "Market Now"
+      ],
+      "copy": "Ein guter Follow-up erinnert. Er draengt nicht.\n\nWenn du nachfasst, mach es wie eine Erinnerung, nicht wie ein Druckmittel.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/follow-up-fair-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "hook": "Ein QR-Code ist kein Kaufbefehl. Er ist ein schneller Einstieg in den richtigen Kontext.",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "label": "QR Kontext Hook",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "rule": "QR erst mit Kontext, dann mit passendem Pfad nutzen.",
+      "promise": "Dieser Hook macht QR-Codes brauchbar fuer Calls, Signaturen und Offline-Momente.",
+      "angles": [
+        "Kein Blindkauf",
+        "Kontext zuerst",
+        "Fit-Check sichtbar",
+        "Offline nutzbar",
+        "QR Kit"
+      ],
+      "copy": "Ein QR-Code ist kein Kaufbefehl. Er ist ein schneller Einstieg in den richtigen Kontext.\n\nWenn du QR nutzt, fuehre damit in Kontext und nicht blind in einen Kaufpfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [

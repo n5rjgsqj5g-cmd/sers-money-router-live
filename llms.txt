@@ -71,6 +71,17 @@
 - [SERS Score: Exit Reality Score](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/exit-reality-score/): Dieser Score trennt Freiheitswunsch von einem realistischen naechsten Schritt.
 - [SERS Score: Follow-up Heat Score](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/follow-up-heat-score/): Dieser Score macht klar, ob Nachfassen hilfreich oder zu frueh ist.
 - [SERS Score: QR Context Score](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/qr-context-score/): Dieser Score prueft, ob QR-Traffic sauber sortiert, erklaert und transparent bleibt.
+- [SERS Hook Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html): Post-Winkel fuer GPT, Affiliate, Exit, Presell, Bio, Community, Video, Zielgruppe, Follow-up und QR.
+- [SERS Hook: GPT Tool-Chaos Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/gpt-tool-chaos-hook/): Du brauchst nicht noch zehn GPT-Tools. Du brauchst eine Aufgabe, die heute besser wird.
+- [SERS Hook: Affiliate ohne Publikum Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/affiliate-ohne-publikum-hook/): Affiliate startet nicht mit Reichweite. Es startet mit einer passenden Frage und einem sauberen Link.
+- [SERS Hook: Exit Realitaetscheck Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/): Exit/Lifestyle wird erst brauchbar, wenn Wunsch, Zeit und Einkommen auf eine Seite passen.
+- [SERS Hook: Presell Vertrauens Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/presell-vertrauens-hook/): Ein Direktlink ist oft zu schnell. Eine gute Vorstufe macht den Klick fairer.
+- [SERS Hook: Bio Sortier Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/bio-sortier-hook/): Ein Bio-Link soll nicht alles verkaufen. Er soll Besucher schnell richtig sortieren.
+- [SERS Hook: Community Helpful Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/community-helpful-hook/): Die beste Link-Antwort funktioniert auch dann, wenn niemand auf den Link klickt.
+- [SERS Hook: Shortform Neugier Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/shortform-neugier-hook/): Ein gutes 30-Sekunden-Video verkauft nicht. Es macht den naechsten Klick logisch.
+- [SERS Hook: Zielgruppe Schmerz Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/zielgruppe-schmerz-hook/): Wenn dein Post fuer alle ist, erkennt sich niemand schnell genug wieder.
+- [SERS Hook: Follow-up Fair Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/follow-up-fair-hook/): Ein guter Follow-up erinnert. Er draengt nicht.
+- [SERS Hook: QR Kontext Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/): Ein QR-Code ist kein Kaufbefehl. Er ist ein schneller Einstieg in den richtigen Kontext.
 - [SERS Audience: Freelancer](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/): Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.
 - [SERS Audience: Creator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/): Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.
 - [SERS Audience: Coaches und Berater](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/): Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.
