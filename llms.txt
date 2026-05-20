@@ -3,9 +3,23 @@
 > Affiliate marketing assets for GPT, Affiliate, Mindset, Digital Business and Exit/Lifestyle intents.
 
 ## Core URLs
+- [SERS Launch Room](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html): Lokale Schaltzentrale fuer manuelle Sends, Lead-Log, Replay, Proof und Consent-Flywheel.
 - [SERS Close Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html): Abschluss-Hub fuer warme Kaufintents mit Winner-Pfad, Close-Pack und Affiliate-Hinweis.
 - [SERS Organic Blitz](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html): Live-Verteiler fuer Close Now, Market Now, Guides, Share Kit, QR Kit und Offer Wall.
 - [SERS Market Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html): Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up.
+- [SERS Fit Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html): Intent klaeren, bevor ein Offer-Link gesendet wird.
+- [SERS Action Board](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html): Manuelle Traffic-Aktionen mit Tracking-Link, Copy und Affiliate-Hinweis planen.
+- [SERS Content Engine](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html): Wiederverwendbare Hooks und Kanal-Copy fuer organische Distribution.
+- [SERS Partner Link Builder](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html): Saubere UTM-Links fuer Partner, Bio, Community, E-Mail und QR bauen.
+- [SERS QR Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html): Offline- und Call-Traffic in Fit-Check, Bio Hub und Kampagnen fuehren.
+- [SERS Campaigns](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html): Fuenf warme Kampagnen-Landingpages fuer GPT, Affiliate, Mindset, Digital Business und Exit.
+- [SERS Traffic Launcher](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html): Sofort teilbare Traffic-Copy und Share-Links fuer Money Router und Offer Wall.
+- [SERS Money Router](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html): Intent waehlen, passenden Affiliate-Shortlink erhalten und Sendetext kopieren.
+- [SERS Campaign: AI-Starter Nachfrage](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/): GPT starten, ohne dich im Tool-Dschungel zu verlieren. Intent: GPT verstehen und anwenden.
+- [SERS Campaign: Affiliate Neustart](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/): Affiliate-Marketing starten, aber mit einem klaren naechsten Schritt. Intent: Affiliate-Umsatz starten.
+- [SERS Campaign: Mindset Reaktivierung](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/): Wieder in Umsetzung kommen, statt noch eine Idee zu parken. Intent: Fokus und Umsetzung.
+- [SERS Campaign: Exit/Lifestyle Intent](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/): Mehr Freiheit planen, ohne im Wunschdenken haengen zu bleiben. Intent: Ortsunabhaengigkeit und Exit.
+- [SERS Campaign: Soft Lead Freebie](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/): Erst reinschnuppern, dann den passenden naechsten Schritt waehlen. Intent: niedrige Einstiegshuerde.
 - [Exit/Lifestyle Realitaetscheck: Freiheit planen, ohne Wunschdenken](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/): Ein kurzer Entscheidungsrahmen fuer Menschen, die Richtung Exit, ortsunabhaengiges Arbeiten oder Lifestyle-Business denken und einen konkreten naechsten Schritt brauchen.
 - [GPT starten ohne Tool-Chaos: erst Use Case, dann Werkzeug](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/): Ein praktischer Einstieg fuer Menschen, die mit GPT produktiver werden wollen, aber sich in Tools, Prompts und Tutorials verlieren.
 - [Affiliate Neustart: nicht der Link verkauft, sondern der passende Kontext](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/): Ein sauberer Affiliate-Pfad fuer warme Kontakte: Problem verstehen, Permission holen, passenden Link mit Hinweis senden.
@@ -115,6 +129,17 @@
 - [SERS FAQ: Wie nutze ich QR-Codes fuer Affiliate-Traffic?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/qr-code-fuer-affiliate/): QR funktioniert besser als Kontext-Code, nicht als blinder Kauf-Code.
 - [SERS FAQ: Was antworte ich auf 'GPT ist nur Hype'?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-ist-nur-hype-antwort/): Stimme teilweise zu und fuehre auf einen kleinen Nutzen-Test.
 - [SERS FAQ: Fuer wen passt ein Exit-Masterplan?](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/): Er passt nur, wenn Wunsch, Zeit und naechster Schritt real sind.
+- [SERS Prompt Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html): Copy-Paste-Prompts fuer GPT, Affiliate, DMs, Posts, Community, Bio, Video und Follow-ups.
+- [SERS Prompt: GPT erster Workflow](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/): Dieser Prompt macht aus Tool-Chaos eine einzige klare Aufgabe mit messbarem Output.
+- [SERS Prompt: Affiliate Presell Copy](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/): Dieser Prompt schreibt eine faire Vorstufe, bevor ein Affiliate-Link zu frueh kommt.
+- [SERS Prompt: Warme DM Permission](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/): Dieser Prompt erstellt eine kurze DM, die erst fragt und nicht drueckt.
+- [SERS Prompt: LinkedIn Problem-Post](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/linkedin-problem-post/): Dieser Prompt macht aus einem Link einen Problem-Post mit ruhigem CTA.
+- [SERS Prompt: Community Antwort ohne Spam](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/community-antwort-ohne-spam/): Dieser Prompt beantwortet Fragen hilfreich, bevor ein Link ueberhaupt relevant wird.
+- [SERS Prompt: Offer Fit Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/offer-fit-check/): Dieser Prompt entscheidet, ob ein Angebot passt, bevor du es teilst.
+- [SERS Prompt: Shortform Script](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/shortform-script/): Dieser Prompt baut ein kurzes Video aus Hook, Beispiel und fairem CTA.
+- [SERS Prompt: Bio Router Copy](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/): Dieser Prompt schreibt Bio-Zeilen, die Besucher sortieren statt sie zu ueberfahren.
+- [SERS Prompt: Follow-up ohne Druck](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/): Dieser Prompt schreibt ein Nachfassen, das freundlich bleibt und Ausstieg erlaubt.
+- [SERS Prompt: Exit Realitaetscheck Prompt](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/): Dieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird.
 - [SERS Audience: Freelancer](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/): Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.
 - [SERS Audience: Creator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/): Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.
 - [SERS Audience: Coaches und Berater](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/): Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.

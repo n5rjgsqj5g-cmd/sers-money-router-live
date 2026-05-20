@@ -5,6 +5,12 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+      "title": "SERS Launch Room",
+      "content_text": "Lokale Schaltzentrale fuer manuelle Sends, Lead-Log, Replay, Proof und Consent-Flywheel."
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
       "title": "SERS Close Now",
@@ -21,6 +27,84 @@
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
       "title": "SERS Market Now",
       "content_text": "Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "title": "SERS Fit Check",
+      "content_text": "Intent klaeren, bevor ein Offer-Link gesendet wird."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
+      "title": "SERS Action Board",
+      "content_text": "Manuelle Traffic-Aktionen mit Tracking-Link, Copy und Affiliate-Hinweis planen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+      "title": "SERS Content Engine",
+      "content_text": "Wiederverwendbare Hooks und Kanal-Copy fuer organische Distribution."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "title": "SERS Partner Link Builder",
+      "content_text": "Saubere UTM-Links fuer Partner, Bio, Community, E-Mail und QR bauen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "title": "SERS QR Kit",
+      "content_text": "Offline- und Call-Traffic in Fit-Check, Bio Hub und Kampagnen fuehren."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html",
+      "title": "SERS Campaigns",
+      "content_text": "Fuenf warme Kampagnen-Landingpages fuer GPT, Affiliate, Mindset, Digital Business und Exit."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
+      "title": "SERS Traffic Launcher",
+      "content_text": "Sofort teilbare Traffic-Copy und Share-Links fuer Money Router und Offer Wall."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html",
+      "title": "SERS Money Router",
+      "content_text": "Intent waehlen, passenden Affiliate-Shortlink erhalten und Sendetext kopieren."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "title": "SERS Campaign: AI-Starter Nachfrage",
+      "content_text": "GPT starten, ohne dich im Tool-Dschungel zu verlieren. Intent: GPT verstehen und anwenden."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "title": "SERS Campaign: Affiliate Neustart",
+      "content_text": "Affiliate-Marketing starten, aber mit einem klaren naechsten Schritt. Intent: Affiliate-Umsatz starten."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/",
+      "title": "SERS Campaign: Mindset Reaktivierung",
+      "content_text": "Wieder in Umsetzung kommen, statt noch eine Idee zu parken. Intent: Fokus und Umsetzung."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
+      "title": "SERS Campaign: Exit/Lifestyle Intent",
+      "content_text": "Mehr Freiheit planen, ohne im Wunschdenken haengen zu bleiben. Intent: Ortsunabhaengigkeit und Exit."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/",
+      "title": "SERS Campaign: Soft Lead Freebie",
+      "content_text": "Erst reinschnuppern, dann den passenden naechsten Schritt waehlen. Intent: niedrige Einstiegshuerde."
     },
     {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
@@ -675,6 +759,72 @@
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
       "title": "SERS FAQ: Fuer wen passt ein Exit-Masterplan?",
       "content_text": "Er passt nur, wenn Wunsch, Zeit und naechster Schritt real sind."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+      "title": "SERS Prompt Kit",
+      "content_text": "Copy-Paste-Prompts fuer GPT, Affiliate, DMs, Posts, Community, Bio, Video und Follow-ups."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+      "title": "SERS Prompt: GPT erster Workflow",
+      "content_text": "Dieser Prompt macht aus Tool-Chaos eine einzige klare Aufgabe mit messbarem Output."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/",
+      "title": "SERS Prompt: Affiliate Presell Copy",
+      "content_text": "Dieser Prompt schreibt eine faire Vorstufe, bevor ein Affiliate-Link zu frueh kommt."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
+      "title": "SERS Prompt: Warme DM Permission",
+      "content_text": "Dieser Prompt erstellt eine kurze DM, die erst fragt und nicht drueckt."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/linkedin-problem-post/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/linkedin-problem-post/",
+      "title": "SERS Prompt: LinkedIn Problem-Post",
+      "content_text": "Dieser Prompt macht aus einem Link einen Problem-Post mit ruhigem CTA."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/community-antwort-ohne-spam/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/community-antwort-ohne-spam/",
+      "title": "SERS Prompt: Community Antwort ohne Spam",
+      "content_text": "Dieser Prompt beantwortet Fragen hilfreich, bevor ein Link ueberhaupt relevant wird."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/offer-fit-check/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/offer-fit-check/",
+      "title": "SERS Prompt: Offer Fit Check",
+      "content_text": "Dieser Prompt entscheidet, ob ein Angebot passt, bevor du es teilst."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/shortform-script/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/shortform-script/",
+      "title": "SERS Prompt: Shortform Script",
+      "content_text": "Dieser Prompt baut ein kurzes Video aus Hook, Beispiel und fairem CTA."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/",
+      "title": "SERS Prompt: Bio Router Copy",
+      "content_text": "Dieser Prompt schreibt Bio-Zeilen, die Besucher sortieren statt sie zu ueberfahren."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/",
+      "title": "SERS Prompt: Follow-up ohne Druck",
+      "content_text": "Dieser Prompt schreibt ein Nachfassen, das freundlich bleibt und Ausstieg erlaubt."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/",
+      "title": "SERS Prompt: Exit Realitaetscheck Prompt",
+      "content_text": "Dieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird."
     },
     {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",

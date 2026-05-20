@@ -11,8 +11,17 @@
   ],
   "coreUrls": {
     "closeNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+    "launchRoom": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+    "actionBoard": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
+    "contentEngine": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+    "partnerLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+    "qrKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+    "campaigns": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html",
+    "trafficLauncher": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
+    "moneyRouter": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html",
+    "bio": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
     "channelKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
     "videoKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
@@ -25,6 +34,7 @@
     "hookKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
     "ctaKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
     "faqKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
+    "promptKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -32,6 +42,73 @@
     "offerPresellHub": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
     "offerWall": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html"
   },
+  "supportPages": [
+    {
+      "label": "SERS Launch Room",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+      "use": "Lead-Log, Manual Scale Queue, Replay, Proof und Consent-Steuerung."
+    },
+    {
+      "label": "SERS Action Board",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
+      "use": "Manuelle Traffic-Aktionen mit Tracking und Copy planen."
+    },
+    {
+      "label": "SERS Content Engine",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+      "use": "Hooks, Plattformtexte und wiederverwendbare Content-Bloecke bauen."
+    },
+    {
+      "label": "SERS Partner Link Builder",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
+      "use": "UTM-Links fuer Partner, Bio, Community, E-Mail und QR erzeugen."
+    },
+    {
+      "label": "SERS QR Kit",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "use": "Offline- und Call-Traffic in den passenden Funnel fuehren."
+    },
+    {
+      "label": "SERS Campaigns",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html",
+      "use": "Kampagnen-Landingpages nach Intent verteilen."
+    },
+    {
+      "label": "SERS Traffic Launcher",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
+      "use": "Sofort verteilbare Traffic-Copy und Share-Links nutzen."
+    },
+    {
+      "label": "SERS Money Router",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html",
+      "use": "Intent waehlen und passenden Shortlink kopieren."
+    },
+    {
+      "label": "Campaign: AI-Starter Nachfrage",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
+      "use": "GPT starten, ohne dich im Tool-Dschungel zu verlieren. Intent: GPT verstehen und anwenden."
+    },
+    {
+      "label": "Campaign: Affiliate Neustart",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
+      "use": "Affiliate-Marketing starten, aber mit einem klaren naechsten Schritt. Intent: Affiliate-Umsatz starten."
+    },
+    {
+      "label": "Campaign: Mindset Reaktivierung",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/",
+      "use": "Wieder in Umsetzung kommen, statt noch eine Idee zu parken. Intent: Fokus und Umsetzung."
+    },
+    {
+      "label": "Campaign: Exit/Lifestyle Intent",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
+      "use": "Mehr Freiheit planen, ohne im Wunschdenken haengen zu bleiben. Intent: Ortsunabhaengigkeit und Exit."
+    },
+    {
+      "label": "Campaign: Soft Lead Freebie",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/",
+      "use": "Erst reinschnuppern, dann den passenden naechsten Schritt waehlen. Intent: niedrige Einstiegshuerde."
+    }
+  ],
   "closeNow": {
     "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
     "topOffer": "Nomad Master Exit Masterplan",
@@ -1879,6 +1956,228 @@
         "Nur bei echtem Intent senden"
       ],
       "copy": "Fuer wen passt ein Exit-Masterplan?\n\nEin Exit-Masterplan passt nicht fuer jeden. Er ist sinnvoll, wenn jemand den Freiheitswunsch ernsthaft prueft, nicht nur Inspiration sucht, und bereit ist, den naechsten Schritt konkret zu machen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "prompts": [
+    {
+      "label": "GPT erster Workflow",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "promise": "Dieser Prompt macht aus Tool-Chaos eine einzige klare Aufgabe mit messbarem Output.",
+      "output": "Ein 20-Minuten-Test mit Ziel, Eingabe, Ausgabe und naechstem Schritt.",
+      "prompt": [
+        "Du bist mein ruhiger GPT-Umsetzungscoach.",
+        "Hilf mir, eine einzige wiederholbare Aufgabe zu waehlen, die ich heute mit GPT testen kann.",
+        "Frage zuerst nach Ziel, aktuellem Engpass, vorhandenen Beispielen und gewuenschtem Ergebnis.",
+        "Gib mir danach einen 20-Minuten-Test mit genau drei Schritten, einem Beispiel-Prompt und einer Entscheidung: weiter testen, Tool kaufen oder stoppen."
+      ],
+      "steps": [
+        "Aufgabe waehlen",
+        "Beispiel eingeben",
+        "20 Minuten testen",
+        "Ergebnis notieren"
+      ],
+      "copy": "GPT erster Workflow\n\nDieser Prompt macht aus Tool-Chaos eine einzige klare Aufgabe mit messbarem Output.\n\nPrompt:\nDu bist mein ruhiger GPT-Umsetzungscoach.\nHilf mir, eine einzige wiederholbare Aufgabe zu waehlen, die ich heute mit GPT testen kann.\nFrage zuerst nach Ziel, aktuellem Engpass, vorhandenen Beispielen und gewuenschtem Ergebnis.\nGib mir danach einen 20-Minuten-Test mit genau drei Schritten, einem Beispiel-Prompt und einer Entscheidung: weiter testen, Tool kaufen oder stoppen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Affiliate Presell Copy",
+      "audience": "Affiliate-Starter",
+      "intent": "Presell",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "promise": "Dieser Prompt schreibt eine faire Vorstufe, bevor ein Affiliate-Link zu frueh kommt.",
+      "output": "Eine Presell-Seite mit Fit, Nicht-Fit, Kurzcopy, CTA und Affiliate-Hinweis.",
+      "prompt": [
+        "Du bist ein permission-first Affiliate Copywriter.",
+        "Schreibe eine kurze Presell-Copy fuer folgendes Angebot, aber verkaufe nicht blind.",
+        "Nutze diese Struktur: Wer passt, wer passt nicht, welches Problem wird geloest, welche Einwaende sind fair, welcher naechste Klick ist sinnvoll.",
+        "Fuege am Ende einen sichtbaren Affiliate-Hinweis ein und vermeide Garantien."
+      ],
+      "steps": [
+        "Offer und Zielgruppe einsetzen",
+        "Fit-Kriterien pruefen",
+        "Presell statt Direktlink teilen",
+        "Antwort loggen"
+      ],
+      "copy": "Affiliate Presell Copy\n\nDieser Prompt schreibt eine faire Vorstufe, bevor ein Affiliate-Link zu frueh kommt.\n\nPrompt:\nDu bist ein permission-first Affiliate Copywriter.\nSchreibe eine kurze Presell-Copy fuer folgendes Angebot, aber verkaufe nicht blind.\nNutze diese Struktur: Wer passt, wer passt nicht, welches Problem wird geloest, welche Einwaende sind fair, welcher naechste Klick ist sinnvoll.\nFuege am Ende einen sichtbaren Affiliate-Hinweis ein und vermeide Garantien.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Warme DM Permission",
+      "audience": "Warme Kontakte",
+      "intent": "Warm DM",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
+      "promise": "Dieser Prompt erstellt eine kurze DM, die erst fragt und nicht drueckt.",
+      "output": "Drei DM-Varianten mit Kontext, Permission-Frage und Stop-Signal.",
+      "prompt": [
+        "Du bist ein vorsichtiger Outreach-Editor.",
+        "Schreibe drei kurze warme DMs fuer einen Kontakt, der das Thema schon kennt.",
+        "Jede DM muss erst Kontext geben, dann eine Ja/Nein-Frage stellen und keinen Link enthalten.",
+        "Fuege eine freundliche Stop-Option ein, damit kein Druck entsteht."
+      ],
+      "steps": [
+        "Kontext personalisieren",
+        "Ohne Link senden",
+        "Nur bei Ja nachlegen",
+        "Affiliate-Hinweis sichtbar lassen"
+      ],
+      "copy": "Warme DM Permission\n\nDieser Prompt erstellt eine kurze DM, die erst fragt und nicht drueckt.\n\nPrompt:\nDu bist ein vorsichtiger Outreach-Editor.\nSchreibe drei kurze warme DMs fuer einen Kontakt, der das Thema schon kennt.\nJede DM muss erst Kontext geben, dann eine Ja/Nein-Frage stellen und keinen Link enthalten.\nFuege eine freundliche Stop-Option ein, damit kein Druck entsteht.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "LinkedIn Problem-Post",
+      "audience": "LinkedIn",
+      "intent": "Public Post",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/linkedin-problem-post/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/",
+      "promise": "Dieser Prompt macht aus einem Link einen Problem-Post mit ruhigem CTA.",
+      "output": "Ein LinkedIn-Post mit Hook, Problem, Mini-Framework, CTA und Disclosure-Zeile.",
+      "prompt": [
+        "Du bist ein sachlicher LinkedIn-Editor fuer Affiliate-Content.",
+        "Schreibe einen Post, der zuerst ein echtes Problem erklaert und erst am Ende eine Ressource nennt.",
+        "Nutze kurze Absaetze, keine Hype-Versprechen, keine Einkommensgarantie.",
+        "Ende mit einem kleinen CTA und einer klaren Werbung/Affiliate-Hinweis-Zeile."
+      ],
+      "steps": [
+        "Problem konkretisieren",
+        "Eigenes Beispiel einfuegen",
+        "Ressource als Zusatz nennen",
+        "Vor Absenden pruefen"
+      ],
+      "copy": "LinkedIn Problem-Post\n\nDieser Prompt macht aus einem Link einen Problem-Post mit ruhigem CTA.\n\nPrompt:\nDu bist ein sachlicher LinkedIn-Editor fuer Affiliate-Content.\nSchreibe einen Post, der zuerst ein echtes Problem erklaert und erst am Ende eine Ressource nennt.\nNutze kurze Absaetze, keine Hype-Versprechen, keine Einkommensgarantie.\nEnde mit einem kleinen CTA und einer klaren Werbung/Affiliate-Hinweis-Zeile.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/linkedin-problem-post/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Community Antwort ohne Spam",
+      "audience": "Community",
+      "intent": "Helpful Answer",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/community-antwort-ohne-spam/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "promise": "Dieser Prompt beantwortet Fragen hilfreich, bevor ein Link ueberhaupt relevant wird.",
+      "output": "Eine kurze Community-Antwort mit Rueckfrage, optionalem Pfad und Hinweis.",
+      "prompt": [
+        "Du bist ein Community-Mitglied, nicht ein Verkaeufer.",
+        "Beantworte die Frage zuerst direkt und hilfreich in maximal 120 Woertern.",
+        "Wenn ein Link passt, formuliere ihn nur als optionalen naechsten Schritt.",
+        "Respektiere Gruppenregeln und fuege keinen Link ein, wenn der Kontext nicht reicht."
+      ],
+      "steps": [
+        "Frage direkt beantworten",
+        "Regeln respektieren",
+        "Link optional halten",
+        "Bei Unklarheit Fit-Check nennen"
+      ],
+      "copy": "Community Antwort ohne Spam\n\nDieser Prompt beantwortet Fragen hilfreich, bevor ein Link ueberhaupt relevant wird.\n\nPrompt:\nDu bist ein Community-Mitglied, nicht ein Verkaeufer.\nBeantworte die Frage zuerst direkt und hilfreich in maximal 120 Woertern.\nWenn ein Link passt, formuliere ihn nur als optionalen naechsten Schritt.\nRespektiere Gruppenregeln und fuege keinen Link ein, wenn der Kontext nicht reicht.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/community-antwort-ohne-spam/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Offer Fit Check",
+      "audience": "Operator",
+      "intent": "Offer Fit",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/offer-fit-check/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "promise": "Dieser Prompt entscheidet, ob ein Angebot passt, bevor du es teilst.",
+      "output": "Fit/Nicht-Fit-Tabelle, Einwaende, besserer naechster Pfad und Send-Entscheidung.",
+      "prompt": [
+        "Du bist mein Affiliate-Fit-Pruefer.",
+        "Bewerte dieses Angebot fuer diese Person anhand von Problem, Zeitpunkt, Budget, Vertrauen und Risiko.",
+        "Gib eine klare Entscheidung: senden, Presell senden, erst Rueckfrage stellen oder stoppen.",
+        "Erklaere auch, welche Aussage ich auf keinen Fall machen sollte."
+      ],
+      "steps": [
+        "Kontext einsetzen",
+        "Fit bewerten",
+        "Presell oder Stop waehlen",
+        "Nur passenden Pfad senden"
+      ],
+      "copy": "Offer Fit Check\n\nDieser Prompt entscheidet, ob ein Angebot passt, bevor du es teilst.\n\nPrompt:\nDu bist mein Affiliate-Fit-Pruefer.\nBewerte dieses Angebot fuer diese Person anhand von Problem, Zeitpunkt, Budget, Vertrauen und Risiko.\nGib eine klare Entscheidung: senden, Presell senden, erst Rueckfrage stellen oder stoppen.\nErklaere auch, welche Aussage ich auf keinen Fall machen sollte.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/offer-fit-check/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Shortform Script",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/shortform-script/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "promise": "Dieser Prompt baut ein kurzes Video aus Hook, Beispiel und fairem CTA.",
+      "output": "30-Sekunden-Skript mit Hook, drei Beats, Caption und CTA.",
+      "prompt": [
+        "Du bist ein Shortform-Scriptwriter fuer hilfreichen Affiliate-Content.",
+        "Schreibe ein 30-Sekunden-Skript zu diesem Problem und fuehre nur auf eine passende Ressource.",
+        "Nutze: Hook, Problem, Mini-Beispiel, naechster Schritt.",
+        "Keine Geldversprechen, kein Druck, Affiliate-Hinweis in die Caption."
+      ],
+      "steps": [
+        "Problem nennen",
+        "Beispiel zeigen",
+        "CTA klein halten",
+        "Caption mit Hinweis nutzen"
+      ],
+      "copy": "Shortform Script\n\nDieser Prompt baut ein kurzes Video aus Hook, Beispiel und fairem CTA.\n\nPrompt:\nDu bist ein Shortform-Scriptwriter fuer hilfreichen Affiliate-Content.\nSchreibe ein 30-Sekunden-Skript zu diesem Problem und fuehre nur auf eine passende Ressource.\nNutze: Hook, Problem, Mini-Beispiel, naechster Schritt.\nKeine Geldversprechen, kein Druck, Affiliate-Hinweis in die Caption.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/shortform-script/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Bio Router Copy",
+      "audience": "Profil-Besucher",
+      "intent": "Bio",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "promise": "Dieser Prompt schreibt Bio-Zeilen, die Besucher sortieren statt sie zu ueberfahren.",
+      "output": "Fuenf Bio-Varianten mit Intent-Auswahl und ruhigem Linktext.",
+      "prompt": [
+        "Du bist ein Bio-Link-Editor.",
+        "Schreibe fuenf kurze Bio-Texte fuer einen Router, der GPT, Affiliate, Mindset, Digital Business und Exit sortiert.",
+        "Jede Variante soll klar, klein und ohne Hype sein.",
+        "Fuege eine Variante fuer LinkedIn, Instagram, TikTok, X und E-Mail-Signatur hinzu."
+      ],
+      "steps": [
+        "Kanal waehlen",
+        "Eine Bio-Zeile nutzen",
+        "Router verlinken",
+        "Antworten beobachten"
+      ],
+      "copy": "Bio Router Copy\n\nDieser Prompt schreibt Bio-Zeilen, die Besucher sortieren statt sie zu ueberfahren.\n\nPrompt:\nDu bist ein Bio-Link-Editor.\nSchreibe fuenf kurze Bio-Texte fuer einen Router, der GPT, Affiliate, Mindset, Digital Business und Exit sortiert.\nJede Variante soll klar, klein und ohne Hype sein.\nFuege eine Variante fuer LinkedIn, Instagram, TikTok, X und E-Mail-Signatur hinzu.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Follow-up ohne Druck",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "promise": "Dieser Prompt schreibt ein Nachfassen, das freundlich bleibt und Ausstieg erlaubt.",
+      "output": "Drei Follow-up-Varianten fuer DM, E-Mail und Kommentar.",
+      "prompt": [
+        "Du bist ein freundlicher Follow-up-Editor.",
+        "Schreibe drei kurze Nachfass-Texte zu einem bereits besprochenen Thema.",
+        "Jeder Text soll Kontext erinnern, einen einzigen naechsten Schritt nennen und ausdruecklich Druck rausnehmen.",
+        "Kein schlechtes Gewissen, keine Dringlichkeit erfinden, kein Massenversand."
+      ],
+      "steps": [
+        "Vorherigen Kontext nennen",
+        "Ein Link maximal",
+        "Ausstieg erlauben",
+        "Bei Nein stoppen"
+      ],
+      "copy": "Follow-up ohne Druck\n\nDieser Prompt schreibt ein Nachfassen, das freundlich bleibt und Ausstieg erlaubt.\n\nPrompt:\nDu bist ein freundlicher Follow-up-Editor.\nSchreibe drei kurze Nachfass-Texte zu einem bereits besprochenen Thema.\nJeder Text soll Kontext erinnern, einen einzigen naechsten Schritt nennen und ausdruecklich Druck rausnehmen.\nKein schlechtes Gewissen, keine Dringlichkeit erfinden, kein Massenversand.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Exit Realitaetscheck Prompt",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "promise": "Dieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird.",
+      "output": "Realitaetscheck mit Zeit, Einkommen, Energie, Risiko und naechstem Schritt.",
+      "prompt": [
+        "Du bist ein ehrlicher Realitaetscheck-Coach fuer Exit/Lifestyle.",
+        "Stelle mir fuenf Fragen zu Zeit, Einkommen, Energie, Skills und Risiko.",
+        "Bewerte danach, ob ich Inspiration suche, einen Plan brauche oder schon kaufnah bin.",
+        "Gib einen kleinen naechsten Schritt und warne vor ueberstuerzten Entscheidungen."
+      ],
+      "steps": [
+        "Wunsch konkretisieren",
+        "Zahlen pruefen",
+        "Risiko benennen",
+        "Passenden Pfad oeffnen"
+      ],
+      "copy": "Exit Realitaetscheck Prompt\n\nDieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird.\n\nPrompt:\nDu bist ein ehrlicher Realitaetscheck-Coach fuer Exit/Lifestyle.\nStelle mir fuenf Fragen zu Zeit, Einkommen, Energie, Skills und Risiko.\nBewerte danach, ob ich Inspiration suche, einen Plan brauche oder schon kaufnah bin.\nGib einen kleinen naechsten Schritt und warne vor ueberstuerzten Entscheidungen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
