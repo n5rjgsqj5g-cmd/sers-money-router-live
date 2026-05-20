@@ -1,7 +1,7 @@
 {
-  "version": "2026-05-19",
+  "version": "2026-05-20",
   "title": "SERS Affiliate Share Manifest",
-  "home": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+  "home": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
   "disclosure": "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
   "boundaries": [
     "no auto-DMs",
@@ -10,6 +10,7 @@
     "permission-first"
   ],
   "coreUrls": {
+    "closeNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "outreachKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
@@ -29,6 +30,50 @@
     "fitCheck": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
     "offerPresellHub": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
     "offerWall": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html"
+  },
+  "closeNow": {
+    "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+    "topOffer": "Nomad Master Exit Masterplan",
+    "winnerDirectUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/?src=market-now&utm_campaign=sers_launch_room&utm_content=exit-lifestyle-winner",
+    "publicCopy": "Heute kein weiterer Tool-Post, sondern ein konkreter Abschluss.\n\nWenn Exit/Lifestyle, Affiliate oder GPT gerade wirklich Thema ist: Ich habe dir die passenden Pfade sauber sortiert. Erst Fit pruefen, dann den passenden Link oeffnen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+    "dmCopy": "Kurze Frage, damit ich dir nicht blind irgendwas schicke:\nGeht es bei dir gerade eher um Exit/Lifestyle, Affiliate starten, GPT nutzen oder erst niedrigschwellig reinschnuppern?\n\nHier sind die Abschluss-Pfade mit Hinweis: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+    "offers": [
+      {
+        "label": "Nomad Master Exit Masterplan",
+        "intent": "Exit/Lifestyle",
+        "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/",
+        "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/exit-masterplan/",
+        "goal": "Lifestyle- und Exit-Intent in einen strukturierten Masterplan fuehren."
+      },
+      {
+        "label": "Affiliate Insights",
+        "intent": "Affiliate",
+        "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/",
+        "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/affiliate-insights/",
+        "goal": "Affiliate-Marketing-Intent in ein Training mit transparentem Hinweis fuehren."
+      },
+      {
+        "label": "GPT Starter Guide",
+        "intent": "GPT / AI",
+        "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/",
+        "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/",
+        "goal": "AI-Einsteiger mit GPT-Interesse in ein niedrigschwelliges Lernangebot fuehren."
+      },
+      {
+        "label": "Power Mindset",
+        "intent": "Mindset",
+        "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/",
+        "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/",
+        "goal": "Mindset- und Neustart-Intent in ein passendes Einstiegsangebot fuehren."
+      },
+      {
+        "label": "Lovable App Freebie",
+        "intent": "Soft Lead",
+        "shortUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/",
+        "presellUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/lovable-app-freebie/",
+        "goal": "Kalte oder lauwarme Kontakte zuerst in ein Freebie statt direkt in einen Kauf schicken."
+      }
+    ]
   },
   "outreach": [
     {

@@ -18,6 +18,7 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # JSON Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json
 # LLM discovery: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
+# Close now: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
 # Channel kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html
 # Video kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html
