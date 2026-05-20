@@ -893,6 +893,72 @@
       "content_text": "Kaufnaher, aber ruhiger Entscheidungsimpuls."
     },
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+      "title": "SERS Reply Kit",
+      "content_text": "Manuelle Next-Saetze fuer Antworten, Einwaende, Kaufintent, Spaeter und No-Fit-Signale."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/link-request-buying-intent/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/link-request-buying-intent/",
+      "title": "SERS Reply: Link Request Buying Intent",
+      "content_text": "Link nur senden, wenn der Kontakt vorher echtes Thema oder Kaufintent gezeigt hat."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/price-question/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/price-question/",
+      "title": "SERS Reply: Price Question",
+      "content_text": "Preisfragen erst einordnen, dann auf Presell oder Offer-Fit fuehren."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/",
+      "title": "SERS Reply: Not Now Later",
+      "content_text": "Nicht nachdruecken. Spaeter heisst erst stoppen, dann optional leichter Wiedereinstieg."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/gpt-overwhelm-reply/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/gpt-overwhelm-reply/",
+      "title": "SERS Reply: GPT Overwhelm Reply",
+      "content_text": "Tool-Chaos kleiner machen, nicht noch mehr Optionen liefern."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/affiliate-no-audience/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/affiliate-no-audience/",
+      "title": "SERS Reply: Affiliate No Audience",
+      "content_text": "Nicht Publikum vorgaukeln. Erst klein, warm und permission-first starten."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/exit-reality-check/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/exit-reality-check/",
+      "title": "SERS Reply: Exit Reality Check",
+      "content_text": "Exit-Wunsch ernst nehmen, aber nicht mit Druck oder Traumversprechen closen."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/partner-wants-assets/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/partner-wants-assets/",
+      "title": "SERS Reply: Partner Wants Assets",
+      "content_text": "Partner bekommen Assets und Grenzen, nicht nur einen Direktlink."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/community-link-rule/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/community-link-rule/",
+      "title": "SERS Reply: Community Link Rule",
+      "content_text": "Gruppenregeln schlagen Link-Wunsch. Hilfe zuerst, Link nur wenn erlaubt."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/newsletter-click-reply/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/newsletter-click-reply/",
+      "title": "SERS Reply: Newsletter Click Reply",
+      "content_text": "Newsletter-Klicks erst segmentieren, dann passenden Pfad senden."
+    },
+    {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/no-fit-trust-save/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/no-fit-trust-save/",
+      "title": "SERS Reply: No-Fit Trust Save",
+      "content_text": "Nicht-Fit ist ein Ergebnis, kein Problem. Vertrauen ist wichtiger als ein Klick."
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",
       "title": "SERS Audience: Freelancer",

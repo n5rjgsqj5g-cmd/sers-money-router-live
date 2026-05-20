@@ -151,6 +151,17 @@
 - [SERS Email: QR Call Recap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/qr-call-recap/): Nachfass-Mail nach Call oder Screenshare.
 - [SERS Email: No-Fit Polite Close](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/no-fit-polite-close/): Stoppt sauber, statt Druck aufzubauen.
 - [SERS Email: Last Touch Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/): Kaufnaher, aber ruhiger Entscheidungsimpuls.
+- [SERS Reply Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html): Manuelle Next-Saetze fuer Antworten, Einwaende, Kaufintent, Spaeter und No-Fit-Signale.
+- [SERS Reply: Link Request Buying Intent](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/link-request-buying-intent/): Link nur senden, wenn der Kontakt vorher echtes Thema oder Kaufintent gezeigt hat.
+- [SERS Reply: Price Question](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/price-question/): Preisfragen erst einordnen, dann auf Presell oder Offer-Fit fuehren.
+- [SERS Reply: Not Now Later](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/): Nicht nachdruecken. Spaeter heisst erst stoppen, dann optional leichter Wiedereinstieg.
+- [SERS Reply: GPT Overwhelm Reply](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/gpt-overwhelm-reply/): Tool-Chaos kleiner machen, nicht noch mehr Optionen liefern.
+- [SERS Reply: Affiliate No Audience](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/affiliate-no-audience/): Nicht Publikum vorgaukeln. Erst klein, warm und permission-first starten.
+- [SERS Reply: Exit Reality Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/exit-reality-check/): Exit-Wunsch ernst nehmen, aber nicht mit Druck oder Traumversprechen closen.
+- [SERS Reply: Partner Wants Assets](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/partner-wants-assets/): Partner bekommen Assets und Grenzen, nicht nur einen Direktlink.
+- [SERS Reply: Community Link Rule](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/community-link-rule/): Gruppenregeln schlagen Link-Wunsch. Hilfe zuerst, Link nur wenn erlaubt.
+- [SERS Reply: Newsletter Click Reply](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/newsletter-click-reply/): Newsletter-Klicks erst segmentieren, dann passenden Pfad senden.
+- [SERS Reply: No-Fit Trust Save](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/no-fit-trust-save/): Nicht-Fit ist ein Ergebnis, kein Problem. Vertrauen ist wichtiger als ein Klick.
 - [SERS Audience: Freelancer](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/): Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.
 - [SERS Audience: Creator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/): Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.
 - [SERS Audience: Coaches und Berater](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/): Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.
