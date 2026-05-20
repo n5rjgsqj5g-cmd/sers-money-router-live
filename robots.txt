@@ -11,6 +11,7 @@ Allow: /checklists/
 Allow: /scores/
 Allow: /hooks/
 Allow: /ctas/
+Allow: /faqs/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
@@ -19,6 +20,7 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # LLM discovery: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
 # Close now: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+# FAQ kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
 # Channel kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html
 # Video kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html

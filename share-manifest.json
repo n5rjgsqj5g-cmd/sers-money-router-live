@@ -24,6 +24,7 @@
     "scoreKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
     "hookKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
     "ctaKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
+    "faqKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -1556,6 +1557,328 @@
         "Nicht blind klicken"
       ],
       "copy": "Scanne nur, wenn du den passenden Kontext schon hast.\n\nWenn wir gerade ueber das Thema sprechen: scanne den passenden Kontext, nicht irgendeinen Direktlink.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/qr-scan-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Wie starte ich Affiliate-Marketing ohne Publikum?",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-marketing-ohne-publikum-starten/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "short": "Starte nicht mit Reichweite, sondern mit warmen Fragen und einem passenden Presell-Pfad.",
+      "answer": "Ohne Publikum brauchst du zuerst echte Bedarfssignale: eine Frage, ein konkreter Engpass und Permission. Danach sendest du eine passende Hilfeseite oder Presell-Seite statt einen nackten Affiliate-Link.",
+      "steps": [
+        "Eine warme Frage sammeln",
+        "Intent kurz benennen",
+        "Permission holen",
+        "Presell statt Direktlink senden"
+      ],
+      "copy": "Wie starte ich Affiliate-Marketing ohne Publikum?\n\nOhne Publikum brauchst du zuerst echte Bedarfssignale: eine Frage, ein konkreter Engpass und Permission. Danach sendest du eine passende Hilfeseite oder Presell-Seite statt einen nackten Affiliate-Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-marketing-ohne-publikum-starten/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie teile ich einen Affiliate-Link ohne Spam?",
+      "audience": "Warme Kontakte",
+      "intent": "Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-link-teilen-ohne-spam/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-wirkt-spammy/",
+      "short": "Antwort zuerst, Link zuletzt, Hinweis sichtbar.",
+      "answer": "Ein Affiliate-Link wirkt weniger pushy, wenn du zuerst das Problem klaerst, dann fragst, ob ein Link hilfreich ist, und den Hinweis sichtbar laesst. Bei unklarem Fit fuehrt der Pfad auf eine Antwort- oder Presell-Seite.",
+      "steps": [
+        "Problem kurz spiegeln",
+        "Keinen Direktlink droppen",
+        "Permission abwarten",
+        "Affiliate-Hinweis mitschicken"
+      ],
+      "copy": "Wie teile ich einen Affiliate-Link ohne Spam?\n\nEin Affiliate-Link wirkt weniger pushy, wenn du zuerst das Problem klaerst, dann fragst, ob ein Link hilfreich ist, und den Hinweis sichtbar laesst. Bei unklarem Fit fuehrt der Pfad auf eine Antwort- oder Presell-Seite.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-link-teilen-ohne-spam/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie starte ich mit GPT ohne Tool-Chaos?",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "short": "Waehle eine Aufgabe, ein Ergebnis und einen 20-Minuten-Test.",
+      "answer": "GPT hilft schneller, wenn du nicht mit Tool-Listen beginnst. Starte mit einer einzigen Aufgabe, definiere ein Ergebnis und pruefe danach, ob ein Guide oder Tool wirklich noetig ist.",
+      "steps": [
+        "Eine Aufgabe waehlen",
+        "Output definieren",
+        "20 Minuten testen",
+        "Erst danach Tool oder Guide oeffnen"
+      ],
+      "copy": "Wie starte ich mit GPT ohne Tool-Chaos?\n\nGPT hilft schneller, wenn du nicht mit Tool-Listen beginnst. Starte mit einer einzigen Aufgabe, definiere ein Ergebnis und pruefe danach, ob ein Guide oder Tool wirklich noetig ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Welches AI-Tool sollte ich kaufen?",
+      "audience": "Tool-Kaeufer",
+      "intent": "GPT / AI",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welches-ai-tool-kaufen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "short": "Kaufe erst, wenn Engpass, Messwert und Sieben-Tage-Test klar sind.",
+      "answer": "Die bessere Frage ist nicht welches Tool, sondern welcher Engpass gerade Geld, Zeit oder Leads kostet. Ein Tool ist sinnvoll, wenn es diesen Engpass in sieben Tagen messbar verbessert.",
+      "steps": [
+        "Engpass waehlen",
+        "Messwert festlegen",
+        "Sieben-Tage-Test definieren",
+        "Nur bei klarem Fit kaufen"
+      ],
+      "copy": "Welches AI-Tool sollte ich kaufen?\n\nDie bessere Frage ist nicht welches Tool, sondern welcher Engpass gerade Geld, Zeit oder Leads kostet. Ein Tool ist sinnvoll, wenn es diesen Engpass in sieben Tagen messbar verbessert.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welches-ai-tool-kaufen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie pruefe ich Exit/Lifestyle realistisch?",
+      "audience": "Exit-Interessierte",
+      "intent": "Exit/Lifestyle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-lifestyle-realistisch-pruefen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "short": "Pruefe Zeit, Einkommen und Energie, bevor du ein grosses Freiheitsbild kaufst.",
+      "answer": "Exit/Lifestyle wird greifbar, wenn du den Wunsch in Zahlen uebersetzt: wie viel Zeit, welches Einkommen, welcher erste Schritt. Erst danach passt ein Masterplan oder ein anderes Angebot.",
+      "steps": [
+        "Wunsch konkretisieren",
+        "Zeitfenster pruefen",
+        "Einkommensluecke notieren",
+        "Kleinen naechsten Schritt waehlen"
+      ],
+      "copy": "Wie pruefe ich Exit/Lifestyle realistisch?\n\nExit/Lifestyle wird greifbar, wenn du den Wunsch in Zahlen uebersetzt: wie viel Zeit, welches Einkommen, welcher erste Schritt. Erst danach passt ein Masterplan oder ein anderes Angebot.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-lifestyle-realistisch-pruefen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wann ist Presell besser als ein Direktlink?",
+      "audience": "Empfehlende",
+      "intent": "Presell",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/presell-oder-direktlink/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/affiliate-direktlink-vs-presell/",
+      "short": "Presell ist besser, wenn Fit, Vertrauen oder Kontext noch fehlen.",
+      "answer": "Ein Direktlink passt nur bei klarem Kaufintent. Wenn die Person noch unsicher ist, sollte eine Presell-Seite zuerst Fit, Nicht-Fit und den naechsten Schritt erklaeren.",
+      "steps": [
+        "Kaufintent pruefen",
+        "Unsicherheit ernst nehmen",
+        "Presell-Seite senden",
+        "Direktlink nur bei klarem Ja nutzen"
+      ],
+      "copy": "Wann ist Presell besser als ein Direktlink?\n\nEin Direktlink passt nur bei klarem Kaufintent. Wenn die Person noch unsicher ist, sollte eine Presell-Seite zuerst Fit, Nicht-Fit und den naechsten Schritt erklaeren.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/presell-oder-direktlink/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Welchen Link sollte ich in die Bio setzen?",
+      "audience": "Profil-Besucher",
+      "intent": "Bio",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welcher-link-in-bio/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "short": "Setze einen Router-Link, der Intents sortiert, nicht ein einzelnes Angebot.",
+      "answer": "Bio-Traffic ist oft unklar. Ein guter Bio-Link sortiert Besucher nach GPT, Affiliate, Mindset, Digital Business oder Exit und fuehrt erst danach zum passenden Pfad.",
+      "steps": [
+        "Nicht auf ein Offer zwingen",
+        "Intent-Auswahl sichtbar machen",
+        "Affiliate-Hinweis behalten",
+        "Top-Pfade intern verlinken"
+      ],
+      "copy": "Welchen Link sollte ich in die Bio setzen?\n\nBio-Traffic ist oft unklar. Ein guter Bio-Link sortiert Besucher nach GPT, Affiliate, Mindset, Digital Business oder Exit und fuehrt erst danach zum passenden Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welcher-link-in-bio/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Was antworte ich in Communities, ohne Link-Spam zu wirken?",
+      "audience": "Community-Mitglieder",
+      "intent": "Community",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/was-in-community-antworten/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/",
+      "short": "Gib eine echte Kurzantwort und haenge den Link nur als optionalen Zusatz an.",
+      "answer": "Community-Traffic entsteht aus hilfreichen Antworten. Der Link darf nur der naechste Schritt sein, wenn die Antwort ohne Link bereits nuetzlich ist und die Regeln es erlauben.",
+      "steps": [
+        "Frage direkt beantworten",
+        "Keine Massenkommentare",
+        "Regeln respektieren",
+        "Fit-Check nur bei echtem Bedarf nennen"
+      ],
+      "copy": "Was antworte ich in Communities, ohne Link-Spam zu wirken?\n\nCommunity-Traffic entsteht aus hilfreichen Antworten. Der Link darf nur der naechste Schritt sein, wenn die Antwort ohne Link bereits nuetzlich ist und die Regeln es erlauben.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/was-in-community-antworten/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie formuliere ich den Affiliate-Hinweis einfach?",
+      "audience": "Empfehlende",
+      "intent": "Disclosure",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-hinweis-formulieren/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
+      "short": "Kurz, sichtbar und direkt beim Link.",
+      "answer": "Der Hinweis sollte nicht versteckt werden. Eine einfache Formulierung reicht: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "steps": [
+        "Hinweis nah am Link platzieren",
+        "Keine Garantie versprechen",
+        "Preisgleichheit nur nennen, wenn sie stimmt",
+        "Text vor Versand pruefen"
+      ],
+      "copy": "Wie formuliere ich den Affiliate-Hinweis einfach?\n\nDer Hinweis sollte nicht versteckt werden. Eine einfache Formulierung reicht: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-hinweis-formulieren/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Was schreibe ich vor einem Affiliate-Link in einer warmen DM?",
+      "audience": "Warme Kontakte",
+      "intent": "Warm DM",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/warme-dm-vor-affiliate-link/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
+      "short": "Frag erst, ob der passende Pfad ueberhaupt gewuenscht ist.",
+      "answer": "Eine warme DM sollte kurz bleiben: Kontext, Relevanzfrage, Permission. Erst nach einem Ja sendest du den Link und den Hinweis.",
+      "steps": [
+        "Kontext nennen",
+        "Kurze Frage stellen",
+        "Auf Ja warten",
+        "Link mit Hinweis senden"
+      ],
+      "copy": "Was schreibe ich vor einem Affiliate-Link in einer warmen DM?\n\nEine warme DM sollte kurz bleiben: Kontext, Relevanzfrage, Permission. Erst nach einem Ja sendest du den Link und den Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/warme-dm-vor-affiliate-link/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie mache ich ein Follow-up ohne Druck?",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/follow-up-ohne-druck/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/follow-up-soft-cta/",
+      "short": "Erinnere kurz, gib Ausstieg, und sende nur den passenden Pfad.",
+      "answer": "Ein gutes Follow-up nimmt Druck raus. Es erinnert an den Kontext, nennt den naechsten Schritt und macht klar, dass Ignorieren okay ist.",
+      "steps": [
+        "Kurz bleiben",
+        "Vorherigen Kontext nennen",
+        "Keinen Druck aufbauen",
+        "Nur einen Link senden"
+      ],
+      "copy": "Wie mache ich ein Follow-up ohne Druck?\n\nEin gutes Follow-up nimmt Druck raus. Es erinnert an den Kontext, nennt den naechsten Schritt und macht klar, dass Ignorieren okay ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/follow-up-ohne-druck/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie baue ich ein Shortform-Video mit gutem CTA?",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/shortform-video-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "short": "Hook, Beispiel, leichter naechster Klick.",
+      "answer": "Ein Shortform-Video sollte erst ein Problem zeigen, dann ein konkretes Beispiel geben und am Ende nur einen passenden naechsten Klick anbieten.",
+      "steps": [
+        "Problem in einem Satz",
+        "Konkretes Beispiel",
+        "Kein harter Pitch",
+        "CTA auf passende Seite"
+      ],
+      "copy": "Wie baue ich ein Shortform-Video mit gutem CTA?\n\nEin Shortform-Video sollte erst ein Problem zeigen, dann ein konkretes Beispiel geben und am Ende nur einen passenden naechsten Klick anbieten.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/shortform-video-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie finde ich die richtige Zielgruppe fuer einen Affiliate-Link?",
+      "audience": "Creator und Coaches",
+      "intent": "Audience",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+      "short": "Nimm das akute Problem, nicht die breiteste Zielgruppe.",
+      "answer": "Die richtige Zielgruppe ist die Gruppe, die das Problem jetzt spuert. Segmentiere nach Situation, nicht nach Wunsch-Persona: Freelancer, Creator, Coaches, Side-Hustler oder Exit-Interessierte.",
+      "steps": [
+        "Akutes Problem benennen",
+        "Segment waehlen",
+        "Sprache anpassen",
+        "Nur passenden Pfad teilen"
+      ],
+      "copy": "Wie finde ich die richtige Zielgruppe fuer einen Affiliate-Link?\n\nDie richtige Zielgruppe ist die Gruppe, die das Problem jetzt spuert. Segmentiere nach Situation, nicht nach Wunsch-Persona: Freelancer, Creator, Coaches, Side-Hustler oder Exit-Interessierte.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie sammle ich erste Lead-Signale fuer Affiliate-Traffic?",
+      "audience": "Operator",
+      "intent": "Lead Signals",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/lead-signale-sammeln/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+      "short": "Tracke Antworten, Klicks und Kaufintent, bevor du skalierst.",
+      "answer": "Traffic-Wachstum wird besser, wenn du nicht nur Klicks zaehlst. Sammle Antworten, Einwaende, Klicks, Kaufintent und Nicht-Fit-Signale, dann wiederholst du nur Gewinnerwinkel.",
+      "steps": [
+        "Antwort notieren",
+        "Klick erfassen",
+        "Kaufintent markieren",
+        "Gewinnerwinkel wiederholen"
+      ],
+      "copy": "Wie sammle ich erste Lead-Signale fuer Affiliate-Traffic?\n\nTraffic-Wachstum wird besser, wenn du nicht nur Klicks zaehlst. Sammle Antworten, Einwaende, Klicks, Kaufintent und Nicht-Fit-Signale, dann wiederholst du nur Gewinnerwinkel.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/lead-signale-sammeln/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Was ist der erste Schritt fuer ein Online-Business?",
+      "audience": "Starter",
+      "intent": "Digital Business",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/online-business-erster-schritt/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "short": "Nicht Produkt, nicht Tool: erst ein kleiner Bedarfstest.",
+      "answer": "Der erste Schritt ist ein kleiner Bedarfstest. Waehle eine Zielgruppe, eine Frage und einen hilfreichen Pfad. Danach entscheidest du, ob GPT, Affiliate, Freebie oder Exit der passendste Einstieg ist.",
+      "steps": [
+        "Zielgruppe waehlen",
+        "Eine Frage posten",
+        "Antworten sammeln",
+        "Passenden Pfad testen"
+      ],
+      "copy": "Was ist der erste Schritt fuer ein Online-Business?\n\nDer erste Schritt ist ein kleiner Bedarfstest. Waehle eine Zielgruppe, eine Frage und einen hilfreichen Pfad. Danach entscheidest du, ob GPT, Affiliate, Freebie oder Exit der passendste Einstieg ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/online-business-erster-schritt/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Kann ich ein Digital Business ohne Vorkenntnisse starten?",
+      "audience": "Starter",
+      "intent": "Digital Business",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/digital-business-ohne-vorkenntnisse/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
+      "short": "Ja, wenn du klein testest und nicht sofort ein komplexes System baust.",
+      "answer": "Ohne Vorkenntnisse solltest du keinen grossen Funnel bauen. Starte mit einem Soft-Lead-Pfad, einer klaren Frage und einem kleinen hilfreichen Angebot.",
+      "steps": [
+        "Soft starten",
+        "Kein grosses Setup bauen",
+        "Ein Angebot testen",
+        "Ergebnisse notieren"
+      ],
+      "copy": "Kann ich ein Digital Business ohne Vorkenntnisse starten?\n\nOhne Vorkenntnisse solltest du keinen grossen Funnel bauen. Starte mit einem Soft-Lead-Pfad, einer klaren Frage und einem kleinen hilfreichen Angebot.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/digital-business-ohne-vorkenntnisse/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie bringe ich Mindset in Umsetzung?",
+      "audience": "Umsetzer",
+      "intent": "Mindset",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/mindset-in-umsetzung-bringen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
+      "short": "Ein Gedanke zaehlt erst, wenn daraus eine sichtbare Aktion wird.",
+      "answer": "Mindset wird nutzbar, wenn du es in eine kleine Aktion uebersetzt: eine Nachricht, ein Post, ein Follow-up oder ein Test. Sammeln fuehlt sich gut an, Output beweist mehr.",
+      "steps": [
+        "Gedanke notieren",
+        "Eine Aktion waehlen",
+        "Heute ausfuehren",
+        "Signal notieren"
+      ],
+      "copy": "Wie bringe ich Mindset in Umsetzung?\n\nMindset wird nutzbar, wenn du es in eine kleine Aktion uebersetzt: eine Nachricht, ein Post, ein Follow-up oder ein Test. Sammeln fuehlt sich gut an, Output beweist mehr.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/mindset-in-umsetzung-bringen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Wie nutze ich QR-Codes fuer Affiliate-Traffic?",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/qr-code-fuer-affiliate/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "short": "QR funktioniert besser als Kontext-Code, nicht als blinder Kauf-Code.",
+      "answer": "Ein QR-Code sollte zuerst in einen Fit-Check, Bio Hub oder passende Kontextseite fuehren. Direkt auf ein Angebot ist nur sinnvoll, wenn der Kaufintent vorher klar ist.",
+      "steps": [
+        "Kontext sichtbar machen",
+        "Fit-Check bevorzugen",
+        "Direktlink vermeiden",
+        "In Calls oder Signaturen nutzen"
+      ],
+      "copy": "Wie nutze ich QR-Codes fuer Affiliate-Traffic?\n\nEin QR-Code sollte zuerst in einen Fit-Check, Bio Hub oder passende Kontextseite fuehren. Direkt auf ein Angebot ist nur sinnvoll, wenn der Kaufintent vorher klar ist.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/qr-code-fuer-affiliate/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Was antworte ich auf 'GPT ist nur Hype'?",
+      "audience": "Skeptiker",
+      "intent": "GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-ist-nur-hype-antwort/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/gpt-ist-nur-hype/",
+      "short": "Stimme teilweise zu und fuehre auf einen kleinen Nutzen-Test.",
+      "answer": "Die beste Antwort ist kein Gegenpitch. Sag: Ja, viel ist Hype. Deshalb teste ich nur eine Aufgabe, ein Ergebnis und einen kurzen Zeitraum.",
+      "steps": [
+        "Hype anerkennen",
+        "Test kleiner machen",
+        "Ein Ergebnis definieren",
+        "Guide nur als naechsten Schritt nutzen"
+      ],
+      "copy": "Was antworte ich auf 'GPT ist nur Hype'?\n\nDie beste Antwort ist kein Gegenpitch. Sag: Ja, viel ist Hype. Deshalb teste ich nur eine Aufgabe, ein Ergebnis und einen kurzen Zeitraum.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-ist-nur-hype-antwort/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "question": "Fuer wen passt ein Exit-Masterplan?",
+      "audience": "Exit-Interessierte",
+      "intent": "Exit/Lifestyle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/exit-masterplan/",
+      "short": "Er passt nur, wenn Wunsch, Zeit und naechster Schritt real sind.",
+      "answer": "Ein Exit-Masterplan passt nicht fuer jeden. Er ist sinnvoll, wenn jemand den Freiheitswunsch ernsthaft prueft, nicht nur Inspiration sucht, und bereit ist, den naechsten Schritt konkret zu machen.",
+      "steps": [
+        "Wunsch pruefen",
+        "Zeit und Geld ehrlich ansehen",
+        "Nicht-Fit akzeptieren",
+        "Nur bei echtem Intent senden"
+      ],
+      "copy": "Fuer wen passt ein Exit-Masterplan?\n\nEin Exit-Masterplan passt nicht fuer jeden. Er ist sinnvoll, wenn jemand den Freiheitswunsch ernsthaft prueft, nicht nur Inspiration sucht, und bereit ist, den naechsten Schritt konkret zu machen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
