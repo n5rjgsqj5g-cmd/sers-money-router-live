@@ -5,6 +5,12 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "title": "SERS Close Now",
+      "content_text": "Abschluss-Hub fuer warme Kaufintents mit Winner-Pfad, Close-Pack und Affiliate-Hinweis."
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
       "title": "SERS Organic Blitz",
