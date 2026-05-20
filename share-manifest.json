@@ -35,6 +35,7 @@
     "ctaKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
     "faqKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
     "promptKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+    "emailKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -2178,6 +2179,231 @@
         "Passenden Pfad oeffnen"
       ],
       "copy": "Exit Realitaetscheck Prompt\n\nDieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird.\n\nPrompt:\nDu bist ein ehrlicher Realitaetscheck-Coach fuer Exit/Lifestyle.\nStelle mir fuenf Fragen zu Zeit, Einkommen, Energie, Skills und Risiko.\nBewerte danach, ob ich Inspiration suche, einen Plan brauche oder schon kaufnah bin.\nGib einen kleinen naechsten Schritt und warne vor ueberstuerzten Entscheidungen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "emails": [
+    {
+      "label": "Exit Close Follow-up",
+      "audience": "Warme Exit-Interessierte",
+      "intent": "Exit/Lifestyle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/exit-close-follow-up/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "subject": "Kurzer Realitaetscheck zu Exit/Lifestyle",
+      "preview": "Ruhiges Nachfassen fuer den staerksten Winner-Pfad.",
+      "body": [
+        "Hey, ich wollte den Exit/Lifestyle-Pfad nochmal sauber einsortieren.",
+        "Wenn das Thema gerade wirklich relevant ist, starte nicht mit Wunschdenken, sondern mit dem kurzen Realitaetscheck und dem passenden naechsten Schritt.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+        "Wenn es gerade nicht passt, einfach ignorieren."
+      ],
+      "steps": [
+        "Nur an warme Kontakte",
+        "Kontext kurz erinnern",
+        "Close Now statt Direktdruck senden",
+        "Antwort im Launch Room loggen"
+      ],
+      "copy": "Kurzer Realitaetscheck zu Exit/Lifestyle\n\nHey, ich wollte den Exit/Lifestyle-Pfad nochmal sauber einsortieren.\nWenn das Thema gerade wirklich relevant ist, starte nicht mit Wunschdenken, sondern mit dem kurzen Realitaetscheck und dem passenden naechsten Schritt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\nWenn es gerade nicht passt, einfach ignorieren.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/exit-close-follow-up/"
+    },
+    {
+      "label": "GPT Workflow Nudge",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/gpt-workflow-nudge/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+      "subject": "GPT kleiner starten: nur ein Workflow",
+      "preview": "Fuehrt Tool-Chaos in einen 20-Minuten-Test.",
+      "body": [
+        "Hey, wenn GPT gerade zu gross wirkt: starte nicht mit noch einer Tool-Liste.",
+        "Nimm genau einen Workflow, teste ihn 20 Minuten und entscheide danach, ob du mehr brauchst.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Eine Aufgabe nennen",
+        "Prompt-Seite senden",
+        "Keinen Tool-Kauf pushen",
+        "Ergebnis nachfassen"
+      ],
+      "copy": "GPT kleiner starten: nur ein Workflow\n\nHey, wenn GPT gerade zu gross wirkt: starte nicht mit noch einer Tool-Liste.\nNimm genau einen Workflow, teste ihn 20 Minuten und entscheide danach, ob du mehr brauchst.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/gpt-workflow-nudge/"
+    },
+    {
+      "label": "Affiliate Presell Intro",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "subject": "Affiliate-Link erst nach Fit",
+      "preview": "Erklaert Presell statt nacktem Direktlink.",
+      "body": [
+        "Hey, ich wuerde dir keinen nackten Affiliate-Link schicken, wenn der Fit noch unklar ist.",
+        "Ich habe die Angebote deshalb als Presell-Seiten sortiert: erst Fit, dann Nicht-Fit, dann der passende Link mit Hinweis.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Fit unklar erkennen",
+        "Presell Hub senden",
+        "Bei Nicht-Fit stoppen",
+        "Nur passenden Link weitergeben"
+      ],
+      "copy": "Affiliate-Link erst nach Fit\n\nHey, ich wuerde dir keinen nackten Affiliate-Link schicken, wenn der Fit noch unklar ist.\nIch habe die Angebote deshalb als Presell-Seiten sortiert: erst Fit, dann Nicht-Fit, dann der passende Link mit Hinweis.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/"
+    },
+    {
+      "label": "Newsletter Resource",
+      "audience": "Eigene Liste",
+      "intent": "Newsletter",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/newsletter-resource/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "subject": "Ressource: GPT, Affiliate und Exit sauber sortieren",
+      "preview": "Ein kurzer Newsletter-Hinweis auf den oeffentlichen Verteiler.",
+      "body": [
+        "Kurzer Ressourcen-Hinweis: Ich habe die wichtigsten SERS-Pfade oeffentlich sortiert.",
+        "Du findest dort GPT, Affiliate, Exit/Lifestyle, Presell, FAQ, Prompts, CTAs und weitere saubere Einstiege.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Nur an eigene/erlaubte Liste",
+        "Ressource statt Druck",
+        "Ein Hauptlink",
+        "Hinweis sichtbar lassen"
+      ],
+      "copy": "Ressource: GPT, Affiliate und Exit sauber sortieren\n\nKurzer Ressourcen-Hinweis: Ich habe die wichtigsten SERS-Pfade oeffentlich sortiert.\nDu findest dort GPT, Affiliate, Exit/Lifestyle, Presell, FAQ, Prompts, CTAs und weitere saubere Einstiege.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/newsletter-resource/"
+    },
+    {
+      "label": "Partner Intro",
+      "audience": "Micro-Partner",
+      "intent": "Partner",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/partner-intro/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+      "subject": "SERS sauber teilen: Kit und Tracking",
+      "preview": "Partner-Einstieg mit Outreach Kit und UTM-Pfad.",
+      "body": [
+        "Hey, falls du den SERS-Pfad mit deinem Publikum teilen willst: bitte nicht als nackten Link.",
+        "Hier ist das Outreach Kit mit Texten, Grenzen und Tracking-Pfaden, damit klar bleibt, welcher Kanal funktioniert.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Partner-Fit pruefen",
+        "Outreach Kit senden",
+        "UTM-Link bauen",
+        "Keine Massen-DMs"
+      ],
+      "copy": "SERS sauber teilen: Kit und Tracking\n\nHey, falls du den SERS-Pfad mit deinem Publikum teilen willst: bitte nicht als nackten Link.\nHier ist das Outreach Kit mit Texten, Grenzen und Tracking-Pfaden, damit klar bleibt, welcher Kanal funktioniert.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/partner-intro/"
+    },
+    {
+      "label": "Community Follow-up",
+      "audience": "Community-Kontakte",
+      "intent": "Helpful Answer",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/community-follow-up/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "subject": "Nachtrag zu deiner Frage",
+      "preview": "Hilfreiches Follow-up ohne Link-Spam.",
+      "body": [
+        "Hey, kurzer Nachtrag zu deiner Frage.",
+        "Ich wuerde zuerst die kurze Antwort nutzen und nur dann einen Link oeffnen, wenn der Kontext wirklich passt.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Vorherige Frage referenzieren",
+        "Antwort zuerst",
+        "Link optional halten",
+        "Regeln respektieren"
+      ],
+      "copy": "Nachtrag zu deiner Frage\n\nHey, kurzer Nachtrag zu deiner Frage.\nIch wuerde zuerst die kurze Antwort nutzen und nur dann einen Link oeffnen, wenn der Kontext wirklich passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/community-follow-up/"
+    },
+    {
+      "label": "Bio Router Signature",
+      "audience": "Profil- und E-Mail-Traffic",
+      "intent": "Bio",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/bio-router-signature/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "subject": "Ein Link fuer deinen naechsten Schritt",
+      "preview": "Signatur-/Bio-Mail fuer unklare Intents.",
+      "body": [
+        "Wenn du nicht sicher bist, ob GPT, Affiliate, Mindset, Digital Business oder Exit gerade passt, starte hier:",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+        "Der Router sortiert erst den Intent und fuehrt dann nur zum passenden Pfad.",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "In Signatur oder Profil nutzen",
+        "Intent sortieren lassen",
+        "Nicht auf ein Angebot zwingen",
+        "Antworten beobachten"
+      ],
+      "copy": "Ein Link fuer deinen naechsten Schritt\n\nWenn du nicht sicher bist, ob GPT, Affiliate, Mindset, Digital Business oder Exit gerade passt, starte hier:\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html\nDer Router sortiert erst den Intent und fuehrt dann nur zum passenden Pfad.\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/bio-router-signature/"
+    },
+    {
+      "label": "QR Call Recap",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/qr-call-recap/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "subject": "Hier ist der QR-/Link-Pfad aus dem Call",
+      "preview": "Nachfass-Mail nach Call oder Screenshare.",
+      "body": [
+        "Danke fuer den Austausch. Hier ist der ruhige Einstieg aus dem Call:",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+        "Der QR fuehrt zuerst in Kontext und Fit-Check, nicht blind in einen Kauf.",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+      ],
+      "steps": [
+        "Nur nach echtem Call",
+        "Kontext nennen",
+        "QR Kit senden",
+        "Naechstes Signal notieren"
+      ],
+      "copy": "Hier ist der QR-/Link-Pfad aus dem Call\n\nDanke fuer den Austausch. Hier ist der ruhige Einstieg aus dem Call:\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html\nDer QR fuehrt zuerst in Kontext und Fit-Check, nicht blind in einen Kauf.\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/qr-call-recap/"
+    },
+    {
+      "label": "No-Fit Polite Close",
+      "audience": "Nicht passende Kontakte",
+      "intent": "Trust",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/no-fit-polite-close/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+      "subject": "Vielleicht gerade nicht der passende Fit",
+      "preview": "Stoppt sauber, statt Druck aufzubauen.",
+      "body": [
+        "Ich glaube, das ist gerade vielleicht nicht der passende Fit.",
+        "Wenn du spaeter nochmal sortieren willst, nimm lieber zuerst den Fit-Check statt irgendeinen Direktlink.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+        "Sonst bitte einfach ignorieren, alles gut."
+      ],
+      "steps": [
+        "Nicht-Fit akzeptieren",
+        "Keinen zweiten Link pushen",
+        "Fit-Check optional",
+        "Kontakt respektieren"
+      ],
+      "copy": "Vielleicht gerade nicht der passende Fit\n\nIch glaube, das ist gerade vielleicht nicht der passende Fit.\nWenn du spaeter nochmal sortieren willst, nimm lieber zuerst den Fit-Check statt irgendeinen Direktlink.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\nSonst bitte einfach ignorieren, alles gut.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/no-fit-polite-close/"
+    },
+    {
+      "label": "Last Touch Check",
+      "audience": "Kaufnahe Kontakte",
+      "intent": "Close",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "subject": "Letzte Frage, bevor du entscheidest",
+      "preview": "Kaufnaher, aber ruhiger Entscheidungsimpuls.",
+      "body": [
+        "Letzte Frage, bevor du entscheidest: ist der naechste Schritt gerade wirklich relevant, oder waere ein spaeterer Zeitpunkt besser?",
+        "Wenn relevant: hier ist der sortierte Close-Pfad mit Hinweis.",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+        "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+        "Wenn nicht: stoppen wir hier."
+      ],
+      "steps": [
+        "Nur bei Kaufnaehe",
+        "Eine Entscheidungsfrage",
+        "Close Now senden",
+        "Bei Nein stoppen"
+      ],
+      "copy": "Letzte Frage, bevor du entscheidest\n\nLetzte Frage, bevor du entscheidest: ist der naechste Schritt gerade wirklich relevant, oder waere ein spaeterer Zeitpunkt besser?\nWenn relevant: hier ist der sortierte Close-Pfad mit Hinweis.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.\nWenn nicht: stoppen wir hier.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/"
     }
   ],
   "answers": [

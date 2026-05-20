@@ -13,6 +13,7 @@ Allow: /hooks/
 Allow: /ctas/
 Allow: /faqs/
 Allow: /prompts/
+Allow: /emails/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
@@ -34,4 +35,5 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # Hook kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html
 # CTA kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html
 # Prompt kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html
+# Email kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html
 # Offer presell hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html

@@ -140,6 +140,17 @@
 - [SERS Prompt: Bio Router Copy](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/bio-router-copy/): Dieser Prompt schreibt Bio-Zeilen, die Besucher sortieren statt sie zu ueberfahren.
 - [SERS Prompt: Follow-up ohne Druck](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/follow-up-ohne-druck/): Dieser Prompt schreibt ein Nachfassen, das freundlich bleibt und Ausstieg erlaubt.
 - [SERS Prompt: Exit Realitaetscheck Prompt](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/): Dieser Prompt macht einen Freiheitswunsch konkret, bevor daraus ein Kaufimpuls wird.
+- [SERS Email Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html): Manuelle E-Mail-Texte fuer warme Follow-ups, Newsletter, Partner-Intros, Call-Recaps und Close.
+- [SERS Email: Exit Close Follow-up](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/exit-close-follow-up/): Ruhiges Nachfassen fuer den staerksten Winner-Pfad.
+- [SERS Email: GPT Workflow Nudge](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/gpt-workflow-nudge/): Fuehrt Tool-Chaos in einen 20-Minuten-Test.
+- [SERS Email: Affiliate Presell Intro](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/): Erklaert Presell statt nacktem Direktlink.
+- [SERS Email: Newsletter Resource](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/newsletter-resource/): Ein kurzer Newsletter-Hinweis auf den oeffentlichen Verteiler.
+- [SERS Email: Partner Intro](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/partner-intro/): Partner-Einstieg mit Outreach Kit und UTM-Pfad.
+- [SERS Email: Community Follow-up](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/community-follow-up/): Hilfreiches Follow-up ohne Link-Spam.
+- [SERS Email: Bio Router Signature](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/bio-router-signature/): Signatur-/Bio-Mail fuer unklare Intents.
+- [SERS Email: QR Call Recap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/qr-call-recap/): Nachfass-Mail nach Call oder Screenshare.
+- [SERS Email: No-Fit Polite Close](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/no-fit-polite-close/): Stoppt sauber, statt Druck aufzubauen.
+- [SERS Email: Last Touch Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/): Kaufnaher, aber ruhiger Entscheidungsimpuls.
 - [SERS Audience: Freelancer](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/): Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.
 - [SERS Audience: Creator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/): Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.
 - [SERS Audience: Coaches und Berater](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/): Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.
