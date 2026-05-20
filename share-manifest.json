@@ -22,6 +22,7 @@
     "checklistKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
     "scoreKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
     "hookKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
+    "ctaKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -1328,6 +1329,188 @@
         "QR Kit"
       ],
       "copy": "Ein QR-Code ist kein Kaufbefehl. Er ist ein schneller Einstieg in den richtigen Kontext.\n\nWenn du QR nutzt, fuehre damit in Kontext und nicht blind in einen Kaufpfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "ctas": [
+    {
+      "cta": "Starte mit einer einzigen Aufgabe statt mit zehn Tools.",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "label": "GPT Mini-Start CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/gpt-mini-start-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "rule": "CTA muss den ersten Schritt kleiner machen, nicht das ganze Thema verkaufen.",
+      "promise": "Dieser CTA fuehrt GPT-Starter in den Guide, ohne Tool-Druck.",
+      "variants": [
+        "Eine Aufgabe oeffnen",
+        "20-Minuten-Test starten",
+        "GPT Guide pruefen",
+        "Tool-Chaos verlassen",
+        "Mini-Workflow bauen"
+      ],
+      "copy": "Starte mit einer einzigen Aufgabe statt mit zehn Tools.\n\nWenn du GPT nicht weiter recherchieren willst: starte mit einer Aufgabe und pruef den Guide.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/gpt-mini-start-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Frag erst kurz, dann sende den passenden Link sauber.",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "label": "Affiliate Permission CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/affiliate-permission-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "rule": "CTA darf den Link erst nach Zustimmung aktiv machen.",
+      "promise": "Dieser CTA macht Affiliate-Verteilung klein, transparent und weniger pushy.",
+      "variants": [
+        "Permission fragen",
+        "Sauberen Send starten",
+        "Affiliate Guide pruefen",
+        "Fit vor Link klaeren",
+        "Hinweis sichtbar teilen"
+      ],
+      "copy": "Frag erst kurz, dann sende den passenden Link sauber.\n\nWenn du Affiliate ohne Druck testen willst: frag kurz, dann sende nur den passenden Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/affiliate-permission-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Pruef kurz den Fit, bevor du den Direktlink oeffnest.",
+      "audience": "Warme Kontakte",
+      "intent": "Presell",
+      "label": "Presell Fit CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+      "rule": "Bei Unsicherheit fuehrt der CTA auf Presell statt Direktlink.",
+      "promise": "Dieser CTA senkt Reibung, weil er den Klick fair vorbereitet.",
+      "variants": [
+        "Fit zuerst pruefen",
+        "Vorstufe oeffnen",
+        "Nicht blind klicken",
+        "Presell lesen",
+        "Passenden Link waehlen"
+      ],
+      "copy": "Pruef kurz den Fit, bevor du den Direktlink oeffnest.\n\nWenn der Direktlink zu schnell wirkt: oeffne zuerst die Vorstufe und entscheide danach.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Waehle erst dein Thema, dann den passenden naechsten Schritt.",
+      "audience": "Profil-Besucher",
+      "intent": "Bio",
+      "label": "Bio Sortier CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/bio-sortier-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "rule": "Bio-CTA soll sortieren, nicht alle Intents in einen Link pressen.",
+      "promise": "Dieser CTA macht Profil-Traffic klarer und fuehrt Besucher in den richtigen Hub.",
+      "variants": [
+        "Thema waehlen",
+        "Pfad sortieren",
+        "Bio Hub oeffnen",
+        "Nicht alles auf einmal",
+        "Naechsten Schritt finden"
+      ],
+      "copy": "Waehle erst dein Thema, dann den passenden naechsten Schritt.\n\nWenn du ueber mein Profil kommst: waehle erst dein Thema, dann nur den passenden Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/bio-sortier-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Nimm die kurze Antwort, der Link ist nur der Zusatz.",
+      "audience": "Community",
+      "intent": "Antwort",
+      "label": "Community Antwort CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/community-antwort-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "rule": "Community-CTA muss ohne Link schon hilfreich sein.",
+      "promise": "Dieser CTA schuetzt vor Link-Spam und macht Hilfe zuerst sichtbar.",
+      "variants": [
+        "Kurzantwort lesen",
+        "Antwort zuerst nutzen",
+        "Zusatzpfad pruefen",
+        "Frage klaeren",
+        "Hilfreich bleiben"
+      ],
+      "copy": "Nimm die kurze Antwort, der Link ist nur der Zusatz.\n\nWenn die Frage gerade passt: nimm erst die Kurzantwort, der Link ist nur der naechste Schritt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/community-antwort-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Wenn dich das Beispiel betrifft, oeffne den passenden Pfad.",
+      "audience": "Creator",
+      "intent": "Shortform",
+      "label": "Shortform Caption CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/shortform-caption-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "rule": "Video-CTA darf nur einen logischen naechsten Klick ausloesen.",
+      "promise": "Dieser CTA verbindet Hook, Beispiel und Link ohne harten Pitch.",
+      "variants": [
+        "Beispiel pruefen",
+        "Caption-Link oeffnen",
+        "Naechsten Klick machen",
+        "Script testen",
+        "Passenden Pfad waehlen"
+      ],
+      "copy": "Wenn dich das Beispiel betrifft, oeffne den passenden Pfad.\n\nWenn das Video dein Problem trifft, oeffne nur den passenden naechsten Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/shortform-caption-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Waehle dein Segment, nicht den breitesten Link.",
+      "audience": "Creator und Coaches",
+      "intent": "Zielgruppe",
+      "label": "Audience Segment CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/audience-segment-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+      "rule": "CTA muss eine konkrete Zielgruppe vor dem Angebot benennen.",
+      "promise": "Dieser CTA macht Posts, Kommentare und DMs spezifischer.",
+      "variants": [
+        "Segment waehlen",
+        "Zielgruppenpfad oeffnen",
+        "Nicht generisch senden",
+        "Problem zuordnen",
+        "Passende Sprache nutzen"
+      ],
+      "copy": "Waehle dein Segment, nicht den breitesten Link.\n\nWenn sich dein Post zu breit anfuehlt, waehle erst das Segment und dann den Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/audience-segment-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Mach den Freiheitswunsch einmal konkret, bevor du weiter traeumst.",
+      "audience": "Exit/Lifestyle Interessierte",
+      "intent": "Exit/Lifestyle",
+      "label": "Exit Reality CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/exit-reality-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "rule": "Exit-CTA verkauft keinen Ausstieg, sondern einen Realitaetscheck.",
+      "promise": "Dieser CTA fuehrt Wunsch, Zeit und Einkommen in einen kleinen naechsten Schritt.",
+      "variants": [
+        "Realitaet pruefen",
+        "Exit Guide oeffnen",
+        "Plan kleiner machen",
+        "Wunsch sortieren",
+        "Naechsten Schritt finden"
+      ],
+      "copy": "Mach den Freiheitswunsch einmal konkret, bevor du weiter traeumst.\n\nWenn Exit/Lifestyle gross im Kopf ist, mach ihn zuerst konkret und realistisch.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/exit-reality-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Wenn es noch relevant ist, starte hier. Sonst ignorier es einfach.",
+      "audience": "Warme Kontakte",
+      "intent": "Follow-up",
+      "label": "Follow-up Soft CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/follow-up-soft-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+      "rule": "Follow-up-CTA muss Druck rausnehmen und Kontext behalten.",
+      "promise": "Dieser CTA macht Nachfassen freundlich, kurz und manuell.",
+      "variants": [
+        "Kurz nachfassen",
+        "Ohne Druck oeffnen",
+        "Relevant pruefen",
+        "Market Now starten",
+        "Spaeter entscheiden"
+      ],
+      "copy": "Wenn es noch relevant ist, starte hier. Sonst ignorier es einfach.\n\nKurzer Nachtrag: Wenn es noch relevant ist, starte hier. Wenn nicht, kein Stress.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/follow-up-soft-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "cta": "Scanne nur, wenn du den passenden Kontext schon hast.",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "label": "QR Scan CTA",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/qr-scan-cta/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "rule": "QR-CTA muss erklaeren, warum der Scan sinnvoll ist.",
+      "promise": "Dieser CTA macht Offline-Traffic sauberer und verhindert Blindklicks.",
+      "variants": [
+        "QR Kontext pruefen",
+        "Code scannen",
+        "Fit-Check oeffnen",
+        "Offline-Pfad nutzen",
+        "Nicht blind klicken"
+      ],
+      "copy": "Scanne nur, wenn du den passenden Kontext schon hast.\n\nWenn wir gerade ueber das Thema sprechen: scanne den passenden Kontext, nicht irgendeinen Direktlink.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/qr-scan-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [

@@ -82,6 +82,17 @@
 - [SERS Hook: Zielgruppe Schmerz Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/zielgruppe-schmerz-hook/): Wenn dein Post fuer alle ist, erkennt sich niemand schnell genug wieder.
 - [SERS Hook: Follow-up Fair Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/follow-up-fair-hook/): Ein guter Follow-up erinnert. Er draengt nicht.
 - [SERS Hook: QR Kontext Hook](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/): Ein QR-Code ist kein Kaufbefehl. Er ist ein schneller Einstieg in den richtigen Kontext.
+- [SERS CTA Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html): Faire Call-to-Actions fuer Posts, Captions, DMs, Bio, QR und Follow-ups.
+- [SERS CTA: GPT Mini-Start CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/gpt-mini-start-cta/): Starte mit einer einzigen Aufgabe statt mit zehn Tools.
+- [SERS CTA: Affiliate Permission CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/affiliate-permission-cta/): Frag erst kurz, dann sende den passenden Link sauber.
+- [SERS CTA: Presell Fit CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/): Pruef kurz den Fit, bevor du den Direktlink oeffnest.
+- [SERS CTA: Bio Sortier CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/bio-sortier-cta/): Waehle erst dein Thema, dann den passenden naechsten Schritt.
+- [SERS CTA: Community Antwort CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/community-antwort-cta/): Nimm die kurze Antwort, der Link ist nur der Zusatz.
+- [SERS CTA: Shortform Caption CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/shortform-caption-cta/): Wenn dich das Beispiel betrifft, oeffne den passenden Pfad.
+- [SERS CTA: Audience Segment CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/audience-segment-cta/): Waehle dein Segment, nicht den breitesten Link.
+- [SERS CTA: Exit Reality CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/exit-reality-cta/): Mach den Freiheitswunsch einmal konkret, bevor du weiter traeumst.
+- [SERS CTA: Follow-up Soft CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/follow-up-soft-cta/): Wenn es noch relevant ist, starte hier. Sonst ignorier es einfach.
+- [SERS CTA: QR Scan CTA](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/qr-scan-cta/): Scanne nur, wenn du den passenden Kontext schon hast.
 - [SERS Audience: Freelancer](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/): Der GPT-Pfad sortiert den ersten Use Case und fuehrt danach nur zum passenden naechsten Schritt.
 - [SERS Audience: Creator](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/creator/): Das Video Kit macht aus jedem Link ein kurzes Script mit Hook, Caption und sauberem CTA.
 - [SERS Audience: Coaches und Berater](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/coaches/): Presell-Seiten erklaeren Fit, Nicht-Fit und naechsten Schritt, bevor ein Offer-Link erscheint.
