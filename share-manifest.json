@@ -13,6 +13,7 @@
     "closeNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
     "launchRoom": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+    "trafficLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "actionBoard": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
     "contentEngine": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
@@ -37,6 +38,7 @@
     "promptKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
     "emailKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html",
     "replyKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+    "proofKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html",
     "answerBank": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
     "postPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
     "shareKit": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
@@ -79,6 +81,11 @@
       "label": "SERS Traffic Launcher",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
       "use": "Sofort verteilbare Traffic-Copy und Share-Links nutzen."
+    },
+    {
+      "label": "SERS All Links Traffic Hub",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+      "use": "Alle oeffentlichen Links mit SEO-Intent, Kanal, Copy und Prioritaet verteilen."
     },
     {
       "label": "SERS Money Router",
@@ -2577,6 +2584,178 @@
         "Keine weitere Sequenz starten"
       ],
       "copy": "Ich glaube, das passt nicht.\n\nDann wuerde ich stoppen. Wenn du spaeter nochmal sortieren willst, nimm lieber diesen Fit-Check statt einen Direktlink: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/no-fit-trust-save/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    }
+  ],
+  "proofs": [
+    {
+      "label": "Buying Intent Signal",
+      "audience": "Warme Kaufintents",
+      "intent": "Close",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/buying-intent-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/link-request-buying-intent/",
+      "signal": "Jemand fragt aktiv nach dem passenden Link.",
+      "story": "Heute kam ein klares Link-Signal. Statt direkt einen nackten Affiliate-Link zu senden, fuehre ich zuerst ueber den sortierten Close-Pfad mit Hinweis.",
+      "evidence": [
+        "Originalantwort intern sichern",
+        "Keine privaten Daten posten",
+        "Close Now oder Reply Kit verlinken",
+        "Klick/Antwort nachtraeglich loggen"
+      ],
+      "rule": "Nur posten oder teilen, wenn das Signal wirklich passiert ist.",
+      "copy": "Buying Intent Signal\n\nHeute kam ein klares Link-Signal. Statt direkt einen nackten Affiliate-Link zu senden, fuehre ich zuerst ueber den sortierten Close-Pfad mit Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/buying-intent-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Price Question Signal",
+      "audience": "Preisfragende Kontakte",
+      "intent": "Einwand",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/price-question-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/price-question/",
+      "signal": "Jemand fragt nach Preis oder Kosten.",
+      "story": "Preisfragen sind oft noch kein Kauf, sondern ein Fit-Signal. Ich ordne deshalb zuerst den passenden Pfad ein, bevor ich ein Angebot schicke.",
+      "evidence": [
+        "Preisfrage paraphrasieren",
+        "Kein Screenshot mit Namen",
+        "Presell statt Direktlink nutzen",
+        "Kein Spar-/Gewinnversprechen"
+      ],
+      "rule": "Preisfragen nicht als Verkaufserfolg darstellen.",
+      "copy": "Price Question Signal\n\nPreisfragen sind oft noch kein Kauf, sondern ein Fit-Signal. Ich ordne deshalb zuerst den passenden Pfad ein, bevor ich ein Angebot schicke.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/price-question-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "No-Fit Trust Signal",
+      "audience": "Nicht passende Kontakte",
+      "intent": "Trust",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/no-fit-trust-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/no-fit-trust-save/",
+      "signal": "Jemand sagt klar, dass es gerade nicht passt.",
+      "story": "Auch No-Fit ist ein wertvolles Signal. Ich stoppe dann sauber, statt noch einen zweiten Link hinterherzuschieben.",
+      "evidence": [
+        "No-Fit als Lernsignal loggen",
+        "Keine Person nennen",
+        "Stop-Signal respektieren",
+        "Optional Fit-Check verlinken"
+      ],
+      "rule": "No-Fit nie in Druck oder Retargeting ohne Erlaubnis drehen.",
+      "copy": "No-Fit Trust Signal\n\nAuch No-Fit ist ein wertvolles Signal. Ich stoppe dann sauber, statt noch einen zweiten Link hinterherzuschieben.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/no-fit-trust-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "GPT Workflow Result",
+      "audience": "GPT-Starter",
+      "intent": "GPT",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/gpt-workflow-result/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
+      "signal": "Ein 20-Minuten-GPT-Workflow wurde getestet.",
+      "story": "Statt noch ein Tool zu kaufen, habe ich nur einen Workflow getestet und danach entschieden, ob der naechste Schritt Sinn ergibt.",
+      "evidence": [
+        "Vorher/nachher Aufgabe notieren",
+        "Kein Umsatzversprechen",
+        "Nur echten Workflow nennen",
+        "Prompt-Seite als Ressource teilen"
+      ],
+      "rule": "Nur echte Tests dokumentieren, keine erfundenen Produktivitaetsgewinne.",
+      "copy": "GPT Workflow Result\n\nStatt noch ein Tool zu kaufen, habe ich nur einen Workflow getestet und danach entschieden, ob der naechste Schritt Sinn ergibt.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/gpt-workflow-result/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Affiliate Permission Signal",
+      "audience": "Affiliate-Starter",
+      "intent": "Affiliate",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/affiliate-permission-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
+      "signal": "Ein Kontakt hat erlaubt, dass ein Link oder Pfad geschickt wird.",
+      "story": "Der beste Affiliate-Send startet nicht mit dem Link, sondern mit einer kurzen Permission-Frage. Erst bei Ja kommt der passende Pfad.",
+      "evidence": [
+        "Permission intern dokumentieren",
+        "Affiliate-Hinweis sichtbar lassen",
+        "Presell oder Reply nutzen",
+        "Keine Massen-DM behaupten"
+      ],
+      "rule": "Permission nicht nachtraeglich hineininterpretieren.",
+      "copy": "Affiliate Permission Signal\n\nDer beste Affiliate-Send startet nicht mit dem Link, sondern mit einer kurzen Permission-Frage. Erst bei Ja kommt der passende Pfad.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/affiliate-permission-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Exit Reality Signal",
+      "audience": "Exit-Interessierte",
+      "intent": "Exit/Lifestyle",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/exit-reality-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+      "signal": "Jemand spricht ernsthaft ueber Exit, Freiheit oder Ortswechsel.",
+      "story": "Bei Exit/Lifestyle ist ein Realitaetscheck staerker als ein Traumversprechen. Erst klaeren, ob Zeit, Einkommen, Skills und Risiko passen.",
+      "evidence": [
+        "Wunsch ohne private Details beschreiben",
+        "Risiko sichtbar lassen",
+        "Guide statt Direktkauf teilen",
+        "Erst bei Kaufnaehe closen"
+      ],
+      "rule": "Keine Freiheits- oder Einkommensgarantien posten.",
+      "copy": "Exit Reality Signal\n\nBei Exit/Lifestyle ist ein Realitaetscheck staerker als ein Traumversprechen. Erst klaeren, ob Zeit, Einkommen, Skills und Risiko passen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/exit-reality-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Partner Asset Request",
+      "audience": "Partner und Creator",
+      "intent": "Partner",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/partner-asset-request/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
+      "signal": "Ein Partner fragt nach teilbarem Material.",
+      "story": "Wenn jemand Material teilen will, schicke ich kein loses Linkpaket, sondern ein Kit mit Texten, Grenzen, Tracking und Disclosure.",
+      "evidence": [
+        "Partner-Fit pruefen",
+        "Keine Reichweite erfinden",
+        "UTM-Link bauen",
+        "Outreach Kit teilen"
+      ],
+      "rule": "Nur echte Partneranfragen als Signal nutzen.",
+      "copy": "Partner Asset Request\n\nWenn jemand Material teilen will, schicke ich kein loses Linkpaket, sondern ein Kit mit Texten, Grenzen, Tracking und Disclosure.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/partner-asset-request/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Newsletter Click Signal",
+      "audience": "Eigene Liste",
+      "intent": "Newsletter",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/newsletter-click-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+      "signal": "Ein erlaubter Listen-Klick oder eine Antwort kam rein.",
+      "story": "Ein Klick ist noch kein Kauf. Ich nutze ihn als Segment-Signal und fuehre danach auf den passenden Verteiler statt direkt ins Angebot.",
+      "evidence": [
+        "Nur erlaubte Liste nutzen",
+        "Klick anonym beschreiben",
+        "Intent abfragen",
+        "Organic Blitz als naechsten Pfad teilen"
+      ],
+      "rule": "Keine E-Mail-Metriken erfinden und keine fremden Daten nennen.",
+      "copy": "Newsletter Click Signal\n\nEin Klick ist noch kein Kauf. Ich nutze ihn als Segment-Signal und fuehre danach auf den passenden Verteiler statt direkt ins Angebot.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/newsletter-click-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "Community Helpful Answer",
+      "audience": "Community",
+      "intent": "Helpful Answer",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/community-helpful-answer/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "signal": "Eine Community-Frage wurde hilfreich beantwortet.",
+      "story": "In Communities gewinnt nicht der schnellste Link, sondern die hilfreiche Antwort. Der Link bleibt optional und kommt nur, wenn Regeln und Kontext passen.",
+      "evidence": [
+        "Frage anonymisieren",
+        "Antwort zuerst zeigen",
+        "Link optional halten",
+        "Gruppenregeln respektieren"
+      ],
+      "rule": "Keine Community-Screenshots oder private Namen posten.",
+      "copy": "Community Helpful Answer\n\nIn Communities gewinnt nicht der schnellste Link, sondern die hilfreiche Antwort. Der Link bleibt optional und kommt nur, wenn Regeln und Kontext passen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/community-helpful-answer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
+    },
+    {
+      "label": "QR Call Signal",
+      "audience": "Calls und Offline",
+      "intent": "QR",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/qr-call-signal/",
+      "targetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "signal": "Ein Call, QR-Scan oder Offline-Gespraech fuehrte zu Interesse.",
+      "story": "Offline-Interesse braucht einen ruhigen Online-Pfad. Ich nutze QR zuerst fuer Kontext und Fit, nicht als blinden Kauf-Code.",
+      "evidence": [
+        "Call-Kontext allgemein halten",
+        "Keine Namen oder Firmen nennen",
+        "QR Kit statt Direktlink nutzen",
+        "Folgeantwort loggen"
+      ],
+      "rule": "Nur echte Gespraeche als Signal verwenden.",
+      "copy": "QR Call Signal\n\nOffline-Interesse braucht einen ruhigen Online-Pfad. Ich nutze QR zuerst fuer Kontext und Fit, nicht als blinden Kauf-Code.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proofs/qr-call-signal/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich."
     }
   ],
   "answers": [
