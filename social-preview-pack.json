@@ -1,6 +1,6 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T13:14:20.533Z",
+  "generatedAt": "2026-05-21T13:14:51.181Z",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
   "socialPreviewPackUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
@@ -68,6 +68,40 @@
     },
     {
       "rank": 2,
+      "slug": "answer-packets",
+      "title": "Answer Packets",
+      "description": "Multi-Intent / AI/Answer Search: Als AI/Search Answer Packet nutzen: konkrete Frage, Kurzantwort und passende Links als statisches Bundle oeffnen.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+      "path": "/answer-packets.html",
+      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+      "intent": "Multi-Intent",
+      "channel": "AI/Answer Search",
+      "type": "ai_answer_packets",
+      "priority": 100,
+      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-answer-packets.svg",
+      "previewImagePath": "/social-preview-answer-packets.svg",
+      "previewAlt": "SERS preview card for Answer Packets",
+      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-answer-packets.svg",
+      "imagePath": "/social-preview-answer-packets.svg",
+      "imageAlt": "SERS preview card for Answer Packets",
+      "twitterCard": "summary_large_image",
+      "copy": "Answer Packets: Multi-Intent\n\nMulti-Intent / AI/Answer Search: Als AI/Search Answer Packet nutzen: konkrete Frage, Kurzantwort und passende Links als statisches Bundle oeffnen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packets%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20AI%2FAnswer%20Search%3A%20Als%20AI%2FSearch%20Answer%20Packet%20nutzen%3A%20konkrete%20Frage%2C%20Kurzantwort%20und%20passende%20Links%20als%20statisches%20Bundle%20oeffnen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packets%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20AI%2FAnswer%20Search%3A%20Als%20AI%2FSearch%20Answer%20Packet%20nutzen%3A%20konkrete%20Frage%2C%20Kurzantwort%20und%20passende%20Links%20als%20statisches%20Bundle%20oeffnen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Preview%3A%20Answer%20Packets&body=Answer%20Packets%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20AI%2FAnswer%20Search%3A%20Als%20AI%2FSearch%20Answer%20Packet%20nutzen%3A%20konkrete%20Frage%2C%20Kurzantwort%20und%20passende%20Links%20als%20statisches%20Bundle%20oeffnen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      },
+      "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
+    },
+    {
+      "rank": 3,
       "slug": "close-now",
       "title": "Close Now",
       "description": "Exit/Lifestyle / Warm Follow-up: Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen.",
@@ -101,7 +135,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "slug": "discovery-map",
       "title": "Discovery Map",
       "description": "Multi-Intent / AI/Agent Search: Als Search Discovery Mesh nutzen: Text-Sitemap, Atom Feed, JSON Map und Traffic-Hubs als Crawl-Startpunkte pruefen.",
@@ -135,7 +169,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "slug": "social-preview-pack",
       "title": "Social Preview Pack",
       "description": "Multi-Intent / Share Preview: Als Preview-Booster nutzen: Link-Vorschauen pruefen, passende Copy kopieren und manuell in erlaubten Kanaelen teilen.",
@@ -169,7 +203,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "slug": "traffic-links",
       "title": "Traffic Links",
       "description": "Multi-Intent / LinkedIn: Als SEO- und Share-Inventar verlinken: von Bio, Organic Blitz und manuellen Posts aus nutzen.",
@@ -203,7 +237,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "slug": "traffic-swarm",
       "title": "Traffic Swarm",
       "description": "Multi-Intent / Traffic Swarm: Als thematische Schwarmkarte nutzen: passenden Intent waehlen, 3-7 Links als Cluster manuell verteilen.",
@@ -237,7 +271,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "slug": "traffic-wave",
       "title": "Traffic Wave",
       "description": "Multi-Intent / Daily Wave: Als taegliche 12-Link-Welle oeffnen: erst Copy pruefen, dann manuell in passenden Kanaelen verteilen.",
@@ -271,7 +305,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "slug": "market-now",
       "title": "Market Now",
       "description": "Multi-Intent / Warm Follow-up: Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen.",
@@ -305,7 +339,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "slug": "guides-exit-lifestyle-realitaetscheck",
       "title": "Guides / Exit Lifestyle Realitaetscheck",
       "description": "Exit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -339,7 +373,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "slug": "faqs-exit-lifestyle-realistisch-pruefen",
       "title": "Faqs / Exit Lifestyle Realistisch Pruefen",
       "description": "Exit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -373,7 +407,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "slug": "offer-pages",
       "title": "Offer Pages",
       "description": "Affiliate / LinkedIn: Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss.",
@@ -407,7 +441,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "slug": "use-cases-exit-plan-realistisch-pruefen",
       "title": "Use Cases / Exit Plan Realistisch Pruefen",
       "description": "Exit/Lifestyle / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
@@ -441,7 +475,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "slug": "ctas-exit-reality-cta",
       "title": "Ctas / Exit Reality Cta",
       "description": "Exit/Lifestyle / Social: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
@@ -471,40 +505,6 @@
         "x": "https://twitter.com/intent/tweet?text=Ctas%20%2F%20Exit%20Reality%20Cta%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fexit-reality-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Ctas%20%2F%20Exit%20Reality%20Cta%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fexit-reality-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%20Preview%3A%20Ctas%20%2F%20Exit%20Reality%20Cta&body=Ctas%20%2F%20Exit%20Reality%20Cta%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fexit-reality-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      },
-      "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
-    },
-    {
-      "rank": 14,
-      "slug": "faqs-exit-masterplan-fuer-wen",
-      "title": "Faqs / Exit Masterplan Fuer Wen",
-      "description": "Exit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
-      "path": "/faqs/exit-masterplan-fuer-wen",
-      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
-      "intent": "Exit/Lifestyle",
-      "channel": "Community",
-      "type": "search_intent",
-      "priority": 75,
-      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-faqs-exit-masterplan-fuer-wen.svg",
-      "previewImagePath": "/social-preview-faqs-exit-masterplan-fuer-wen.svg",
-      "previewAlt": "SERS preview card for Faqs / Exit Masterplan Fuer Wen",
-      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-faqs-exit-masterplan-fuer-wen.svg",
-      "imagePath": "/social-preview-faqs-exit-masterplan-fuer-wen.svg",
-      "imageAlt": "SERS preview card for Faqs / Exit Masterplan Fuer Wen",
-      "twitterCard": "summary_large_image",
-      "copy": "Faqs / Exit Masterplan Fuer Wen: Exit/Lifestyle\n\nExit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "approvalState": "manual_approval_required",
-      "externalAction": "manual_only",
-      "openMode": "manual_open_only",
-      "paidSpend": "none",
-      "claimsTraffic": false,
-      "claimsRevenue": false,
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F",
-        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Preview%3A%20Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen&body=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       },
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
@@ -544,24 +544,24 @@
     },
     {
       "rank": 16,
-      "slug": "compare-exit-guide-vs-motivation",
-      "title": "Compare / Exit Guide Vs Motivation",
-      "description": "Exit/Lifestyle / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/",
-      "path": "/compare/exit-guide-vs-motivation",
-      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/",
+      "slug": "faqs-exit-masterplan-fuer-wen",
+      "title": "Faqs / Exit Masterplan Fuer Wen",
+      "description": "Exit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
+      "path": "/faqs/exit-masterplan-fuer-wen",
+      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
       "intent": "Exit/Lifestyle",
       "channel": "Community",
-      "type": "decision_asset",
+      "type": "search_intent",
       "priority": 74,
-      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-exit-guide-vs-motivation.svg",
-      "previewImagePath": "/social-preview-compare-exit-guide-vs-motivation.svg",
-      "previewAlt": "SERS preview card for Compare / Exit Guide Vs Motivation",
-      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-exit-guide-vs-motivation.svg",
-      "imagePath": "/social-preview-compare-exit-guide-vs-motivation.svg",
-      "imageAlt": "SERS preview card for Compare / Exit Guide Vs Motivation",
+      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-faqs-exit-masterplan-fuer-wen.svg",
+      "previewImagePath": "/social-preview-faqs-exit-masterplan-fuer-wen.svg",
+      "previewAlt": "SERS preview card for Faqs / Exit Masterplan Fuer Wen",
+      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-faqs-exit-masterplan-fuer-wen.svg",
+      "imagePath": "/social-preview-faqs-exit-masterplan-fuer-wen.svg",
+      "imageAlt": "SERS preview card for Faqs / Exit Masterplan Fuer Wen",
       "twitterCard": "summary_large_image",
-      "copy": "Compare / Exit Guide Vs Motivation: Exit/Lifestyle\n\nExit/Lifestyle / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Faqs / Exit Masterplan Fuer Wen: Exit/Lifestyle\n\nExit/Lifestyle / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "approvalState": "manual_approval_required",
       "externalAction": "manual_only",
       "openMode": "manual_open_only",
@@ -569,10 +569,10 @@
       "claimsTraffic": false,
       "claimsRevenue": false,
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F",
-        "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Preview%3A%20Compare%20%2F%20Exit%20Guide%20Vs%20Motivation&body=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F",
+        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Preview%3A%20Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen&body=Faqs%20%2F%20Exit%20Masterplan%20Fuer%20Wen%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fexit-masterplan-fuer-wen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       },
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
@@ -646,6 +646,40 @@
     },
     {
       "rank": 19,
+      "slug": "compare-exit-guide-vs-motivation",
+      "title": "Compare / Exit Guide Vs Motivation",
+      "description": "Exit/Lifestyle / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/",
+      "path": "/compare/exit-guide-vs-motivation",
+      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/",
+      "intent": "Exit/Lifestyle",
+      "channel": "Community",
+      "type": "decision_asset",
+      "priority": 73,
+      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-exit-guide-vs-motivation.svg",
+      "previewImagePath": "/social-preview-compare-exit-guide-vs-motivation.svg",
+      "previewAlt": "SERS preview card for Compare / Exit Guide Vs Motivation",
+      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-exit-guide-vs-motivation.svg",
+      "imagePath": "/social-preview-compare-exit-guide-vs-motivation.svg",
+      "imageAlt": "SERS preview card for Compare / Exit Guide Vs Motivation",
+      "twitterCard": "summary_large_image",
+      "copy": "Compare / Exit Guide Vs Motivation: Exit/Lifestyle\n\nExit/Lifestyle / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F",
+        "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Preview%3A%20Compare%20%2F%20Exit%20Guide%20Vs%20Motivation&body=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      },
+      "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
+    },
+    {
+      "rank": 20,
       "slug": "guides-affiliate-neustart-mit-permission",
       "title": "Guides / Affiliate Neustart Mit Permission",
       "description": "Affiliate / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -679,7 +713,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "slug": "guides-digital-business-soft-start",
       "title": "Guides / Digital Business Soft Start",
       "description": "Digital Business / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -713,7 +747,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "slug": "guides-gpt-starter-ohne-tool-chaos",
       "title": "Guides / Gpt Starter Ohne Tool Chaos",
       "description": "GPT / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -747,7 +781,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "slug": "guides-mindset-umsetzung-statt-sammeln",
       "title": "Guides / Mindset Umsetzung Statt Sammeln",
       "description": "Mindset / Community: Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
@@ -781,7 +815,7 @@
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "slug": "checklists-exit-lifestyle-checkliste",
       "title": "Checklists / Exit Lifestyle Checkliste",
       "description": "Exit/Lifestyle / Social: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
@@ -811,40 +845,6 @@
         "x": "https://twitter.com/intent/tweet?text=Checklists%20%2F%20Exit%20Lifestyle%20Checkliste%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fexit-lifestyle-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Checklists%20%2F%20Exit%20Lifestyle%20Checkliste%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fexit-lifestyle-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%20Preview%3A%20Checklists%20%2F%20Exit%20Lifestyle%20Checkliste&body=Checklists%20%2F%20Exit%20Lifestyle%20Checkliste%3A%20Exit%2FLifestyle%0A%0AExit%2FLifestyle%20%2F%20Social%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fexit-lifestyle-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      },
-      "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
-    },
-    {
-      "rank": 24,
-      "slug": "compare-objection-kit-vs-faq",
-      "title": "Compare / Objection Kit Vs Faq",
-      "description": "Multi-Intent / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/objection-kit-vs-faq/",
-      "path": "/compare/objection-kit-vs-faq",
-      "canonicalUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/objection-kit-vs-faq/",
-      "intent": "Multi-Intent",
-      "channel": "Community",
-      "type": "decision_asset",
-      "priority": 71,
-      "previewImage": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-objection-kit-vs-faq.svg",
-      "previewImagePath": "/social-preview-compare-objection-kit-vs-faq.svg",
-      "previewAlt": "SERS preview card for Compare / Objection Kit Vs Faq",
-      "imageUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-compare-objection-kit-vs-faq.svg",
-      "imagePath": "/social-preview-compare-objection-kit-vs-faq.svg",
-      "imageAlt": "SERS preview card for Compare / Objection Kit Vs Faq",
-      "twitterCard": "summary_large_image",
-      "copy": "Compare / Objection Kit Vs Faq: Multi-Intent\n\nMulti-Intent / Community: Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/objection-kit-vs-faq/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "approvalState": "manual_approval_required",
-      "externalAction": "manual_only",
-      "openMode": "manual_open_only",
-      "paidSpend": "none",
-      "claimsTraffic": false,
-      "claimsRevenue": false,
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fobjection-kit-vs-faq%2F",
-        "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Objection%20Kit%20Vs%20Faq%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fobjection-kit-vs-faq%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Compare%20%2F%20Objection%20Kit%20Vs%20Faq%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fobjection-kit-vs-faq%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Preview%3A%20Compare%20%2F%20Objection%20Kit%20Vs%20Faq&body=Compare%20%2F%20Objection%20Kit%20Vs%20Faq%3A%20Multi-Intent%0A%0AMulti-Intent%20%2F%20Community%3A%20Als%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fobjection-kit-vs-faq%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       },
       "packUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html"
     }

@@ -1,6 +1,6 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T13:14:20.492Z",
+  "generatedAt": "2026-05-21T13:14:51.105Z",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "discoveryMapUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
   "discoveryMapJsonUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.json",
@@ -18,9 +18,9 @@
   "shareManifest": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json",
   "socialPreviewPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
   "socialPreviewPackJson": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.json",
-  "totalSitemapUrls": 244,
-  "totalInventoryUrls": 235,
-  "publicTrafficUrls": 235,
+  "totalSitemapUrls": 247,
+  "totalInventoryUrls": 236,
+  "publicTrafficUrls": 236,
   "taskCount": 7,
   "automationBoundary": "static_search_discovery_mesh_only",
   "manualComposerBoundary": "manual_open_only",
@@ -88,7 +88,7 @@
           "intent": "Affiliate",
           "type": "support_hub",
           "channel": "LinkedIn",
-          "priority": 62,
+          "priority": 61,
           "action": "Als Support-Link teilen, wenn die Frage exakt passt."
         },
         {
@@ -415,7 +415,7 @@
           "intent": "Multi-Intent",
           "type": "support_hub",
           "channel": "LinkedIn",
-          "priority": 63,
+          "priority": 62,
           "action": "Als Support-Link teilen, wenn die Frage exakt passt."
         }
       ]
