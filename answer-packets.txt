@@ -1,0 +1,135 @@
+SERS Answer Packets
+URL: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html
+JSON: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.json
+
+1. Wie teile ich Affiliate-Links, ohne wie Spam zu wirken?
+Intent: Affiliate / Community
+Starte mit dem Problem, klaere den Fit und nutze erst danach einen Presell- oder Antwort-Link mit sichtbarem Hinweis.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html
+
+2. Welchen Link gebe ich jemandem, der mit GPT starten will?
+Intent: GPT / AI
+Fuehre zuerst auf einen leichten GPT-Einstieg oder Prompt-Pfad. Direktlinks sind erst sinnvoll, wenn Bedarf und Kontext klar sind.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/
+
+3. Was schicke ich bei echtem Exit- oder Lifestyle-Interesse?
+Intent: Exit/Lifestyle
+Nutze den Winner-Pfad erst bei warmem Interesse. Wenn der Fit noch unklar ist, fuehre ueber Market Now oder den Fit-Check.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html
+
+4. Wie starte ich heute eine kleine organische Traffic-Welle?
+Intent: Daily Traffic
+Oeffne die Daily Traffic Wave, pruefe die vorgeschlagenen Links und teile nur passende Copy in Kanaelen, die du wirklich kontrollierst.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html
+
+5. Wie antworte ich hilfreich in Kommentaren oder Communities?
+Intent: Community Answer
+Beantworte die Frage zuerst kurz und nutze den Link nur als weiterfuehrenden Kontext. Die Antwort-Bank und FAQ-Seiten sind dafuer gebaut.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html
+
+6. Welchen Bio-Link soll ich setzen?
+Intent: Bio / Profile
+Wenn du mehrere Intents abdeckst, nutze den Bio Hub oder Organic Blitz. Bei klarer Kampagne ist der Winner- oder Presell-Pfad besser.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html
+
+7. Welche Dateien helfen Suchmaschinen und AI-Crawlern, die Links zu finden?
+Intent: AI/Agent Search
+Nutze Discovery Mesh, Agent Discovery, Text-Sitemap, Atom Feed und LLMS als klare statische Einstiegspunkte fuer Crawler.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
+
+8. Wie mache ich manuelle Shares klickbarer?
+Intent: Share Preview
+Pruefe den Social Preview Pack. Er buendelt Canonical-, OG- und Twitter-Metadaten plus sichere Copy fuer priorisierte Links.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html
+
+9. Wie nutze ich QR-Codes fuer mehr passende Einstiege?
+Intent: QR / Offline
+Leite QR-Traffic auf einen Kontext-Hub statt auf einen nackten Direktlink. QR Kit, Fit-Check oder Organic Blitz sind die saubersten Starts.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html
+
+10. Was mache ich, wenn jemand unsicher ist oder einen Einwand hat?
+Intent: Objection / Decision
+Druck rausnehmen: Einwand beantworten, Vergleich oder Score anbieten und erst nach klarem Fit den naechsten Pfad nennen.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html
+
+11. Welche E-Mail schicke ich nach einem warmen Signal?
+Intent: Warm Follow-up
+Nutze eine kurze, kontextbezogene Follow-up-Mail. Sie sollte den Grund, den passenden Link und den Affiliate-Hinweis klar enthalten.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+
+12. Welchen Video-Hook nutze ich fuer organische Reichweite?
+Intent: Shortform Video
+Starte mit einem echten Problem, nicht mit dem Angebot. Video Kit, Hook Kit und CTA Kit liefern dafuer die passende Reihenfolge.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html
+
+13. Wann sollte ich eine Vergleichsseite statt eines Direktlinks senden?
+Intent: Comparison
+Wenn die Person noch zwischen Optionen schwankt, ist Compare Kit oder Checklist Kit besser als ein Direktlink. Das erhoeht Klarheit ohne Druck.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html
+
+14. Was ist der sauberste naechste Schritt bei warmem Kaufintent?
+Intent: Buyer Intent
+Bei warmem Kaufintent darf der Abschluss-Hub nach vorne. Bleib transparent, nutze den Hinweis und logge die echte Antwort danach lokal.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html
+
+15. Wie baue ich schnell passende Copy fuer einen Link?
+Intent: Copy / Prompt
+Nutze Prompt Kit, Hook Kit und CTA Kit als Sequenz: Problemwinkel, kurzer Text, klarer naechster Schritt, dann passender Link.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html
+
+16. Wie nutze ich echte Signale, ohne Fake-Proof zu bauen?
+Intent: Proof / Trust
+Nutze nur reale Signale, entferne private Details und formuliere keine Ergebnisversprechen. Proof Kit hilft beim sauberen Mini-Story-Format.
+Primary: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html
+Related: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+
+Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.

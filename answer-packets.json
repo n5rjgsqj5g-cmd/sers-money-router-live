@@ -1,0 +1,1179 @@
+{
+  "version": "2026-05-21",
+  "generatedAt": "2026-05-21T13:25:31.754Z",
+  "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
+  "packetUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+  "answerPacketsUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+  "answerPacketsJsonUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.json",
+  "answerPacketsTextUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.txt",
+  "sourceInventory": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+  "searchDiscoveryMesh": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+  "agentDiscovery": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+  "sitemapText": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt",
+  "atomFeed": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom",
+  "llmsTxt": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt",
+  "packetCount": 16,
+  "automationBoundary": "static_answer_packets_only",
+  "manualComposerBoundary": "manual_open_only",
+  "externalAction": "none",
+  "paidSpend": "none",
+  "claimsTraffic": false,
+  "claimsRevenue": false,
+  "disclosure": "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+  "agentFriendlySignals": [
+    "question_answer_pairs",
+    "plain_html_cards",
+    "json_payload",
+    "plain_text_packet",
+    "schema_org_faqpage",
+    "sitemap_xml",
+    "sitemap_txt",
+    "atom_feed",
+    "llms_txt",
+    "indexnow_payload"
+  ],
+  "items": [
+    {
+      "rank": 1,
+      "id": "affiliate-link-ohne-spam",
+      "query": "Wie teile ich Affiliate-Links, ohne wie Spam zu wirken?",
+      "intent": "Affiliate / Community",
+      "answer": "Starte mit dem Problem, klaere den Fit und nutze erst danach einen Presell- oder Antwort-Link mit sichtbarem Hinweis.",
+      "cta": "Antwort-Bank oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+      "primaryPath": "/answers.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 1: Wie teile ich Affiliate-Links, ohne wie Spam zu wirken?\n\nStarte mit dem Problem, klaere den Fit und nutze erst danach einen Presell- oder Antwort-Link mit sichtbarem Hinweis.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+          "path": "/answers.html",
+          "title": "Answers",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
+          "path": "/faq-kit.html",
+          "title": "Faq Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+          "path": "/offer-pages.html",
+          "title": "Offer Pages",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+          "path": "/fit-check.html",
+          "title": "Fit Check",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 5,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+          "path": "/traffic-swarm.html",
+          "title": "Traffic Swarm",
+          "intent": "Multi-Intent",
+          "type": "traffic_swarm",
+          "channel": "Traffic Swarm",
+          "action": "Als thematische Schwarmkarte nutzen: passenden Intent waehlen, 3-7 Links als Cluster manuell verteilen."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%201%3A%20Wie%20teile%20ich%20Affiliate-Links%2C%20ohne%20wie%20Spam%20zu%20wirken%3F%0A%0AStarte%20mit%20dem%20Problem%2C%20klaere%20den%20Fit%20und%20nutze%20erst%20danach%20einen%20Presell-%20oder%20Antwort-Link%20mit%20sichtbarem%20Hinweis.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%201%3A%20Wie%20teile%20ich%20Affiliate-Links%2C%20ohne%20wie%20Spam%20zu%20wirken%3F%0A%0AStarte%20mit%20dem%20Problem%2C%20klaere%20den%20Fit%20und%20nutze%20erst%20danach%20einen%20Presell-%20oder%20Antwort-Link%20mit%20sichtbarem%20Hinweis.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20teile%20ich%20Affiliate-Links%2C%20ohne%20wie%20Spam%20zu%20wirken%3F&body=Answer%20Packet%201%3A%20Wie%20teile%20ich%20Affiliate-Links%2C%20ohne%20wie%20Spam%20zu%20wirken%3F%0A%0AStarte%20mit%20dem%20Problem%2C%20klaere%20den%20Fit%20und%20nutze%20erst%20danach%20einen%20Presell-%20oder%20Antwort-Link%20mit%20sichtbarem%20Hinweis.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 2,
+      "id": "gpt-starter-link",
+      "query": "Welchen Link gebe ich jemandem, der mit GPT starten will?",
+      "intent": "GPT / AI",
+      "answer": "Fuehre zuerst auf einen leichten GPT-Einstieg oder Prompt-Pfad. Direktlinks sind erst sinnvoll, wenn Bedarf und Kontext klar sind.",
+      "cta": "GPT Einstieg oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+      "primaryPath": "/guides/gpt-produktiv-starten/",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 2: Welchen Link gebe ich jemandem, der mit GPT starten will?\n\nFuehre zuerst auf einen leichten GPT-Einstieg oder Prompt-Pfad. Direktlinks sind erst sinnvoll, wenn Bedarf und Kontext klar sind.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/gpt-starter-ohne-tool-chaos/",
+          "path": "/guides/gpt-produktiv-starten/",
+          "title": "Guides / Gpt Starter Ohne Tool Chaos",
+          "intent": "GPT",
+          "type": "search_intent",
+          "channel": "Community",
+          "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+          "path": "/prompt-kit.html",
+          "title": "Prompt Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
+          "path": "/use-case-kit.html",
+          "title": "Use Case Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/",
+          "path": "/offers/gpt-starter-guide/",
+          "title": "Offers / Gpt Starter Guide",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fgpt-starter-ohne-tool-chaos%2F",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%202%3A%20Welchen%20Link%20gebe%20ich%20jemandem%2C%20der%20mit%20GPT%20starten%20will%3F%0A%0AFuehre%20zuerst%20auf%20einen%20leichten%20GPT-Einstieg%20oder%20Prompt-Pfad.%20Direktlinks%20sind%20erst%20sinnvoll%2C%20wenn%20Bedarf%20und%20Kontext%20klar%20sind.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fgpt-starter-ohne-tool-chaos%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-case-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fgpt-starter-guide%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%202%3A%20Welchen%20Link%20gebe%20ich%20jemandem%2C%20der%20mit%20GPT%20starten%20will%3F%0A%0AFuehre%20zuerst%20auf%20einen%20leichten%20GPT-Einstieg%20oder%20Prompt-Pfad.%20Direktlinks%20sind%20erst%20sinnvoll%2C%20wenn%20Bedarf%20und%20Kontext%20klar%20sind.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fgpt-starter-ohne-tool-chaos%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-case-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fgpt-starter-guide%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Welchen%20Link%20gebe%20ich%20jemandem%2C%20der%20mit%20GPT%20starten%20will%3F&body=Answer%20Packet%202%3A%20Welchen%20Link%20gebe%20ich%20jemandem%2C%20der%20mit%20GPT%20starten%20will%3F%0A%0AFuehre%20zuerst%20auf%20einen%20leichten%20GPT-Einstieg%20oder%20Prompt-Pfad.%20Direktlinks%20sind%20erst%20sinnvoll%2C%20wenn%20Bedarf%20und%20Kontext%20klar%20sind.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fgpt-starter-ohne-tool-chaos%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-case-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fgpt-starter-guide%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 3,
+      "id": "exit-lifestyle-interesse",
+      "query": "Was schicke ich bei echtem Exit- oder Lifestyle-Interesse?",
+      "intent": "Exit/Lifestyle",
+      "answer": "Nutze den Winner-Pfad erst bei warmem Interesse. Wenn der Fit noch unklar ist, fuehre ueber Market Now oder den Fit-Check.",
+      "cta": "Close Now oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "primaryPath": "/close-now.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 3: Was schicke ich bei echtem Exit- oder Lifestyle-Interesse?\n\nNutze den Winner-Pfad erst bei warmem Interesse. Wenn der Fit noch unklar ist, fuehre ueber Market Now oder den Fit-Check.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+          "path": "/close-now.html",
+          "title": "Close Now",
+          "intent": "Exit/Lifestyle",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+          "path": "/market-now.html",
+          "title": "Market Now",
+          "intent": "Multi-Intent",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
+          "path": "/guides/exit-lifestyle-realitaetscheck/",
+          "title": "Guides / Exit Lifestyle Realitaetscheck",
+          "intent": "Exit/Lifestyle",
+          "type": "search_intent",
+          "channel": "Community",
+          "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+          "path": "/fit-check.html",
+          "title": "Fit Check",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%203%3A%20Was%20schicke%20ich%20bei%20echtem%20Exit-%20oder%20Lifestyle-Interesse%3F%0A%0ANutze%20den%20Winner-Pfad%20erst%20bei%20warmem%20Interesse.%20Wenn%20der%20Fit%20noch%20unklar%20ist%2C%20fuehre%20ueber%20Market%20Now%20oder%20den%20Fit-Check.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fexit-lifestyle-realitaetscheck%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%203%3A%20Was%20schicke%20ich%20bei%20echtem%20Exit-%20oder%20Lifestyle-Interesse%3F%0A%0ANutze%20den%20Winner-Pfad%20erst%20bei%20warmem%20Interesse.%20Wenn%20der%20Fit%20noch%20unklar%20ist%2C%20fuehre%20ueber%20Market%20Now%20oder%20den%20Fit-Check.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fexit-lifestyle-realitaetscheck%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Was%20schicke%20ich%20bei%20echtem%20Exit-%20oder%20Lifestyle-Interesse%3F&body=Answer%20Packet%203%3A%20Was%20schicke%20ich%20bei%20echtem%20Exit-%20oder%20Lifestyle-Interesse%3F%0A%0ANutze%20den%20Winner-Pfad%20erst%20bei%20warmem%20Interesse.%20Wenn%20der%20Fit%20noch%20unklar%20ist%2C%20fuehre%20ueber%20Market%20Now%20oder%20den%20Fit-Check.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Fexit-lifestyle-realitaetscheck%2F%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 4,
+      "id": "daily-traffic-wave",
+      "query": "Wie starte ich heute eine kleine organische Traffic-Welle?",
+      "intent": "Daily Traffic",
+      "answer": "Oeffne die Daily Traffic Wave, pruefe die vorgeschlagenen Links und teile nur passende Copy in Kanaelen, die du wirklich kontrollierst.",
+      "cta": "Traffic Wave oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
+      "primaryPath": "/traffic-wave.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 4: Wie starte ich heute eine kleine organische Traffic-Welle?\n\nOeffne die Daily Traffic Wave, pruefe die vorgeschlagenen Links und teile nur passende Copy in Kanaelen, die du wirklich kontrollierst.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
+          "path": "/traffic-wave.html",
+          "title": "Traffic Wave",
+          "intent": "Multi-Intent",
+          "type": "daily_traffic_wave",
+          "channel": "Daily Wave",
+          "action": "Als taegliche 12-Link-Welle oeffnen: erst Copy pruefen, dann manuell in passenden Kanaelen verteilen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+          "path": "/traffic-swarm.html",
+          "title": "Traffic Swarm",
+          "intent": "Multi-Intent",
+          "type": "traffic_swarm",
+          "channel": "Traffic Swarm",
+          "action": "Als thematische Schwarmkarte nutzen: passenden Intent waehlen, 3-7 Links als Cluster manuell verteilen."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+          "path": "/traffic-links.html",
+          "title": "Traffic Links",
+          "intent": "Multi-Intent",
+          "type": "all_links_hub",
+          "channel": "LinkedIn",
+          "action": "Als SEO- und Share-Inventar verlinken: von Bio, Organic Blitz und manuellen Posts aus nutzen."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+          "path": "/organic-blitz.html",
+          "title": "Organic Blitz",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%204%3A%20Wie%20starte%20ich%20heute%20eine%20kleine%20organische%20Traffic-Welle%3F%0A%0AOeffne%20die%20Daily%20Traffic%20Wave%2C%20pruefe%20die%20vorgeschlagenen%20Links%20und%20teile%20nur%20passende%20Copy%20in%20Kanaelen%2C%20die%20du%20wirklich%20kontrollierst.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%204%3A%20Wie%20starte%20ich%20heute%20eine%20kleine%20organische%20Traffic-Welle%3F%0A%0AOeffne%20die%20Daily%20Traffic%20Wave%2C%20pruefe%20die%20vorgeschlagenen%20Links%20und%20teile%20nur%20passende%20Copy%20in%20Kanaelen%2C%20die%20du%20wirklich%20kontrollierst.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20starte%20ich%20heute%20eine%20kleine%20organische%20Traffic-Welle%3F&body=Answer%20Packet%204%3A%20Wie%20starte%20ich%20heute%20eine%20kleine%20organische%20Traffic-Welle%3F%0A%0AOeffne%20die%20Daily%20Traffic%20Wave%2C%20pruefe%20die%20vorgeschlagenen%20Links%20und%20teile%20nur%20passende%20Copy%20in%20Kanaelen%2C%20die%20du%20wirklich%20kontrollierst.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 5,
+      "id": "community-antwort",
+      "query": "Wie antworte ich hilfreich in Kommentaren oder Communities?",
+      "intent": "Community Answer",
+      "answer": "Beantworte die Frage zuerst kurz und nutze den Link nur als weiterfuehrenden Kontext. Die Antwort-Bank und FAQ-Seiten sind dafuer gebaut.",
+      "cta": "Answer Packets oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+      "primaryPath": "/answer-packets.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 5: Wie antworte ich hilfreich in Kommentaren oder Communities?\n\nBeantworte die Frage zuerst kurz und nutze den Link nur als weiterfuehrenden Kontext. Die Antwort-Bank und FAQ-Seiten sind dafuer gebaut.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+          "path": "/answer-packets.html",
+          "title": "Answer Packets",
+          "intent": "Multi-Intent",
+          "type": "ai_answer_packets",
+          "channel": "AI/Answer Search",
+          "action": "Als AI/Search Answer Packet nutzen: konkrete Frage, Kurzantwort und passende Links als statisches Bundle oeffnen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
+          "path": "/answers.html",
+          "title": "Answers",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html",
+          "path": "/faq-kit.html",
+          "title": "Faq Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+          "path": "/reply-kit.html",
+          "title": "Reply Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%205%3A%20Wie%20antworte%20ich%20hilfreich%20in%20Kommentaren%20oder%20Communities%3F%0A%0ABeantworte%20die%20Frage%20zuerst%20kurz%20und%20nutze%20den%20Link%20nur%20als%20weiterfuehrenden%20Kontext.%20Die%20Antwort-Bank%20und%20FAQ-Seiten%20sind%20dafuer%20gebaut.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%205%3A%20Wie%20antworte%20ich%20hilfreich%20in%20Kommentaren%20oder%20Communities%3F%0A%0ABeantworte%20die%20Frage%20zuerst%20kurz%20und%20nutze%20den%20Link%20nur%20als%20weiterfuehrenden%20Kontext.%20Die%20Antwort-Bank%20und%20FAQ-Seiten%20sind%20dafuer%20gebaut.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20antworte%20ich%20hilfreich%20in%20Kommentaren%20oder%20Communities%3F&body=Answer%20Packet%205%3A%20Wie%20antworte%20ich%20hilfreich%20in%20Kommentaren%20oder%20Communities%3F%0A%0ABeantworte%20die%20Frage%20zuerst%20kurz%20und%20nutze%20den%20Link%20nur%20als%20weiterfuehrenden%20Kontext.%20Die%20Antwort-Bank%20und%20FAQ-Seiten%20sind%20dafuer%20gebaut.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswer-packets.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaq-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 6,
+      "id": "bio-link-waehlen",
+      "query": "Welchen Bio-Link soll ich setzen?",
+      "intent": "Bio / Profile",
+      "answer": "Wenn du mehrere Intents abdeckst, nutze den Bio Hub oder Organic Blitz. Bei klarer Kampagne ist der Winner- oder Presell-Pfad besser.",
+      "cta": "Bio Hub oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+      "primaryPath": "/bio.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 6: Welchen Bio-Link soll ich setzen?\n\nWenn du mehrere Intents abdeckst, nutze den Bio Hub oder Organic Blitz. Bei klarer Kampagne ist der Winner- oder Presell-Pfad besser.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
+          "path": "/bio.html",
+          "title": "Bio",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+          "path": "/organic-blitz.html",
+          "title": "Organic Blitz",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
+          "path": "/market-now.html",
+          "title": "Market Now",
+          "intent": "Multi-Intent",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+          "path": "/offer-pages.html",
+          "title": "Offer Pages",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fbio.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%206%3A%20Welchen%20Bio-Link%20soll%20ich%20setzen%3F%0A%0AWenn%20du%20mehrere%20Intents%20abdeckst%2C%20nutze%20den%20Bio%20Hub%20oder%20Organic%20Blitz.%20Bei%20klarer%20Kampagne%20ist%20der%20Winner-%20oder%20Presell-Pfad%20besser.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fbio.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%206%3A%20Welchen%20Bio-Link%20soll%20ich%20setzen%3F%0A%0AWenn%20du%20mehrere%20Intents%20abdeckst%2C%20nutze%20den%20Bio%20Hub%20oder%20Organic%20Blitz.%20Bei%20klarer%20Kampagne%20ist%20der%20Winner-%20oder%20Presell-Pfad%20besser.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fbio.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Welchen%20Bio-Link%20soll%20ich%20setzen%3F&body=Answer%20Packet%206%3A%20Welchen%20Bio-Link%20soll%20ich%20setzen%3F%0A%0AWenn%20du%20mehrere%20Intents%20abdeckst%2C%20nutze%20den%20Bio%20Hub%20oder%20Organic%20Blitz.%20Bei%20klarer%20Kampagne%20ist%20der%20Winner-%20oder%20Presell-Pfad%20besser.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fbio.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 7,
+      "id": "ai-crawler-discovery",
+      "query": "Welche Dateien helfen Suchmaschinen und AI-Crawlern, die Links zu finden?",
+      "intent": "AI/Agent Search",
+      "answer": "Nutze Discovery Mesh, Agent Discovery, Text-Sitemap, Atom Feed und LLMS als klare statische Einstiegspunkte fuer Crawler.",
+      "cta": "Discovery Mesh oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+      "primaryPath": "/discovery-map.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 7: Welche Dateien helfen Suchmaschinen und AI-Crawlern, die Links zu finden?\n\nNutze Discovery Mesh, Agent Discovery, Text-Sitemap, Atom Feed und LLMS als klare statische Einstiegspunkte fuer Crawler.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+          "path": "/discovery-map.html",
+          "title": "Discovery Map",
+          "intent": "Multi-Intent",
+          "type": "search_discovery_mesh",
+          "channel": "AI/Agent Search",
+          "action": "Als Search Discovery Mesh nutzen: Text-Sitemap, Atom Feed, JSON Map und Traffic-Hubs als Crawl-Startpunkte pruefen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+          "path": "/agent-discovery.html",
+          "title": "Agent Discovery",
+          "intent": "Multi-Intent",
+          "type": "agentic_discovery_map",
+          "channel": "AI/Agent Search",
+          "action": "Als AI-/Browser-Agent-Einstieg nutzen: Aufgabe waehlen, passenden Hub oeffnen, externe Aktion manuell entscheiden."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt",
+          "path": "/sitemap.txt",
+          "title": "Sitemap.txt",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom",
+          "path": "/feed.atom",
+          "title": "Feed.atom",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 5,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt",
+          "path": "/llms.txt",
+          "title": "Llms.txt",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%207%3A%20Welche%20Dateien%20helfen%20Suchmaschinen%20und%20AI-Crawlern%2C%20die%20Links%20zu%20finden%3F%0A%0ANutze%20Discovery%20Mesh%2C%20Agent%20Discovery%2C%20Text-Sitemap%2C%20Atom%20Feed%20und%20LLMS%20als%20klare%20statische%20Einstiegspunkte%20fuer%20Crawler.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsitemap.txt%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffeed.atom%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fllms.txt%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%207%3A%20Welche%20Dateien%20helfen%20Suchmaschinen%20und%20AI-Crawlern%2C%20die%20Links%20zu%20finden%3F%0A%0ANutze%20Discovery%20Mesh%2C%20Agent%20Discovery%2C%20Text-Sitemap%2C%20Atom%20Feed%20und%20LLMS%20als%20klare%20statische%20Einstiegspunkte%20fuer%20Crawler.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsitemap.txt%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffeed.atom%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fllms.txt%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Welche%20Dateien%20helfen%20Suchmaschinen%20und%20AI-Crawlern%2C%20die%20Links%20zu%20finden%3F&body=Answer%20Packet%207%3A%20Welche%20Dateien%20helfen%20Suchmaschinen%20und%20AI-Crawlern%2C%20die%20Links%20zu%20finden%3F%0A%0ANutze%20Discovery%20Mesh%2C%20Agent%20Discovery%2C%20Text-Sitemap%2C%20Atom%20Feed%20und%20LLMS%20als%20klare%20statische%20Einstiegspunkte%20fuer%20Crawler.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsitemap.txt%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffeed.atom%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fllms.txt%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 8,
+      "id": "share-preview-verbessern",
+      "query": "Wie mache ich manuelle Shares klickbarer?",
+      "intent": "Share Preview",
+      "answer": "Pruefe den Social Preview Pack. Er buendelt Canonical-, OG- und Twitter-Metadaten plus sichere Copy fuer priorisierte Links.",
+      "cta": "Preview Pack oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
+      "primaryPath": "/social-preview-pack.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 8: Wie mache ich manuelle Shares klickbarer?\n\nPruefe den Social Preview Pack. Er buendelt Canonical-, OG- und Twitter-Metadaten plus sichere Copy fuer priorisierte Links.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
+          "path": "/social-preview-pack.html",
+          "title": "Social Preview Pack",
+          "intent": "Multi-Intent",
+          "type": "social_preview_pack",
+          "channel": "Share Preview",
+          "action": "Als Preview-Booster nutzen: Link-Vorschauen pruefen, passende Copy kopieren und manuell in erlaubten Kanaelen teilen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+          "path": "/traffic-links.html",
+          "title": "Traffic Links",
+          "intent": "Multi-Intent",
+          "type": "all_links_hub",
+          "channel": "LinkedIn",
+          "action": "Als SEO- und Share-Inventar verlinken: von Bio, Organic Blitz und manuellen Posts aus nutzen."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
+          "path": "/traffic-wave.html",
+          "title": "Traffic Wave",
+          "intent": "Multi-Intent",
+          "type": "daily_traffic_wave",
+          "channel": "Daily Wave",
+          "action": "Als taegliche 12-Link-Welle oeffnen: erst Copy pruefen, dann manuell in passenden Kanaelen verteilen."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+          "path": "/traffic-swarm.html",
+          "title": "Traffic Swarm",
+          "intent": "Multi-Intent",
+          "type": "traffic_swarm",
+          "channel": "Traffic Swarm",
+          "action": "Als thematische Schwarmkarte nutzen: passenden Intent waehlen, 3-7 Links als Cluster manuell verteilen."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsocial-preview-pack.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%208%3A%20Wie%20mache%20ich%20manuelle%20Shares%20klickbarer%3F%0A%0APruefe%20den%20Social%20Preview%20Pack.%20Er%20buendelt%20Canonical-%2C%20OG-%20und%20Twitter-Metadaten%20plus%20sichere%20Copy%20fuer%20priorisierte%20Links.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsocial-preview-pack.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%208%3A%20Wie%20mache%20ich%20manuelle%20Shares%20klickbarer%3F%0A%0APruefe%20den%20Social%20Preview%20Pack.%20Er%20buendelt%20Canonical-%2C%20OG-%20und%20Twitter-Metadaten%20plus%20sichere%20Copy%20fuer%20priorisierte%20Links.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsocial-preview-pack.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20mache%20ich%20manuelle%20Shares%20klickbarer%3F&body=Answer%20Packet%208%3A%20Wie%20mache%20ich%20manuelle%20Shares%20klickbarer%3F%0A%0APruefe%20den%20Social%20Preview%20Pack.%20Er%20buendelt%20Canonical-%2C%20OG-%20und%20Twitter-Metadaten%20plus%20sichere%20Copy%20fuer%20priorisierte%20Links.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fsocial-preview-pack.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-links.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-wave.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-swarm.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 9,
+      "id": "qr-traffic",
+      "query": "Wie nutze ich QR-Codes fuer mehr passende Einstiege?",
+      "intent": "QR / Offline",
+      "answer": "Leite QR-Traffic auf einen Kontext-Hub statt auf einen nackten Direktlink. QR Kit, Fit-Check oder Organic Blitz sind die saubersten Starts.",
+      "cta": "QR Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+      "primaryPath": "/qr-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 9: Wie nutze ich QR-Codes fuer mehr passende Einstiege?\n\nLeite QR-Traffic auf einen Kontext-Hub statt auf einen nackten Direktlink. QR Kit, Fit-Check oder Organic Blitz sind die saubersten Starts.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
+          "path": "/qr-kit.html",
+          "title": "Qr Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
+          "path": "/fit-check.html",
+          "title": "Fit Check",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
+          "path": "/organic-blitz.html",
+          "title": "Organic Blitz",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+          "path": "/offer-pages.html",
+          "title": "Offer Pages",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fqr-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%209%3A%20Wie%20nutze%20ich%20QR-Codes%20fuer%20mehr%20passende%20Einstiege%3F%0A%0ALeite%20QR-Traffic%20auf%20einen%20Kontext-Hub%20statt%20auf%20einen%20nackten%20Direktlink.%20QR%20Kit%2C%20Fit-Check%20oder%20Organic%20Blitz%20sind%20die%20saubersten%20Starts.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fqr-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%209%3A%20Wie%20nutze%20ich%20QR-Codes%20fuer%20mehr%20passende%20Einstiege%3F%0A%0ALeite%20QR-Traffic%20auf%20einen%20Kontext-Hub%20statt%20auf%20einen%20nackten%20Direktlink.%20QR%20Kit%2C%20Fit-Check%20oder%20Organic%20Blitz%20sind%20die%20saubersten%20Starts.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fqr-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20nutze%20ich%20QR-Codes%20fuer%20mehr%20passende%20Einstiege%3F&body=Answer%20Packet%209%3A%20Wie%20nutze%20ich%20QR-Codes%20fuer%20mehr%20passende%20Einstiege%3F%0A%0ALeite%20QR-Traffic%20auf%20einen%20Kontext-Hub%20statt%20auf%20einen%20nackten%20Direktlink.%20QR%20Kit%2C%20Fit-Check%20oder%20Organic%20Blitz%20sind%20die%20saubersten%20Starts.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fqr-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffit-check.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 10,
+      "id": "einwand-beantworten",
+      "query": "Was mache ich, wenn jemand unsicher ist oder einen Einwand hat?",
+      "intent": "Objection / Decision",
+      "answer": "Druck rausnehmen: Einwand beantworten, Vergleich oder Score anbieten und erst nach klarem Fit den naechsten Pfad nennen.",
+      "cta": "Objection Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
+      "primaryPath": "/objection-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 10: Was mache ich, wenn jemand unsicher ist oder einen Einwand hat?\n\nDruck rausnehmen: Einwand beantworten, Vergleich oder Score anbieten und erst nach klarem Fit den naechsten Pfad nennen.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
+          "path": "/objection-kit.html",
+          "title": "Objection Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
+          "path": "/compare-kit.html",
+          "title": "Compare Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
+          "path": "/score-kit.html",
+          "title": "Score Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+          "path": "/reply-kit.html",
+          "title": "Reply Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2010%3A%20Was%20mache%20ich%2C%20wenn%20jemand%20unsicher%20ist%20oder%20einen%20Einwand%20hat%3F%0A%0ADruck%20rausnehmen%3A%20Einwand%20beantworten%2C%20Vergleich%20oder%20Score%20anbieten%20und%20erst%20nach%20klarem%20Fit%20den%20naechsten%20Pfad%20nennen.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2010%3A%20Was%20mache%20ich%2C%20wenn%20jemand%20unsicher%20ist%20oder%20einen%20Einwand%20hat%3F%0A%0ADruck%20rausnehmen%3A%20Einwand%20beantworten%2C%20Vergleich%20oder%20Score%20anbieten%20und%20erst%20nach%20klarem%20Fit%20den%20naechsten%20Pfad%20nennen.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Was%20mache%20ich%2C%20wenn%20jemand%20unsicher%20ist%20oder%20einen%20Einwand%20hat%3F&body=Answer%20Packet%2010%3A%20Was%20mache%20ich%2C%20wenn%20jemand%20unsicher%20ist%20oder%20einen%20Einwand%20hat%3F%0A%0ADruck%20rausnehmen%3A%20Einwand%20beantworten%2C%20Vergleich%20oder%20Score%20anbieten%20und%20erst%20nach%20klarem%20Fit%20den%20naechsten%20Pfad%20nennen.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 11,
+      "id": "email-follow-up",
+      "query": "Welche E-Mail schicke ich nach einem warmen Signal?",
+      "intent": "Warm Follow-up",
+      "answer": "Nutze eine kurze, kontextbezogene Follow-up-Mail. Sie sollte den Grund, den passenden Link und den Affiliate-Hinweis klar enthalten.",
+      "cta": "Email Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html",
+      "primaryPath": "/email-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 11: Welche E-Mail schicke ich nach einem warmen Signal?\n\nNutze eine kurze, kontextbezogene Follow-up-Mail. Sie sollte den Grund, den passenden Link und den Affiliate-Hinweis klar enthalten.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html",
+          "path": "/email-kit.html",
+          "title": "Email Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+          "path": "/reply-kit.html",
+          "title": "Reply Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html",
+          "path": "/proof-kit.html",
+          "title": "Proof Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+          "path": "/close-now.html",
+          "title": "Close Now",
+          "intent": "Exit/Lifestyle",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femail-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2011%3A%20Welche%20E-Mail%20schicke%20ich%20nach%20einem%20warmen%20Signal%3F%0A%0ANutze%20eine%20kurze%2C%20kontextbezogene%20Follow-up-Mail.%20Sie%20sollte%20den%20Grund%2C%20den%20passenden%20Link%20und%20den%20Affiliate-Hinweis%20klar%20enthalten.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femail-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2011%3A%20Welche%20E-Mail%20schicke%20ich%20nach%20einem%20warmen%20Signal%3F%0A%0ANutze%20eine%20kurze%2C%20kontextbezogene%20Follow-up-Mail.%20Sie%20sollte%20den%20Grund%2C%20den%20passenden%20Link%20und%20den%20Affiliate-Hinweis%20klar%20enthalten.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femail-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Welche%20E-Mail%20schicke%20ich%20nach%20einem%20warmen%20Signal%3F&body=Answer%20Packet%2011%3A%20Welche%20E-Mail%20schicke%20ich%20nach%20einem%20warmen%20Signal%3F%0A%0ANutze%20eine%20kurze%2C%20kontextbezogene%20Follow-up-Mail.%20Sie%20sollte%20den%20Grund%2C%20den%20passenden%20Link%20und%20den%20Affiliate-Hinweis%20klar%20enthalten.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femail-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 12,
+      "id": "video-hook",
+      "query": "Welchen Video-Hook nutze ich fuer organische Reichweite?",
+      "intent": "Shortform Video",
+      "answer": "Starte mit einem echten Problem, nicht mit dem Angebot. Video Kit, Hook Kit und CTA Kit liefern dafuer die passende Reihenfolge.",
+      "cta": "Video Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+      "primaryPath": "/video-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 12: Welchen Video-Hook nutze ich fuer organische Reichweite?\n\nStarte mit einem echten Problem, nicht mit dem Angebot. Video Kit, Hook Kit und CTA Kit liefern dafuer die passende Reihenfolge.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
+          "path": "/video-kit.html",
+          "title": "Video Kit",
+          "intent": "Creative Traffic",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
+          "path": "/hook-kit.html",
+          "title": "Hook Kit",
+          "intent": "Creative Traffic",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
+          "path": "/cta-kit.html",
+          "title": "Cta Kit",
+          "intent": "Creative Traffic",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
+          "path": "/audience-kit.html",
+          "title": "Audience Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideo-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2012%3A%20Welchen%20Video-Hook%20nutze%20ich%20fuer%20organische%20Reichweite%3F%0A%0AStarte%20mit%20einem%20echten%20Problem%2C%20nicht%20mit%20dem%20Angebot.%20Video%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20liefern%20dafuer%20die%20passende%20Reihenfolge.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideo-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2012%3A%20Welchen%20Video-Hook%20nutze%20ich%20fuer%20organische%20Reichweite%3F%0A%0AStarte%20mit%20einem%20echten%20Problem%2C%20nicht%20mit%20dem%20Angebot.%20Video%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20liefern%20dafuer%20die%20passende%20Reihenfolge.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideo-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Welchen%20Video-Hook%20nutze%20ich%20fuer%20organische%20Reichweite%3F&body=Answer%20Packet%2012%3A%20Welchen%20Video-Hook%20nutze%20ich%20fuer%20organische%20Reichweite%3F%0A%0AStarte%20mit%20einem%20echten%20Problem%2C%20nicht%20mit%20dem%20Angebot.%20Video%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20liefern%20dafuer%20die%20passende%20Reihenfolge.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideo-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 13,
+      "id": "vergleich-vor-link",
+      "query": "Wann sollte ich eine Vergleichsseite statt eines Direktlinks senden?",
+      "intent": "Comparison",
+      "answer": "Wenn die Person noch zwischen Optionen schwankt, ist Compare Kit oder Checklist Kit besser als ein Direktlink. Das erhoeht Klarheit ohne Druck.",
+      "cta": "Compare Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
+      "primaryPath": "/compare-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 13: Wann sollte ich eine Vergleichsseite statt eines Direktlinks senden?\n\nWenn die Person noch zwischen Optionen schwankt, ist Compare Kit oder Checklist Kit besser als ein Direktlink. Das erhoeht Klarheit ohne Druck.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
+          "path": "/compare-kit.html",
+          "title": "Compare Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklist-kit.html",
+          "path": "/checklist-kit.html",
+          "title": "Checklist Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/score-kit.html",
+          "path": "/score-kit.html",
+          "title": "Score Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+          "path": "/offer-pages.html",
+          "title": "Offer Pages",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2013%3A%20Wann%20sollte%20ich%20eine%20Vergleichsseite%20statt%20eines%20Direktlinks%20senden%3F%0A%0AWenn%20die%20Person%20noch%20zwischen%20Optionen%20schwankt%2C%20ist%20Compare%20Kit%20oder%20Checklist%20Kit%20besser%20als%20ein%20Direktlink.%20Das%20erhoeht%20Klarheit%20ohne%20Druck.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklist-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2013%3A%20Wann%20sollte%20ich%20eine%20Vergleichsseite%20statt%20eines%20Direktlinks%20senden%3F%0A%0AWenn%20die%20Person%20noch%20zwischen%20Optionen%20schwankt%2C%20ist%20Compare%20Kit%20oder%20Checklist%20Kit%20besser%20als%20ein%20Direktlink.%20Das%20erhoeht%20Klarheit%20ohne%20Druck.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklist-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wann%20sollte%20ich%20eine%20Vergleichsseite%20statt%20eines%20Direktlinks%20senden%3F&body=Answer%20Packet%2013%3A%20Wann%20sollte%20ich%20eine%20Vergleichsseite%20statt%20eines%20Direktlinks%20senden%3F%0A%0AWenn%20die%20Person%20noch%20zwischen%20Optionen%20schwankt%2C%20ist%20Compare%20Kit%20oder%20Checklist%20Kit%20besser%20als%20ein%20Direktlink.%20Das%20erhoeht%20Klarheit%20ohne%20Druck.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklist-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscore-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 14,
+      "id": "warmer-kaufintent",
+      "query": "Was ist der sauberste naechste Schritt bei warmem Kaufintent?",
+      "intent": "Buyer Intent",
+      "answer": "Bei warmem Kaufintent darf der Abschluss-Hub nach vorne. Bleib transparent, nutze den Hinweis und logge die echte Antwort danach lokal.",
+      "cta": "Close Now oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+      "primaryPath": "/close-now.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 14: Was ist der sauberste naechste Schritt bei warmem Kaufintent?\n\nBei warmem Kaufintent darf der Abschluss-Hub nach vorne. Bleib transparent, nutze den Hinweis und logge die echte Antwort danach lokal.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+          "path": "/close-now.html",
+          "title": "Close Now",
+          "intent": "Exit/Lifestyle",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
+          "path": "/offer-pages.html",
+          "title": "Offer Pages",
+          "intent": "Affiliate",
+          "type": "presell",
+          "channel": "LinkedIn",
+          "action": "Vor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
+          "path": "/offers.html",
+          "title": "Offers",
+          "intent": "Affiliate",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+          "path": "/reply-kit.html",
+          "title": "Reply Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2014%3A%20Was%20ist%20der%20sauberste%20naechste%20Schritt%20bei%20warmem%20Kaufintent%3F%0A%0ABei%20warmem%20Kaufintent%20darf%20der%20Abschluss-Hub%20nach%20vorne.%20Bleib%20transparent%2C%20nutze%20den%20Hinweis%20und%20logge%20die%20echte%20Antwort%20danach%20lokal.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2014%3A%20Was%20ist%20der%20sauberste%20naechste%20Schritt%20bei%20warmem%20Kaufintent%3F%0A%0ABei%20warmem%20Kaufintent%20darf%20der%20Abschluss-Hub%20nach%20vorne.%20Bleib%20transparent%2C%20nutze%20den%20Hinweis%20und%20logge%20die%20echte%20Antwort%20danach%20lokal.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Was%20ist%20der%20sauberste%20naechste%20Schritt%20bei%20warmem%20Kaufintent%3F&body=Answer%20Packet%2014%3A%20Was%20ist%20der%20sauberste%20naechste%20Schritt%20bei%20warmem%20Kaufintent%3F%0A%0ABei%20warmem%20Kaufintent%20darf%20der%20Abschluss-Hub%20nach%20vorne.%20Bleib%20transparent%2C%20nutze%20den%20Hinweis%20und%20logge%20die%20echte%20Antwort%20danach%20lokal.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffer-pages.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 15,
+      "id": "copy-schnell-bauen",
+      "query": "Wie baue ich schnell passende Copy fuer einen Link?",
+      "intent": "Copy / Prompt",
+      "answer": "Nutze Prompt Kit, Hook Kit und CTA Kit als Sequenz: Problemwinkel, kurzer Text, klarer naechster Schritt, dann passender Link.",
+      "cta": "Prompt Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+      "primaryPath": "/prompt-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 15: Wie baue ich schnell passende Copy fuer einen Link?\n\nNutze Prompt Kit, Hook Kit und CTA Kit als Sequenz: Problemwinkel, kurzer Text, klarer naechster Schritt, dann passender Link.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompt-kit.html",
+          "path": "/prompt-kit.html",
+          "title": "Prompt Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
+          "path": "/hook-kit.html",
+          "title": "Hook Kit",
+          "intent": "Creative Traffic",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
+          "path": "/cta-kit.html",
+          "title": "Cta Kit",
+          "intent": "Creative Traffic",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
+          "path": "/content-engine.html",
+          "title": "Content Engine",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2015%3A%20Wie%20baue%20ich%20schnell%20passende%20Copy%20fuer%20einen%20Link%3F%0A%0ANutze%20Prompt%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20als%20Sequenz%3A%20Problemwinkel%2C%20kurzer%20Text%2C%20klarer%20naechster%20Schritt%2C%20dann%20passender%20Link.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcontent-engine.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2015%3A%20Wie%20baue%20ich%20schnell%20passende%20Copy%20fuer%20einen%20Link%3F%0A%0ANutze%20Prompt%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20als%20Sequenz%3A%20Problemwinkel%2C%20kurzer%20Text%2C%20klarer%20naechster%20Schritt%2C%20dann%20passender%20Link.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcontent-engine.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20baue%20ich%20schnell%20passende%20Copy%20fuer%20einen%20Link%3F&body=Answer%20Packet%2015%3A%20Wie%20baue%20ich%20schnell%20passende%20Copy%20fuer%20einen%20Link%3F%0A%0ANutze%20Prompt%20Kit%2C%20Hook%20Kit%20und%20CTA%20Kit%20als%20Sequenz%3A%20Problemwinkel%2C%20kurzer%20Text%2C%20klarer%20naechster%20Schritt%2C%20dann%20passender%20Link.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompt-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhook-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcontent-engine.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 16,
+      "id": "proof-ohne-fake",
+      "query": "Wie nutze ich echte Signale, ohne Fake-Proof zu bauen?",
+      "intent": "Proof / Trust",
+      "answer": "Nutze nur reale Signale, entferne private Details und formuliere keine Ergebnisversprechen. Proof Kit hilft beim sauberen Mini-Story-Format.",
+      "cta": "Proof Kit oeffnen",
+      "primaryUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html",
+      "primaryPath": "/proof-kit.html",
+      "relatedUrls": [
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+        "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html"
+      ],
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "claimsRevenue": false,
+      "copy": "Answer Packet 16: Wie nutze ich echte Signale, ohne Fake-Proof zu bauen?\n\nNutze nur reale Signale, entferne private Details und formuliere keine Ergebnisversprechen. Proof Kit hilft beim sauberen Mini-Story-Format.\n\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html\nRelated: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "sourceItems": [
+        {
+          "rank": 1,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/proof-kit.html",
+          "path": "/proof-kit.html",
+          "title": "Proof Kit",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 2,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
+          "path": "/reply-kit.html",
+          "title": "Reply Kit",
+          "intent": "Warm Follow-up",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 3,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
+          "path": "/launch-room.html",
+          "title": "Launch Room",
+          "intent": "Multi-Intent",
+          "type": "support_hub",
+          "channel": "LinkedIn",
+          "action": "Als Support-Link teilen, wenn die Frage exakt passt."
+        },
+        {
+          "rank": 4,
+          "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
+          "path": "/close-now.html",
+          "title": "Close Now",
+          "intent": "Exit/Lifestyle",
+          "type": "winner_hub",
+          "channel": "Warm Follow-up",
+          "action": "Bei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen."
+        }
+      ],
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Answer%20Packet%2016%3A%20Wie%20nutze%20ich%20echte%20Signale%2C%20ohne%20Fake-Proof%20zu%20bauen%3F%0A%0ANutze%20nur%20reale%20Signale%2C%20entferne%20private%20Details%20und%20formuliere%20keine%20Ergebnisversprechen.%20Proof%20Kit%20hilft%20beim%20sauberen%20Mini-Story-Format.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Answer%20Packet%2016%3A%20Wie%20nutze%20ich%20echte%20Signale%2C%20ohne%20Fake-Proof%20zu%20bauen%3F%0A%0ANutze%20nur%20reale%20Signale%2C%20entferne%20private%20Details%20und%20formuliere%20keine%20Ergebnisversprechen.%20Proof%20Kit%20hilft%20beim%20sauberen%20Mini-Story-Format.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Answer%20Packet%3A%20Wie%20nutze%20ich%20echte%20Signale%2C%20ohne%20Fake-Proof%20zu%20bauen%3F&body=Answer%20Packet%2016%3A%20Wie%20nutze%20ich%20echte%20Signale%2C%20ohne%20Fake-Proof%20zu%20bauen%3F%0A%0ANutze%20nur%20reale%20Signale%2C%20entferne%20private%20Details%20und%20formuliere%20keine%20Ergebnisversprechen.%20Proof%20Kit%20hilft%20beim%20sauberen%20Mini-Story-Format.%0A%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fproof-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freply-kit.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Flaunch-room.html%0ARelated%3A%20https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fclose-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    }
+  ]
+}
