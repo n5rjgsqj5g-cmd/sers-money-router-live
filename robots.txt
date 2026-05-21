@@ -29,6 +29,7 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom
 # All links traffic hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
 # Daily traffic wave: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
 # Traffic swarm: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html
+# Social preview pack: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html
 # Agent discovery map: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html
 # FAQ kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html

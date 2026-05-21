@@ -16,6 +16,8 @@
     "trafficLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
     "trafficWave": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
     "trafficSwarm": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+    "socialPreviewPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
+    "socialPreviewPackJson": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.json",
     "searchDiscoveryMesh": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
     "agentDiscovery": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
     "sitemapXml": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml",
@@ -108,6 +110,11 @@
       "label": "SERS Traffic Swarm",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
       "use": "Themen-Cluster waehlen und mehrere passende Links als manuelle Mini-Welle verteilen."
+    },
+    {
+      "label": "SERS Social Preview Pack",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
+      "use": "Share-Previews und Metadaten fuer die wichtigsten Traffic-Links pruefen."
     },
     {
       "label": "SERS Search Discovery Mesh",

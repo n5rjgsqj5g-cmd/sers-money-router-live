@@ -1,6 +1,6 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T12:51:04.963Z",
+  "generatedAt": "2026-05-21T13:08:21.561Z",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "discoveryMapUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
   "discoveryMapJsonUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.json",
@@ -16,9 +16,11 @@
   "robotsTxt": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/robots.txt",
   "indexNowPayload": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/indexnow-urls.json",
   "shareManifest": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json",
-  "totalSitemapUrls": 242,
-  "totalInventoryUrls": 234,
-  "publicTrafficUrls": 234,
+  "socialPreviewPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
+  "socialPreviewPackJson": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.json",
+  "totalSitemapUrls": 244,
+  "totalInventoryUrls": 235,
+  "publicTrafficUrls": 235,
   "taskCount": 7,
   "automationBoundary": "manual_search_discovery_mesh_only",
   "manualComposerBoundary": "manual_open_only",
@@ -330,7 +332,7 @@
           "intent": "Creative Traffic",
           "type": "support_hub",
           "channel": "LinkedIn",
-          "priority": 63,
+          "priority": 62,
           "action": "Als Support-Link teilen, wenn die Frage exakt passt."
         },
         {
