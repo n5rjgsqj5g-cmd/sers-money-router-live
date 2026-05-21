@@ -1,10 +1,10 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T12:19:27.144Z",
+  "generatedAt": "2026-05-21T12:27:14.776Z",
   "day": "2026-05-21",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "sourceInventory": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
-  "totalInventoryUrls": 232,
+  "totalInventoryUrls": 233,
   "waveUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
   "waveSize": 12,
   "rotationSeed": 492,
@@ -178,10 +178,10 @@
     },
     {
       "waveRank": 8,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/jobwechsel-digital-testen/",
-      "path": "/use-cases/jobwechsel-digital-testen",
-      "title": "Use Cases / Jobwechsel Digital Testen",
-      "intent": "Digital Business",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/",
+      "path": "/use-cases/qr-im-verkaufsgespraech",
+      "title": "Use Cases / Qr Im Verkaufsgespraech",
+      "intent": "Multi-Intent",
       "type": "decision_asset",
       "channel": "Community",
       "priority": 68,
@@ -191,12 +191,12 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 8/12\nUse Cases / Jobwechsel Digital Testen: Digital Business\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/jobwechsel-digital-testen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 8/12\nUse Cases / Qr Im Verkaufsgespraech: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fjobwechsel-digital-testen%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Jobwechsel%20Digital%20Testen%3A%20Digital%20Business%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fjobwechsel-digital-testen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Jobwechsel%20Digital%20Testen%3A%20Digital%20Business%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fjobwechsel-digital-testen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Use%20Cases%20%2F%20Jobwechsel%20Digital%20Testen&body=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Jobwechsel%20Digital%20Testen%3A%20Digital%20Business%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fjobwechsel-digital-testen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F",
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Use%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech&body=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {

@@ -1,10 +1,10 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T12:19:27.136Z",
+  "generatedAt": "2026-05-21T12:27:14.774Z",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
-  "totalSitemapUrls": 236,
-  "publicTrafficUrls": 232,
-  "indexNowUrlCount": 236,
+  "totalSitemapUrls": 240,
+  "publicTrafficUrls": 233,
+  "indexNowUrlCount": 240,
   "automationBoundary": "manual_all_links_traffic_only",
   "externalAction": "none",
   "paidSpend": "none",
@@ -12,6 +12,26 @@
   "items": [
     {
       "rank": 1,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+      "path": "/agent-discovery.html",
+      "title": "Agent Discovery",
+      "intent": "Multi-Intent",
+      "type": "agentic_discovery_map",
+      "channel": "AI/Agent Search",
+      "priority": 100,
+      "action": "Als AI-/Browser-Agent-Einstieg nutzen: Aufgabe waehlen, passenden Hub oeffnen, externe Aktion manuell entscheiden.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Agent Discovery: Multi-Intent\n\nAls AI-/Browser-Agent-Einstieg nutzen: Aufgabe waehlen, passenden Hub oeffnen, externe Aktion manuell entscheiden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html",
+        "x": "https://twitter.com/intent/tweet?text=Agent%20Discovery%3A%20Multi-Intent%0A%0AAls%20AI-%2FBrowser-Agent-Einstieg%20nutzen%3A%20Aufgabe%20waehlen%2C%20passenden%20Hub%20oeffnen%2C%20externe%20Aktion%20manuell%20entscheiden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Agent%20Discovery%3A%20Multi-Intent%0A%0AAls%20AI-%2FBrowser-Agent-Einstieg%20nutzen%3A%20Aufgabe%20waehlen%2C%20passenden%20Hub%20oeffnen%2C%20externe%20Aktion%20manuell%20entscheiden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Agent%20Discovery&body=Agent%20Discovery%3A%20Multi-Intent%0A%0AAls%20AI-%2FBrowser-Agent-Einstieg%20nutzen%3A%20Aufgabe%20waehlen%2C%20passenden%20Hub%20oeffnen%2C%20externe%20Aktion%20manuell%20entscheiden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fagent-discovery.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 2,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
       "path": "/close-now.html",
       "title": "Close Now",
@@ -31,7 +51,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
       "path": "/traffic-links.html",
       "title": "Traffic Links",
@@ -51,7 +71,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
       "path": "/traffic-swarm.html",
       "title": "Traffic Swarm",
@@ -71,7 +91,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
       "path": "/traffic-wave.html",
       "title": "Traffic Wave",
@@ -91,7 +111,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
       "path": "/market-now.html",
       "title": "Market Now",
@@ -111,7 +131,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/exit-lifestyle-realitaetscheck/",
       "path": "/guides/exit-lifestyle-realitaetscheck",
       "title": "Guides / Exit Lifestyle Realitaetscheck",
@@ -131,7 +151,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-lifestyle-realistisch-pruefen/",
       "path": "/faqs/exit-lifestyle-realistisch-pruefen",
       "title": "Faqs / Exit Lifestyle Realistisch Pruefen",
@@ -151,7 +171,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offer-pages.html",
       "path": "/offer-pages.html",
       "title": "Offer Pages",
@@ -171,7 +191,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/exit-plan-realistisch-pruefen/",
       "path": "/use-cases/exit-plan-realistisch-pruefen",
       "title": "Use Cases / Exit Plan Realistisch Pruefen",
@@ -191,7 +211,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/exit-reality-cta/",
       "path": "/ctas/exit-reality-cta",
       "title": "Ctas / Exit Reality Cta",
@@ -211,7 +231,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/exit-masterplan-fuer-wen/",
       "path": "/faqs/exit-masterplan-fuer-wen",
       "title": "Faqs / Exit Masterplan Fuer Wen",
@@ -231,7 +251,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/shortform-video-cta/",
       "path": "/faqs/shortform-video-cta",
       "title": "Faqs / Shortform Video Cta",
@@ -251,7 +271,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/exit-plan-zu-gross/",
       "path": "/objections/exit-plan-zu-gross",
       "title": "Objections / Exit Plan Zu Gross",
@@ -271,7 +291,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/exit-guide-vs-motivation/",
       "path": "/compare/exit-guide-vs-motivation",
       "title": "Compare / Exit Guide Vs Motivation",
@@ -288,26 +308,6 @@
         "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Compare%20%2F%20Exit%20Guide%20Vs%20Motivation&body=Compare%20%2F%20Exit%20Guide%20Vs%20Motivation%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fexit-guide-vs-motivation%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 15,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
-      "path": "/guides/affiliate-neustart-mit-permission",
-      "title": "Guides / Affiliate Neustart Mit Permission",
-      "intent": "Affiliate",
-      "type": "search_intent",
-      "channel": "Community",
-      "priority": 74,
-      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Guides / Affiliate Neustart Mit Permission: Affiliate\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F",
-        "x": "https://twitter.com/intent/tweet?text=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission&body=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -352,6 +352,26 @@
     },
     {
       "rank": 18,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/",
+      "path": "/guides/affiliate-neustart-mit-permission",
+      "title": "Guides / Affiliate Neustart Mit Permission",
+      "intent": "Affiliate",
+      "type": "search_intent",
+      "channel": "Community",
+      "priority": 73,
+      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Guides / Affiliate Neustart Mit Permission: Affiliate\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/affiliate-neustart-mit-permission/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F",
+        "x": "https://twitter.com/intent/tweet?text=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission&body=Guides%20%2F%20Affiliate%20Neustart%20Mit%20Permission%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fguides%2Faffiliate-neustart-mit-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 19,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/digital-business-soft-start/",
       "path": "/guides/digital-business-soft-start",
       "title": "Guides / Digital Business Soft Start",
@@ -371,7 +391,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/mindset-umsetzung-statt-sammeln/",
       "path": "/guides/mindset-umsetzung-statt-sammeln",
       "title": "Guides / Mindset Umsetzung Statt Sammeln",
@@ -391,7 +411,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 21,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/exit-lifestyle-checkliste/",
       "path": "/checklists/exit-lifestyle-checkliste",
       "title": "Checklists / Exit Lifestyle Checkliste",
@@ -411,7 +431,7 @@
       }
     },
     {
-      "rank": 21,
+      "rank": 22,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/objection-kit-vs-faq/",
       "path": "/compare/objection-kit-vs-faq",
       "title": "Compare / Objection Kit Vs Faq",
@@ -431,7 +451,7 @@
       }
     },
     {
-      "rank": 22,
+      "rank": 23,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/cta-kit.html",
       "path": "/cta-kit.html",
       "title": "Cta Kit",
@@ -448,26 +468,6 @@
         "x": "https://twitter.com/intent/tweet?text=Cta%20Kit%3A%20Creative%20Traffic%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Cta%20Kit%3A%20Creative%20Traffic%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Cta%20Kit&body=Cta%20Kit%3A%20Creative%20Traffic%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcta-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 23,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/",
-      "path": "/hooks/exit-realitaetscheck-hook",
-      "title": "Hooks / Exit Realitaetscheck Hook",
-      "intent": "Exit/Lifestyle",
-      "type": "conversion_asset",
-      "channel": "Social",
-      "priority": 70,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Hooks / Exit Realitaetscheck Hook: Exit/Lifestyle\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F",
-        "x": "https://twitter.com/intent/tweet?text=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Hooks%20%2F%20Exit%20Realitaetscheck%20Hook&body=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -552,22 +552,22 @@
     },
     {
       "rank": 28,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/",
-      "path": "/faqs/gpt-starten-ohne-tool-chaos",
-      "title": "Faqs / Gpt Starten Ohne Tool Chaos",
-      "intent": "GPT",
-      "type": "search_intent",
-      "channel": "Community",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/",
+      "path": "/hooks/exit-realitaetscheck-hook",
+      "title": "Hooks / Exit Realitaetscheck Hook",
+      "intent": "Exit/Lifestyle",
+      "type": "conversion_asset",
+      "channel": "Social",
       "priority": 69,
-      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
       "indexNowIncluded": true,
       "externalAction": "manual_only",
-      "copy": "Faqs / Gpt Starten Ohne Tool Chaos: GPT\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Hooks / Exit Realitaetscheck Hook: Exit/Lifestyle\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/exit-realitaetscheck-hook/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F",
-        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos&body=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F",
+        "x": "https://twitter.com/intent/tweet?text=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Hooks%20%2F%20Exit%20Realitaetscheck%20Hook&body=Hooks%20%2F%20Exit%20Realitaetscheck%20Hook%3A%20Exit%2FLifestyle%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fhooks%2Fexit-realitaetscheck-hook%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -632,26 +632,6 @@
     },
     {
       "rank": 32,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/",
-      "path": "/use-cases/affiliate-starten-ohne-publikum",
-      "title": "Use Cases / Affiliate Starten Ohne Publikum",
-      "intent": "Affiliate",
-      "type": "decision_asset",
-      "channel": "Community",
-      "priority": 69,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Use Cases / Affiliate Starten Ohne Publikum: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F",
-        "x": "https://twitter.com/intent/tweet?text=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum&body=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 33,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/creator-affiliate-video-aufnehmen/",
       "path": "/use-cases/creator-affiliate-video-aufnehmen",
       "title": "Use Cases / Creator Affiliate Video Aufnehmen",
@@ -671,7 +651,7 @@
       }
     },
     {
-      "rank": 34,
+      "rank": 33,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/freelancer-angebot-mit-gpt/",
       "path": "/use-cases/freelancer-angebot-mit-gpt",
       "title": "Use Cases / Freelancer Angebot Mit Gpt",
@@ -691,7 +671,7 @@
       }
     },
     {
-      "rank": 35,
+      "rank": 34,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/affiliate-permission-cta/",
       "path": "/ctas/affiliate-permission-cta",
       "title": "Ctas / Affiliate Permission Cta",
@@ -711,7 +691,7 @@
       }
     },
     {
-      "rank": 36,
+      "rank": 35,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/gpt-mini-start-cta/",
       "path": "/ctas/gpt-mini-start-cta",
       "title": "Ctas / Gpt Mini Start Cta",
@@ -731,27 +711,7 @@
       }
     },
     {
-      "rank": 37,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/",
-      "path": "/ctas/presell-fit-cta",
-      "title": "Ctas / Presell Fit Cta",
-      "intent": "Affiliate",
-      "type": "conversion_asset",
-      "channel": "Social",
-      "priority": 68,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Ctas / Presell Fit Cta: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F",
-        "x": "https://twitter.com/intent/tweet?text=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Ctas%20%2F%20Presell%20Fit%20Cta&body=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 38,
+      "rank": 36,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/affiliate-hinweis-formulieren/",
       "path": "/faqs/affiliate-hinweis-formulieren",
       "title": "Faqs / Affiliate Hinweis Formulieren",
@@ -771,7 +731,7 @@
       }
     },
     {
-      "rank": 39,
+      "rank": 37,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/follow-up-ohne-druck/",
       "path": "/faqs/follow-up-ohne-druck",
       "title": "Faqs / Follow Up Ohne Druck",
@@ -791,7 +751,27 @@
       }
     },
     {
-      "rank": 40,
+      "rank": 38,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/",
+      "path": "/faqs/gpt-starten-ohne-tool-chaos",
+      "title": "Faqs / Gpt Starten Ohne Tool Chaos",
+      "intent": "GPT",
+      "type": "search_intent",
+      "channel": "Community",
+      "priority": 68,
+      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Faqs / Gpt Starten Ohne Tool Chaos: GPT\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-starten-ohne-tool-chaos/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F",
+        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos&body=Faqs%20%2F%20Gpt%20Starten%20Ohne%20Tool%20Chaos%3A%20GPT%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fgpt-starten-ohne-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 39,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/presell-oder-direktlink/",
       "path": "/faqs/presell-oder-direktlink",
       "title": "Faqs / Presell Oder Direktlink",
@@ -811,7 +791,7 @@
       }
     },
     {
-      "rank": 41,
+      "rank": 40,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/warme-dm-vor-affiliate-link/",
       "path": "/faqs/warme-dm-vor-affiliate-link",
       "title": "Faqs / Warme Dm Vor Affiliate Link",
@@ -831,7 +811,7 @@
       }
     },
     {
-      "rank": 42,
+      "rank": 41,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/was-in-community-antworten/",
       "path": "/faqs/was-in-community-antworten",
       "title": "Faqs / Was In Community Antworten",
@@ -851,7 +831,7 @@
       }
     },
     {
-      "rank": 43,
+      "rank": 42,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welcher-link-in-bio/",
       "path": "/faqs/welcher-link-in-bio",
       "title": "Faqs / Welcher Link In Bio",
@@ -871,7 +851,7 @@
       }
     },
     {
-      "rank": 44,
+      "rank": 43,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/welches-ai-tool-kaufen/",
       "path": "/faqs/welches-ai-tool-kaufen",
       "title": "Faqs / Welches Ai Tool Kaufen",
@@ -891,27 +871,7 @@
       }
     },
     {
-      "rank": 45,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/",
-      "path": "/faqs/zielgruppe-fuer-affiliate-finden",
-      "title": "Faqs / Zielgruppe Fuer Affiliate Finden",
-      "intent": "Affiliate",
-      "type": "search_intent",
-      "channel": "Community",
-      "priority": 68,
-      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Faqs / Zielgruppe Fuer Affiliate Finden: Affiliate\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F",
-        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden&body=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 46,
+      "rank": 44,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-ohne-publikum/",
       "path": "/objections/affiliate-ohne-publikum",
       "title": "Objections / Affiliate Ohne Publikum",
@@ -931,7 +891,7 @@
       }
     },
     {
-      "rank": 47,
+      "rank": 45,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/gpt-ist-nur-hype/",
       "path": "/objections/gpt-ist-nur-hype",
       "title": "Objections / Gpt Ist Nur Hype",
@@ -951,27 +911,7 @@
       }
     },
     {
-      "rank": 48,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/",
-      "path": "/objections/zu-viele-tools",
-      "title": "Objections / Zu Viele Tools",
-      "intent": "Multi-Intent",
-      "type": "decision_asset",
-      "channel": "Community",
-      "priority": 68,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Objections / Zu Viele Tools: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F",
-        "x": "https://twitter.com/intent/tweet?text=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Objections%20%2F%20Zu%20Viele%20Tools&body=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 49,
+      "rank": 46,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/exit-realitaetscheck/",
       "path": "/prompts/exit-realitaetscheck",
       "title": "Prompts / Exit Realitaetscheck",
@@ -991,7 +931,27 @@
       }
     },
     {
-      "rank": 50,
+      "rank": 47,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/",
+      "path": "/use-cases/affiliate-starten-ohne-publikum",
+      "title": "Use Cases / Affiliate Starten Ohne Publikum",
+      "intent": "Affiliate",
+      "type": "decision_asset",
+      "channel": "Community",
+      "priority": 68,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Use Cases / Affiliate Starten Ohne Publikum: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/affiliate-starten-ohne-publikum/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F",
+        "x": "https://twitter.com/intent/tweet?text=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum&body=Use%20Cases%20%2F%20Affiliate%20Starten%20Ohne%20Publikum%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Faffiliate-starten-ohne-publikum%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 48,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/bio-link-fuer-solopreneure/",
       "path": "/use-cases/bio-link-fuer-solopreneure",
       "title": "Use Cases / Bio Link Fuer Solopreneure",
@@ -1011,7 +971,7 @@
       }
     },
     {
-      "rank": 51,
+      "rank": 49,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/coach-empfehlung-mit-fit/",
       "path": "/use-cases/coach-empfehlung-mit-fit",
       "title": "Use Cases / Coach Empfehlung Mit Fit",
@@ -1031,7 +991,7 @@
       }
     },
     {
-      "rank": 52,
+      "rank": 50,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/community-antwort-ohne-spam/",
       "path": "/use-cases/community-antwort-ohne-spam",
       "title": "Use Cases / Community Antwort Ohne Spam",
@@ -1051,7 +1011,7 @@
       }
     },
     {
-      "rank": 53,
+      "rank": 51,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/ideenstau-in-umsetzung-bringen/",
       "path": "/use-cases/ideenstau-in-umsetzung-bringen",
       "title": "Use Cases / Ideenstau In Umsetzung Bringen",
@@ -1071,7 +1031,7 @@
       }
     },
     {
-      "rank": 54,
+      "rank": 52,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/jobwechsel-digital-testen/",
       "path": "/use-cases/jobwechsel-digital-testen",
       "title": "Use Cases / Jobwechsel Digital Testen",
@@ -1091,7 +1051,7 @@
       }
     },
     {
-      "rank": 55,
+      "rank": 53,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/",
       "path": "/use-cases/qr-im-verkaufsgespraech",
       "title": "Use Cases / Qr Im Verkaufsgespraech",
@@ -1111,7 +1071,7 @@
       }
     },
     {
-      "rank": 56,
+      "rank": 54,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/exit-lifestyle-realistisch-planen/",
       "path": "/answers/exit-lifestyle-realistisch-planen",
       "title": "Answers / Exit Lifestyle Realistisch Planen",
@@ -1131,7 +1091,7 @@
       }
     },
     {
-      "rank": 57,
+      "rank": 55,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/bio/",
       "path": "/channels/bio",
       "title": "Channels / Bio",
@@ -1151,7 +1111,7 @@
       }
     },
     {
-      "rank": 58,
+      "rank": 56,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/community/",
       "path": "/channels/community",
       "title": "Channels / Community",
@@ -1171,7 +1131,7 @@
       }
     },
     {
-      "rank": 59,
+      "rank": 57,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/email/",
       "path": "/channels/email",
       "title": "Channels / Email",
@@ -1191,7 +1151,7 @@
       }
     },
     {
-      "rank": 60,
+      "rank": 58,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/linkedin/",
       "path": "/channels/linkedin",
       "title": "Channels / Linkedin",
@@ -1211,7 +1171,7 @@
       }
     },
     {
-      "rank": 61,
+      "rank": 59,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/partner/",
       "path": "/channels/partner",
       "title": "Channels / Partner",
@@ -1231,7 +1191,7 @@
       }
     },
     {
-      "rank": 62,
+      "rank": 60,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/qr/",
       "path": "/channels/qr",
       "title": "Channels / Qr",
@@ -1251,7 +1211,7 @@
       }
     },
     {
-      "rank": 63,
+      "rank": 61,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channels/whatsapp/",
       "path": "/channels/whatsapp",
       "title": "Channels / Whatsapp",
@@ -1271,7 +1231,7 @@
       }
     },
     {
-      "rank": 64,
+      "rank": 62,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/affiliate-direktlink-vs-presell/",
       "path": "/compare/affiliate-direktlink-vs-presell",
       "title": "Compare / Affiliate Direktlink Vs Presell",
@@ -1291,27 +1251,7 @@
       }
     },
     {
-      "rank": 65,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/fit-check-vs-direktangebot/",
-      "path": "/compare/fit-check-vs-direktangebot",
-      "title": "Compare / Fit Check Vs Direktangebot",
-      "intent": "Multi-Intent",
-      "type": "decision_asset",
-      "channel": "Community",
-      "priority": 67,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Compare / Fit Check Vs Direktangebot: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/fit-check-vs-direktangebot/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F",
-        "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot&body=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 66,
+      "rank": 63,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/gpt-guide-vs-tool-liste/",
       "path": "/compare/gpt-guide-vs-tool-liste",
       "title": "Compare / Gpt Guide Vs Tool Liste",
@@ -1331,7 +1271,7 @@
       }
     },
     {
-      "rank": 67,
+      "rank": 64,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/audience-segment-cta/",
       "path": "/ctas/audience-segment-cta",
       "title": "Ctas / Audience Segment Cta",
@@ -1351,7 +1291,7 @@
       }
     },
     {
-      "rank": 68,
+      "rank": 65,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/bio-sortier-cta/",
       "path": "/ctas/bio-sortier-cta",
       "title": "Ctas / Bio Sortier Cta",
@@ -1371,7 +1311,7 @@
       }
     },
     {
-      "rank": 69,
+      "rank": 66,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/community-antwort-cta/",
       "path": "/ctas/community-antwort-cta",
       "title": "Ctas / Community Antwort Cta",
@@ -1391,7 +1331,7 @@
       }
     },
     {
-      "rank": 70,
+      "rank": 67,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/follow-up-soft-cta/",
       "path": "/ctas/follow-up-soft-cta",
       "title": "Ctas / Follow Up Soft Cta",
@@ -1411,7 +1351,27 @@
       }
     },
     {
-      "rank": 71,
+      "rank": 68,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/",
+      "path": "/ctas/presell-fit-cta",
+      "title": "Ctas / Presell Fit Cta",
+      "intent": "Affiliate",
+      "type": "conversion_asset",
+      "channel": "Social",
+      "priority": 67,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Ctas / Presell Fit Cta: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/presell-fit-cta/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F",
+        "x": "https://twitter.com/intent/tweet?text=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Ctas%20%2F%20Presell%20Fit%20Cta&body=Ctas%20%2F%20Presell%20Fit%20Cta%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fctas%2Fpresell-fit-cta%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 69,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/qr-scan-cta/",
       "path": "/ctas/qr-scan-cta",
       "title": "Ctas / Qr Scan Cta",
@@ -1431,7 +1391,7 @@
       }
     },
     {
-      "rank": 72,
+      "rank": 70,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ctas/shortform-caption-cta/",
       "path": "/ctas/shortform-caption-cta",
       "title": "Ctas / Shortform Caption Cta",
@@ -1451,7 +1411,7 @@
       }
     },
     {
-      "rank": 73,
+      "rank": 71,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/digital-business-ohne-vorkenntnisse/",
       "path": "/faqs/digital-business-ohne-vorkenntnisse",
       "title": "Faqs / Digital Business Ohne Vorkenntnisse",
@@ -1471,7 +1431,7 @@
       }
     },
     {
-      "rank": 74,
+      "rank": 72,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/gpt-ist-nur-hype-antwort/",
       "path": "/faqs/gpt-ist-nur-hype-antwort",
       "title": "Faqs / Gpt Ist Nur Hype Antwort",
@@ -1491,7 +1451,7 @@
       }
     },
     {
-      "rank": 75,
+      "rank": 73,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/lead-signale-sammeln/",
       "path": "/faqs/lead-signale-sammeln",
       "title": "Faqs / Lead Signale Sammeln",
@@ -1511,7 +1471,7 @@
       }
     },
     {
-      "rank": 76,
+      "rank": 74,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/mindset-in-umsetzung-bringen/",
       "path": "/faqs/mindset-in-umsetzung-bringen",
       "title": "Faqs / Mindset In Umsetzung Bringen",
@@ -1531,7 +1491,7 @@
       }
     },
     {
-      "rank": 77,
+      "rank": 75,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/online-business-erster-schritt/",
       "path": "/faqs/online-business-erster-schritt",
       "title": "Faqs / Online Business Erster Schritt",
@@ -1551,7 +1511,7 @@
       }
     },
     {
-      "rank": 78,
+      "rank": 76,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/qr-code-fuer-affiliate/",
       "path": "/faqs/qr-code-fuer-affiliate",
       "title": "Faqs / Qr Code Fuer Affiliate",
@@ -1571,7 +1531,27 @@
       }
     },
     {
-      "rank": 79,
+      "rank": 77,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/",
+      "path": "/faqs/zielgruppe-fuer-affiliate-finden",
+      "title": "Faqs / Zielgruppe Fuer Affiliate Finden",
+      "intent": "Affiliate",
+      "type": "search_intent",
+      "channel": "Community",
+      "priority": 67,
+      "action": "Als hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Faqs / Zielgruppe Fuer Affiliate Finden: Affiliate\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faqs/zielgruppe-fuer-affiliate-finden/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F",
+        "x": "https://twitter.com/intent/tweet?text=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden&body=Faqs%20%2F%20Zielgruppe%20Fuer%20Affiliate%20Finden%3A%20Affiliate%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ffaqs%2Fzielgruppe-fuer-affiliate-finden%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 78,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/affiliate-wirkt-spammy/",
       "path": "/objections/affiliate-wirkt-spammy",
       "title": "Objections / Affiliate Wirkt Spammy",
@@ -1591,7 +1571,7 @@
       }
     },
     {
-      "rank": 80,
+      "rank": 79,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/angst-vor-falscher-empfehlung/",
       "path": "/objections/angst-vor-falscher-empfehlung",
       "title": "Objections / Angst Vor Falscher Empfehlung",
@@ -1611,7 +1591,7 @@
       }
     },
     {
-      "rank": 81,
+      "rank": 80,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/community-link-erlaubt/",
       "path": "/objections/community-link-erlaubt",
       "title": "Objections / Community Link Erlaubt",
@@ -1631,7 +1611,7 @@
       }
     },
     {
-      "rank": 82,
+      "rank": 81,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/keine-zeit-fuer-online-business/",
       "path": "/objections/keine-zeit-fuer-online-business",
       "title": "Objections / Keine Zeit Fuer Online Business",
@@ -1651,7 +1631,7 @@
       }
     },
     {
-      "rank": 83,
+      "rank": 82,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/mindset-bringt-nichts/",
       "path": "/objections/mindset-bringt-nichts",
       "title": "Objections / Mindset Bringt Nichts",
@@ -1671,7 +1651,7 @@
       }
     },
     {
-      "rank": 84,
+      "rank": 83,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/welches-angebot-passt/",
       "path": "/objections/welches-angebot-passt",
       "title": "Objections / Welches Angebot Passt",
@@ -1691,47 +1671,27 @@
       }
     },
     {
-      "rank": 85,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/gpt-tool-chaos/",
-      "path": "/videos/gpt-tool-chaos",
-      "title": "Videos / Gpt Tool Chaos",
-      "intent": "GPT",
-      "type": "distribution_asset",
-      "channel": "Social",
-      "priority": 67,
-      "action": "Als kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Videos / Gpt Tool Chaos: GPT\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/gpt-tool-chaos/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F",
-        "x": "https://twitter.com/intent/tweet?text=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Videos%20%2F%20Gpt%20Tool%20Chaos&body=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 86,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",
-      "path": "/audiences/freelancer",
-      "title": "Audiences / Freelancer",
+      "rank": 84,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/",
+      "path": "/objections/zu-viele-tools",
+      "title": "Objections / Zu Viele Tools",
       "intent": "Multi-Intent",
-      "type": "distribution_asset",
-      "channel": "Social",
-      "priority": 66,
-      "action": "Als kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.",
+      "type": "decision_asset",
+      "channel": "Community",
+      "priority": 67,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
       "indexNowIncluded": true,
       "externalAction": "manual_only",
-      "copy": "Audiences / Freelancer: Multi-Intent\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Objections / Zu Viele Tools: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objections/zu-viele-tools/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F",
-        "x": "https://twitter.com/intent/tweet?text=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Audiences%20%2F%20Freelancer&body=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F",
+        "x": "https://twitter.com/intent/tweet?text=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Objections%20%2F%20Zu%20Viele%20Tools&body=Objections%20%2F%20Zu%20Viele%20Tools%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjections%2Fzu-viele-tools%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
-      "rank": 87,
+      "rank": 85,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/antwort-bank-vs-link-spam/",
       "path": "/compare/antwort-bank-vs-link-spam",
       "title": "Compare / Antwort Bank Vs Link Spam",
@@ -1751,7 +1711,7 @@
       }
     },
     {
-      "rank": 88,
+      "rank": 86,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/audience-kit-vs-generic-post/",
       "path": "/compare/audience-kit-vs-generic-post",
       "title": "Compare / Audience Kit Vs Generic Post",
@@ -1771,7 +1731,7 @@
       }
     },
     {
-      "rank": 89,
+      "rank": 87,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/bio-hub-vs-einzelner-link/",
       "path": "/compare/bio-hub-vs-einzelner-link",
       "title": "Compare / Bio Hub Vs Einzelner Link",
@@ -1791,7 +1751,27 @@
       }
     },
     {
-      "rank": 90,
+      "rank": 88,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/fit-check-vs-direktangebot/",
+      "path": "/compare/fit-check-vs-direktangebot",
+      "title": "Compare / Fit Check Vs Direktangebot",
+      "intent": "Multi-Intent",
+      "type": "decision_asset",
+      "channel": "Community",
+      "priority": 66,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Compare / Fit Check Vs Direktangebot: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/fit-check-vs-direktangebot/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F",
+        "x": "https://twitter.com/intent/tweet?text=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot&body=Compare%20%2F%20Fit%20Check%20Vs%20Direktangebot%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Ffit-check-vs-direktangebot%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 89,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/use-case-vs-landingpage/",
       "path": "/compare/use-case-vs-landingpage",
       "title": "Compare / Use Case Vs Landingpage",
@@ -1811,7 +1791,7 @@
       }
     },
     {
-      "rank": 91,
+      "rank": 90,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/video-kit-vs-text-post/",
       "path": "/compare/video-kit-vs-text-post",
       "title": "Compare / Video Kit Vs Text Post",
@@ -1831,7 +1811,7 @@
       }
     },
     {
-      "rank": 92,
+      "rank": 91,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/affiliate-link-spam/",
       "path": "/videos/affiliate-link-spam",
       "title": "Videos / Affiliate Link Spam",
@@ -1851,7 +1831,7 @@
       }
     },
     {
-      "rank": 93,
+      "rank": 92,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/bio-link-router/",
       "path": "/videos/bio-link-router",
       "title": "Videos / Bio Link Router",
@@ -1871,7 +1851,7 @@
       }
     },
     {
-      "rank": 94,
+      "rank": 93,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/community-ohne-spam/",
       "path": "/videos/community-ohne-spam",
       "title": "Videos / Community Ohne Spam",
@@ -1891,7 +1871,7 @@
       }
     },
     {
-      "rank": 95,
+      "rank": 94,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/digital-soft-start/",
       "path": "/videos/digital-soft-start",
       "title": "Videos / Digital Soft Start",
@@ -1908,6 +1888,26 @@
         "x": "https://twitter.com/intent/tweet?text=Videos%20%2F%20Digital%20Soft%20Start%3A%20Digital%20Business%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fdigital-soft-start%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Videos%20%2F%20Digital%20Soft%20Start%3A%20Digital%20Business%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fdigital-soft-start%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Videos%20%2F%20Digital%20Soft%20Start&body=Videos%20%2F%20Digital%20Soft%20Start%3A%20Digital%20Business%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fdigital-soft-start%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 95,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/gpt-tool-chaos/",
+      "path": "/videos/gpt-tool-chaos",
+      "title": "Videos / Gpt Tool Chaos",
+      "intent": "GPT",
+      "type": "distribution_asset",
+      "channel": "Social",
+      "priority": 66,
+      "action": "Als kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Videos / Gpt Tool Chaos: GPT\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/videos/gpt-tool-chaos/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F",
+        "x": "https://twitter.com/intent/tweet?text=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Videos%20%2F%20Gpt%20Tool%20Chaos&body=Videos%20%2F%20Gpt%20Tool%20Chaos%3A%20GPT%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fvideos%2Fgpt-tool-chaos%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -2092,6 +2092,26 @@
     },
     {
       "rank": 105,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/",
+      "path": "/audiences/freelancer",
+      "title": "Audiences / Freelancer",
+      "intent": "Multi-Intent",
+      "type": "distribution_asset",
+      "channel": "Social",
+      "priority": 65,
+      "action": "Als kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Audiences / Freelancer: Multi-Intent\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/freelancer/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F",
+        "x": "https://twitter.com/intent/tweet?text=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Audiences%20%2F%20Freelancer&body=Audiences%20%2F%20Freelancer%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Ffreelancer%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 106,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/jobwechsel/",
       "path": "/audiences/jobwechsel",
       "title": "Audiences / Jobwechsel",
@@ -2111,7 +2131,7 @@
       }
     },
     {
-      "rank": 106,
+      "rank": 107,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/side-hustler/",
       "path": "/audiences/side-hustler",
       "title": "Audiences / Side Hustler",
@@ -2131,7 +2151,7 @@
       }
     },
     {
-      "rank": 107,
+      "rank": 108,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/solopreneure/",
       "path": "/audiences/solopreneure",
       "title": "Audiences / Solopreneure",
@@ -2151,7 +2171,7 @@
       }
     },
     {
-      "rank": 108,
+      "rank": 109,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/umsetzer/",
       "path": "/audiences/umsetzer",
       "title": "Audiences / Umsetzer",
@@ -2171,7 +2191,7 @@
       }
     },
     {
-      "rank": 109,
+      "rank": 110,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
       "path": "/content-engine.html",
       "title": "Content Engine",
@@ -2191,7 +2211,7 @@
       }
     },
     {
-      "rank": 110,
+      "rank": 111,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html",
       "path": "/fit-check.html",
       "title": "Fit Check",
@@ -2211,7 +2231,7 @@
       }
     },
     {
-      "rank": 111,
+      "rank": 112,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
       "path": "/launch-room.html",
       "title": "Launch Room",
@@ -2231,7 +2251,7 @@
       }
     },
     {
-      "rank": 112,
+      "rank": 113,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
       "path": "/organic-blitz.html",
       "title": "Organic Blitz",
@@ -2251,7 +2271,7 @@
       }
     },
     {
-      "rank": 113,
+      "rank": 114,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/partner-links.html",
       "path": "/partner-links.html",
       "title": "Partner Links",
@@ -2271,7 +2291,7 @@
       }
     },
     {
-      "rank": 114,
+      "rank": 115,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/qr-kit.html",
       "path": "/qr-kit.html",
       "title": "Qr Kit",
@@ -2291,7 +2311,7 @@
       }
     },
     {
-      "rank": 115,
+      "rank": 116,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html",
       "path": "/answers.html",
       "title": "Answers",
@@ -2308,26 +2328,6 @@
         "x": "https://twitter.com/intent/tweet?text=Answers%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Answers%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Answers&body=Answers%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 116,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
-      "path": "/channel-kit.html",
-      "title": "Channel Kit",
-      "intent": "Multi-Intent",
-      "type": "support_hub",
-      "channel": "LinkedIn",
-      "priority": 64,
-      "action": "Als Support-Link teilen, wenn die Frage exakt passt.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Channel Kit: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html",
-        "x": "https://twitter.com/intent/tweet?text=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Channel%20Kit&body=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -2372,26 +2372,6 @@
     },
     {
       "rank": 119,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/",
-      "path": "/checklists/presell-fit-checkliste",
-      "title": "Checklists / Presell Fit Checkliste",
-      "intent": "Affiliate",
-      "type": "conversion_asset",
-      "channel": "Social",
-      "priority": 64,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Checklists / Presell Fit Checkliste: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F",
-        "x": "https://twitter.com/intent/tweet?text=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Checklists%20%2F%20Presell%20Fit%20Checkliste&body=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 120,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/email-kit.html",
       "path": "/email-kit.html",
       "title": "Email Kit",
@@ -2411,7 +2391,7 @@
       }
     },
     {
-      "rank": 121,
+      "rank": 120,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/outreach-kit.html",
       "path": "/outreach-kit.html",
       "title": "Outreach Kit",
@@ -2431,7 +2411,7 @@
       }
     },
     {
-      "rank": 122,
+      "rank": 121,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/reply-kit.html",
       "path": "/reply-kit.html",
       "title": "Reply Kit",
@@ -2451,7 +2431,7 @@
       }
     },
     {
-      "rank": 123,
+      "rank": 122,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audience-kit.html",
       "path": "/audience-kit.html",
       "title": "Audience Kit",
@@ -2468,6 +2448,26 @@
         "x": "https://twitter.com/intent/tweet?text=Audience%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Audience%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Audience%20Kit&body=Audience%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudience-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 123,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html",
+      "path": "/channel-kit.html",
+      "title": "Channel Kit",
+      "intent": "Multi-Intent",
+      "type": "support_hub",
+      "channel": "LinkedIn",
+      "priority": 63,
+      "action": "Als Support-Link teilen, wenn die Frage exakt passt.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Channel Kit: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html",
+        "x": "https://twitter.com/intent/tweet?text=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Channel%20Kit&body=Channel%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchannel-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -2572,6 +2572,26 @@
     },
     {
       "rank": 129,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/",
+      "path": "/checklists/presell-fit-checkliste",
+      "title": "Checklists / Presell Fit Checkliste",
+      "intent": "Affiliate",
+      "type": "conversion_asset",
+      "channel": "Social",
+      "priority": 63,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Checklists / Presell Fit Checkliste: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/presell-fit-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F",
+        "x": "https://twitter.com/intent/tweet?text=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Checklists%20%2F%20Presell%20Fit%20Checkliste&body=Checklists%20%2F%20Presell%20Fit%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fpresell-fit-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 130,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/qr-offline-checkliste/",
       "path": "/checklists/qr-offline-checkliste",
       "title": "Checklists / Qr Offline Checkliste",
@@ -2591,7 +2611,7 @@
       }
     },
     {
-      "rank": 130,
+      "rank": 131,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/shortform-video-checkliste/",
       "path": "/checklists/shortform-video-checkliste",
       "title": "Checklists / Shortform Video Checkliste",
@@ -2611,7 +2631,7 @@
       }
     },
     {
-      "rank": 131,
+      "rank": 132,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare-kit.html",
       "path": "/compare-kit.html",
       "title": "Compare Kit",
@@ -2631,7 +2651,7 @@
       }
     },
     {
-      "rank": 132,
+      "rank": 133,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/exit-close-follow-up/",
       "path": "/emails/exit-close-follow-up",
       "title": "Emails / Exit Close Follow Up",
@@ -2651,7 +2671,7 @@
       }
     },
     {
-      "rank": 133,
+      "rank": 134,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hook-kit.html",
       "path": "/hook-kit.html",
       "title": "Hook Kit",
@@ -2671,7 +2691,7 @@
       }
     },
     {
-      "rank": 134,
+      "rank": 135,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/objection-kit.html",
       "path": "/objection-kit.html",
       "title": "Objection Kit",
@@ -2688,26 +2708,6 @@
         "x": "https://twitter.com/intent/tweet?text=Objection%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Objection%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Objection%20Kit&body=Objection%20Kit%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fobjection-kit.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 135,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
-      "path": "/post-pack.html",
-      "title": "Post Pack",
-      "intent": "Multi-Intent",
-      "type": "support_hub",
-      "channel": "LinkedIn",
-      "priority": 63,
-      "action": "Als Support-Link teilen, wenn die Frage exakt passt.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Post Pack: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html",
-        "x": "https://twitter.com/intent/tweet?text=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Post%20Pack&body=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -2772,26 +2772,6 @@
     },
     {
       "rank": 139,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/",
-      "path": "/scores/presell-trust-score",
-      "title": "Scores / Presell Trust Score",
-      "intent": "Affiliate",
-      "type": "conversion_asset",
-      "channel": "Social",
-      "priority": 63,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Scores / Presell Trust Score: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F",
-        "x": "https://twitter.com/intent/tweet?text=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Scores%20%2F%20Presell%20Trust%20Score&body=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 140,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-case-kit.html",
       "path": "/use-case-kit.html",
       "title": "Use Case Kit",
@@ -2811,7 +2791,7 @@
       }
     },
     {
-      "rank": 141,
+      "rank": 140,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/video-kit.html",
       "path": "/video-kit.html",
       "title": "Video Kit",
@@ -2831,7 +2811,7 @@
       }
     },
     {
-      "rank": 142,
+      "rank": 141,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/bio.html",
       "path": "/bio.html",
       "title": "Bio",
@@ -2851,7 +2831,7 @@
       }
     },
     {
-      "rank": 143,
+      "rank": 142,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/campaigns.html",
       "path": "/campaigns.html",
       "title": "Campaigns",
@@ -2871,7 +2851,7 @@
       }
     },
     {
-      "rank": 144,
+      "rank": 143,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/affiliate-ohne-publikum-hook/",
       "path": "/hooks/affiliate-ohne-publikum-hook",
       "title": "Hooks / Affiliate Ohne Publikum Hook",
@@ -2891,7 +2871,7 @@
       }
     },
     {
-      "rank": 145,
+      "rank": 144,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/gpt-tool-chaos-hook/",
       "path": "/hooks/gpt-tool-chaos-hook",
       "title": "Hooks / Gpt Tool Chaos Hook",
@@ -2911,7 +2891,7 @@
       }
     },
     {
-      "rank": 146,
+      "rank": 145,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/money-router.html",
       "path": "/money-router.html",
       "title": "Money Router",
@@ -2931,7 +2911,7 @@
       }
     },
     {
-      "rank": 147,
+      "rank": 146,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers.html",
       "path": "/offers.html",
       "title": "Offers",
@@ -2948,6 +2928,26 @@
         "x": "https://twitter.com/intent/tweet?text=Offers%3A%20Affiliate%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Offers%3A%20Affiliate%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Offers&body=Offers%3A%20Affiliate%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 147,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html",
+      "path": "/post-pack.html",
+      "title": "Post Pack",
+      "intent": "Multi-Intent",
+      "type": "support_hub",
+      "channel": "LinkedIn",
+      "priority": 62,
+      "action": "Als Support-Link teilen, wenn die Frage exakt passt.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Post Pack: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/post-pack.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html",
+        "x": "https://twitter.com/intent/tweet?text=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Post%20Pack&body=Post%20Pack%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fpost-pack.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -3032,6 +3032,26 @@
     },
     {
       "rank": 152,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/",
+      "path": "/scores/presell-trust-score",
+      "title": "Scores / Presell Trust Score",
+      "intent": "Affiliate",
+      "type": "conversion_asset",
+      "channel": "Social",
+      "priority": 62,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Scores / Presell Trust Score: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/presell-trust-score/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F",
+        "x": "https://twitter.com/intent/tweet?text=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Scores%20%2F%20Presell%20Trust%20Score&body=Scores%20%2F%20Presell%20Trust%20Score%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fscores%2Fpresell-trust-score%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 153,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/scores/qr-context-score/",
       "path": "/scores/qr-context-score",
       "title": "Scores / Qr Context Score",
@@ -3051,7 +3071,7 @@
       }
     },
     {
-      "rank": 153,
+      "rank": 154,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-kit.html",
       "path": "/share-kit.html",
       "title": "Share Kit",
@@ -3071,7 +3091,7 @@
       }
     },
     {
-      "rank": 154,
+      "rank": 155,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
       "path": "/traffic-launcher.html",
       "title": "Traffic Launcher",
@@ -3091,7 +3111,7 @@
       }
     },
     {
-      "rank": 155,
+      "rank": 156,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/bio-sortier-hook/",
       "path": "/hooks/bio-sortier-hook",
       "title": "Hooks / Bio Sortier Hook",
@@ -3111,7 +3131,7 @@
       }
     },
     {
-      "rank": 156,
+      "rank": 157,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/community-helpful-hook/",
       "path": "/hooks/community-helpful-hook",
       "title": "Hooks / Community Helpful Hook",
@@ -3131,7 +3151,7 @@
       }
     },
     {
-      "rank": 157,
+      "rank": 158,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/follow-up-fair-hook/",
       "path": "/hooks/follow-up-fair-hook",
       "title": "Hooks / Follow Up Fair Hook",
@@ -3151,7 +3171,7 @@
       }
     },
     {
-      "rank": 158,
+      "rank": 159,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/presell-vertrauens-hook/",
       "path": "/hooks/presell-vertrauens-hook",
       "title": "Hooks / Presell Vertrauens Hook",
@@ -3171,7 +3191,7 @@
       }
     },
     {
-      "rank": 159,
+      "rank": 160,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/qr-kontext-hook/",
       "path": "/hooks/qr-kontext-hook",
       "title": "Hooks / Qr Kontext Hook",
@@ -3191,7 +3211,7 @@
       }
     },
     {
-      "rank": 160,
+      "rank": 161,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/shortform-neugier-hook/",
       "path": "/hooks/shortform-neugier-hook",
       "title": "Hooks / Shortform Neugier Hook",
@@ -3211,7 +3231,7 @@
       }
     },
     {
-      "rank": 161,
+      "rank": 162,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/hooks/zielgruppe-schmerz-hook/",
       "path": "/hooks/zielgruppe-schmerz-hook",
       "title": "Hooks / Zielgruppe Schmerz Hook",
@@ -3231,7 +3251,7 @@
       }
     },
     {
-      "rank": 162,
+      "rank": 163,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/affiliate-insights/",
       "path": "/offers/affiliate-insights",
       "title": "Offers / Affiliate Insights",
@@ -3251,7 +3271,7 @@
       }
     },
     {
-      "rank": 163,
+      "rank": 164,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-376915/",
       "path": "/offers/ds-376915",
       "title": "Offers / Ds 376915",
@@ -3271,7 +3291,7 @@
       }
     },
     {
-      "rank": 164,
+      "rank": 165,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-38219/",
       "path": "/offers/ds-38219",
       "title": "Offers / Ds 38219",
@@ -3291,7 +3311,7 @@
       }
     },
     {
-      "rank": 165,
+      "rank": 166,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-459976/",
       "path": "/offers/ds-459976",
       "title": "Offers / Ds 459976",
@@ -3311,7 +3331,7 @@
       }
     },
     {
-      "rank": 166,
+      "rank": 167,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-472249/",
       "path": "/offers/ds-472249",
       "title": "Offers / Ds 472249",
@@ -3331,7 +3351,7 @@
       }
     },
     {
-      "rank": 167,
+      "rank": 168,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-500683/",
       "path": "/offers/ds-500683",
       "title": "Offers / Ds 500683",
@@ -3351,7 +3371,7 @@
       }
     },
     {
-      "rank": 168,
+      "rank": 169,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-552961/",
       "path": "/offers/ds-552961",
       "title": "Offers / Ds 552961",
@@ -3371,7 +3391,7 @@
       }
     },
     {
-      "rank": 169,
+      "rank": 170,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-607228/",
       "path": "/offers/ds-607228",
       "title": "Offers / Ds 607228",
@@ -3391,7 +3411,7 @@
       }
     },
     {
-      "rank": 170,
+      "rank": 171,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-649413/",
       "path": "/offers/ds-649413",
       "title": "Offers / Ds 649413",
@@ -3411,7 +3431,7 @@
       }
     },
     {
-      "rank": 171,
+      "rank": 172,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-656847/",
       "path": "/offers/ds-656847",
       "title": "Offers / Ds 656847",
@@ -3431,7 +3451,7 @@
       }
     },
     {
-      "rank": 172,
+      "rank": 173,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/gpt-starter-guide/",
       "path": "/offers/gpt-starter-guide",
       "title": "Offers / Gpt Starter Guide",
@@ -3451,7 +3471,7 @@
       }
     },
     {
-      "rank": 173,
+      "rank": 174,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/lovable-app-freebie/",
       "path": "/offers/lovable-app-freebie",
       "title": "Offers / Lovable App Freebie",
@@ -3471,7 +3491,7 @@
       }
     },
     {
-      "rank": 174,
+      "rank": 175,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/millionaire-webclass/",
       "path": "/offers/millionaire-webclass",
       "title": "Offers / Millionaire Webclass",
@@ -3491,7 +3511,7 @@
       }
     },
     {
-      "rank": 175,
+      "rank": 176,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/online-digital-redemption/",
       "path": "/offers/online-digital-redemption",
       "title": "Offers / Online Digital Redemption",
@@ -3511,7 +3531,7 @@
       }
     },
     {
-      "rank": 176,
+      "rank": 177,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/",
       "path": "/offers/power-mindset",
       "title": "Offers / Power Mindset",
@@ -3531,7 +3551,7 @@
       }
     },
     {
-      "rank": 177,
+      "rank": 178,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/affiliate-presell-copy/",
       "path": "/prompts/affiliate-presell-copy",
       "title": "Prompts / Affiliate Presell Copy",
@@ -3551,7 +3571,7 @@
       }
     },
     {
-      "rank": 178,
+      "rank": 179,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/gpt-erster-workflow/",
       "path": "/prompts/gpt-erster-workflow",
       "title": "Prompts / Gpt Erster Workflow",
@@ -3568,26 +3588,6 @@
         "x": "https://twitter.com/intent/tweet?text=Prompts%20%2F%20Gpt%20Erster%20Workflow%3A%20GPT%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fgpt-erster-workflow%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Prompts%20%2F%20Gpt%20Erster%20Workflow%3A%20GPT%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fgpt-erster-workflow%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Prompts%20%2F%20Gpt%20Erster%20Workflow&body=Prompts%20%2F%20Gpt%20Erster%20Workflow%3A%20GPT%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fgpt-erster-workflow%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 179,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
-      "path": "/prompts/warme-dm-permission",
-      "title": "Prompts / Warme Dm Permission",
-      "intent": "Multi-Intent",
-      "type": "copy_asset",
-      "channel": "E-Mail/DM",
-      "priority": 61,
-      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Prompts / Warme Dm Permission: Multi-Intent\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F",
-        "x": "https://twitter.com/intent/tweet?text=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Prompts%20%2F%20Warme%20Dm%20Permission&body=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -3732,6 +3732,26 @@
     },
     {
       "rank": 187,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/",
+      "path": "/prompts/warme-dm-permission",
+      "title": "Prompts / Warme Dm Permission",
+      "intent": "Multi-Intent",
+      "type": "copy_asset",
+      "channel": "E-Mail/DM",
+      "priority": 60,
+      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Prompts / Warme Dm Permission: Multi-Intent\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/prompts/warme-dm-permission/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F",
+        "x": "https://twitter.com/intent/tweet?text=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Prompts%20%2F%20Warme%20Dm%20Permission&body=Prompts%20%2F%20Warme%20Dm%20Permission%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fprompts%2Fwarme-dm-permission%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 188,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/affiliate-starten-ohne-link-spam/",
       "path": "/answers/affiliate-starten-ohne-link-spam",
       "title": "Answers / Affiliate Starten Ohne Link Spam",
@@ -3751,7 +3771,7 @@
       }
     },
     {
-      "rank": 188,
+      "rank": 189,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/digital-business-soft-start/",
       "path": "/answers/digital-business-soft-start",
       "title": "Answers / Digital Business Soft Start",
@@ -3771,7 +3791,7 @@
       }
     },
     {
-      "rank": 189,
+      "rank": 190,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/gpt-starten-ohne-tool-chaos/",
       "path": "/answers/gpt-starten-ohne-tool-chaos",
       "title": "Answers / Gpt Starten Ohne Tool Chaos",
@@ -3791,7 +3811,7 @@
       }
     },
     {
-      "rank": 190,
+      "rank": 191,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/mindset-umsetzung-statt-sammeln/",
       "path": "/answers/mindset-umsetzung-statt-sammeln",
       "title": "Answers / Mindset Umsetzung Statt Sammeln",
@@ -3811,7 +3831,7 @@
       }
     },
     {
-      "rank": 191,
+      "rank": 192,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/was-in-community-antworten/",
       "path": "/answers/was-in-community-antworten",
       "title": "Answers / Was In Community Antworten",
@@ -3831,7 +3851,7 @@
       }
     },
     {
-      "rank": 192,
+      "rank": 193,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/",
       "path": "/answers/welchen-link-in-bio-setzen",
       "title": "Answers / Welchen Link In Bio Setzen",
@@ -3851,7 +3871,7 @@
       }
     },
     {
-      "rank": 193,
+      "rank": 194,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welcher-online-business-schritt-passt/",
       "path": "/answers/welcher-online-business-schritt-passt",
       "title": "Answers / Welcher Online Business Schritt Passt",
@@ -3871,7 +3891,7 @@
       }
     },
     {
-      "rank": 194,
+      "rank": 195,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/exit-lifestyle/",
       "path": "/c/exit-lifestyle",
       "title": "C / Exit Lifestyle",
@@ -3888,26 +3908,6 @@
         "x": "https://twitter.com/intent/tweet?text=C%20%2F%20Exit%20Lifestyle%3A%20Exit%2FLifestyle%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fexit-lifestyle%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=C%20%2F%20Exit%20Lifestyle%3A%20Exit%2FLifestyle%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fexit-lifestyle%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20C%20%2F%20Exit%20Lifestyle&body=C%20%2F%20Exit%20Lifestyle%3A%20Exit%2FLifestyle%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fc%2Fexit-lifestyle%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 195,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/",
-      "path": "/emails/affiliate-presell-intro",
-      "title": "Emails / Affiliate Presell Intro",
-      "intent": "Affiliate",
-      "type": "copy_asset",
-      "channel": "E-Mail/DM",
-      "priority": 55,
-      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Emails / Affiliate Presell Intro: Affiliate\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F",
-        "x": "https://twitter.com/intent/tweet?text=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Emails%20%2F%20Affiliate%20Presell%20Intro&body=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -3932,6 +3932,26 @@
     },
     {
       "rank": 197,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/",
+      "path": "/emails/affiliate-presell-intro",
+      "title": "Emails / Affiliate Presell Intro",
+      "intent": "Affiliate",
+      "type": "copy_asset",
+      "channel": "E-Mail/DM",
+      "priority": 54,
+      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Emails / Affiliate Presell Intro: Affiliate\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/affiliate-presell-intro/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F",
+        "x": "https://twitter.com/intent/tweet?text=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Emails%20%2F%20Affiliate%20Presell%20Intro&body=Emails%20%2F%20Affiliate%20Presell%20Intro%3A%20Affiliate%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Faffiliate-presell-intro%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 198,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/bio-router-signature/",
       "path": "/emails/bio-router-signature",
       "title": "Emails / Bio Router Signature",
@@ -3951,7 +3971,7 @@
       }
     },
     {
-      "rank": 198,
+      "rank": 199,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/community-follow-up/",
       "path": "/emails/community-follow-up",
       "title": "Emails / Community Follow Up",
@@ -3971,7 +3991,7 @@
       }
     },
     {
-      "rank": 199,
+      "rank": 200,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/",
       "path": "/emails/last-touch-check",
       "title": "Emails / Last Touch Check",
@@ -3991,7 +4011,7 @@
       }
     },
     {
-      "rank": 200,
+      "rank": 201,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/newsletter-resource/",
       "path": "/emails/newsletter-resource",
       "title": "Emails / Newsletter Resource",
@@ -4011,7 +4031,7 @@
       }
     },
     {
-      "rank": 201,
+      "rank": 202,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/no-fit-polite-close/",
       "path": "/emails/no-fit-polite-close",
       "title": "Emails / No Fit Polite Close",
@@ -4031,7 +4051,7 @@
       }
     },
     {
-      "rank": 202,
+      "rank": 203,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/partner-intro/",
       "path": "/emails/partner-intro",
       "title": "Emails / Partner Intro",
@@ -4051,7 +4071,7 @@
       }
     },
     {
-      "rank": 203,
+      "rank": 204,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/qr-call-recap/",
       "path": "/emails/qr-call-recap",
       "title": "Emails / Qr Call Recap",
@@ -4071,7 +4091,7 @@
       }
     },
     {
-      "rank": 204,
+      "rank": 205,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/link-request-buying-intent/",
       "path": "/replies/link-request-buying-intent",
       "title": "Replies / Link Request Buying Intent",
@@ -4088,26 +4108,6 @@
         "x": "https://twitter.com/intent/tweet?text=Replies%20%2F%20Link%20Request%20Buying%20Intent%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Flink-request-buying-intent%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "whatsapp": "https://wa.me/?text=Replies%20%2F%20Link%20Request%20Buying%20Intent%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Flink-request-buying-intent%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
         "email": "mailto:?subject=SERS%3A%20Replies%20%2F%20Link%20Request%20Buying%20Intent&body=Replies%20%2F%20Link%20Request%20Buying%20Intent%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Flink-request-buying-intent%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "rank": 205,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/",
-      "path": "/replies/not-now-later",
-      "title": "Replies / Not Now Later",
-      "intent": "Multi-Intent",
-      "type": "copy_asset",
-      "channel": "E-Mail/DM",
-      "priority": 54,
-      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
-      "indexNowIncluded": true,
-      "externalAction": "manual_only",
-      "copy": "Replies / Not Now Later: Multi-Intent\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F",
-        "x": "https://twitter.com/intent/tweet?text=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%3A%20Replies%20%2F%20Not%20Now%20Later&body=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
@@ -4232,6 +4232,26 @@
     },
     {
       "rank": 212,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/",
+      "path": "/replies/not-now-later",
+      "title": "Replies / Not Now Later",
+      "intent": "Multi-Intent",
+      "type": "copy_asset",
+      "channel": "E-Mail/DM",
+      "priority": 53,
+      "action": "Copy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.",
+      "indexNowIncluded": true,
+      "externalAction": "manual_only",
+      "copy": "Replies / Not Now Later: Multi-Intent\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/not-now-later/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F",
+        "x": "https://twitter.com/intent/tweet?text=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%3A%20Replies%20%2F%20Not%20Now%20Later&body=Replies%20%2F%20Not%20Now%20Later%3A%20Multi-Intent%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Freplies%2Fnot-now-later%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "rank": 213,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/replies/partner-wants-assets/",
       "path": "/replies/partner-wants-assets",
       "title": "Replies / Partner Wants Assets",
@@ -4251,7 +4271,7 @@
       }
     },
     {
-      "rank": 213,
+      "rank": 214,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/exit-masterplan/",
       "path": "/go/exit-masterplan",
       "title": "Go / Exit Masterplan",
@@ -4271,7 +4291,7 @@
       }
     },
     {
-      "rank": 214,
+      "rank": 215,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/affiliate-neustart/",
       "path": "/c/affiliate-neustart",
       "title": "C / Affiliate Neustart",
@@ -4291,7 +4311,7 @@
       }
     },
     {
-      "rank": 215,
+      "rank": 216,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/ai-starter/",
       "path": "/c/ai-starter",
       "title": "C / Ai Starter",
@@ -4311,7 +4331,7 @@
       }
     },
     {
-      "rank": 216,
+      "rank": 217,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/mindset-reaktivierung/",
       "path": "/c/mindset-reaktivierung",
       "title": "C / Mindset Reaktivierung",
@@ -4331,7 +4351,7 @@
       }
     },
     {
-      "rank": 217,
+      "rank": 218,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/c/soft-lead-freebie/",
       "path": "/c/soft-lead-freebie",
       "title": "C / Soft Lead Freebie",
@@ -4351,7 +4371,7 @@
       }
     },
     {
-      "rank": 218,
+      "rank": 219,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/affiliate-insights/",
       "path": "/go/affiliate-insights",
       "title": "Go / Affiliate Insights",
@@ -4371,7 +4391,7 @@
       }
     },
     {
-      "rank": 219,
+      "rank": 220,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-376915/",
       "path": "/go/ds-376915",
       "title": "Go / Ds 376915",
@@ -4391,7 +4411,7 @@
       }
     },
     {
-      "rank": 220,
+      "rank": 221,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-38219/",
       "path": "/go/ds-38219",
       "title": "Go / Ds 38219",
@@ -4411,7 +4431,7 @@
       }
     },
     {
-      "rank": 221,
+      "rank": 222,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-459976/",
       "path": "/go/ds-459976",
       "title": "Go / Ds 459976",
@@ -4431,7 +4451,7 @@
       }
     },
     {
-      "rank": 222,
+      "rank": 223,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-472249/",
       "path": "/go/ds-472249",
       "title": "Go / Ds 472249",
@@ -4451,7 +4471,7 @@
       }
     },
     {
-      "rank": 223,
+      "rank": 224,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-500683/",
       "path": "/go/ds-500683",
       "title": "Go / Ds 500683",
@@ -4471,7 +4491,7 @@
       }
     },
     {
-      "rank": 224,
+      "rank": 225,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-552961/",
       "path": "/go/ds-552961",
       "title": "Go / Ds 552961",
@@ -4491,7 +4511,7 @@
       }
     },
     {
-      "rank": 225,
+      "rank": 226,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-607228/",
       "path": "/go/ds-607228",
       "title": "Go / Ds 607228",
@@ -4511,7 +4531,7 @@
       }
     },
     {
-      "rank": 226,
+      "rank": 227,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-649413/",
       "path": "/go/ds-649413",
       "title": "Go / Ds 649413",
@@ -4531,7 +4551,7 @@
       }
     },
     {
-      "rank": 227,
+      "rank": 228,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/ds-656847/",
       "path": "/go/ds-656847",
       "title": "Go / Ds 656847",
@@ -4551,7 +4571,7 @@
       }
     },
     {
-      "rank": 228,
+      "rank": 229,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/gpt-starter-guide/",
       "path": "/go/gpt-starter-guide",
       "title": "Go / Gpt Starter Guide",
@@ -4571,7 +4591,7 @@
       }
     },
     {
-      "rank": 229,
+      "rank": 230,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/lovable-app-freebie/",
       "path": "/go/lovable-app-freebie",
       "title": "Go / Lovable App Freebie",
@@ -4591,7 +4611,7 @@
       }
     },
     {
-      "rank": 230,
+      "rank": 231,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/millionaire-webclass/",
       "path": "/go/millionaire-webclass",
       "title": "Go / Millionaire Webclass",
@@ -4611,7 +4631,7 @@
       }
     },
     {
-      "rank": 231,
+      "rank": 232,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/online-digital-redemption/",
       "path": "/go/online-digital-redemption",
       "title": "Go / Online Digital Redemption",
@@ -4631,7 +4651,7 @@
       }
     },
     {
-      "rank": 232,
+      "rank": 233,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/go/power-mindset/",
       "path": "/go/power-mindset",
       "title": "Go / Power Mindset",

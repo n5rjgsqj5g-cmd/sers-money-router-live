@@ -9,6 +9,7 @@
 - [SERS All Links Traffic Hub](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html): Komplettes SEO- und Share-Inventar fuer alle oeffentlichen SERS Links mit Copy, Kanal und Prioritaet.
 - [SERS Daily Traffic Wave](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html): Taeglich rotierende 12-Link-Welle aus dem All-Links-Inventar fuer manuelle organische Distribution.
 - [SERS Traffic Swarm](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html): Thematische Traffic-Cluster fuer Winner, AI, Affiliate, Community, Copy und Decision-Pfade.
+- [SERS Agent Discovery Map](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html): Maschinenlesbare und browserfreundliche Aufgabenkarte fuer AI-Suche, Browser-Agenten, Sitemaps, Feeds und manuelle Traffic-Pfade.
 - [SERS Market Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html): Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up.
 - [SERS Fit Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html): Intent klaeren, bevor ein Offer-Link gesendet wird.
 - [SERS Action Board](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html): Manuelle Traffic-Aktionen mit Tracking-Link, Copy und Affiliate-Hinweis planen.
