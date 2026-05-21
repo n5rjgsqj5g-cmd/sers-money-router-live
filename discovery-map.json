@@ -1,6 +1,6 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T12:38:11.018Z",
+  "generatedAt": "2026-05-21T12:41:31.554Z",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "discoveryMapUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
   "discoveryMapJsonUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.json",
@@ -20,7 +20,7 @@
   "totalInventoryUrls": 234,
   "publicTrafficUrls": 234,
   "taskCount": 7,
-  "automationBoundary": "manual_search_discovery_mesh_only",
+  "automationBoundary": "static_search_discovery_mesh_only",
   "manualComposerBoundary": "manual_open_only",
   "externalAction": "none",
   "paidSpend": "none",
