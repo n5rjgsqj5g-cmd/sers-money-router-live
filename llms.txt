@@ -9,6 +9,7 @@
 - [SERS All Links Traffic Hub](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html): Komplettes SEO- und Share-Inventar fuer alle oeffentlichen SERS Links mit Copy, Kanal und Prioritaet.
 - [SERS Daily Traffic Wave](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html): Taeglich rotierende 12-Link-Welle aus dem All-Links-Inventar fuer manuelle organische Distribution.
 - [SERS Traffic Swarm](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html): Thematische Traffic-Cluster fuer Winner, AI, Affiliate, Community, Copy und Decision-Pfade.
+- [SERS Answer Packets](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html): Kompakte Frage-Antwort-Link-Pakete fuer Long-Tail-Suche, AI-Antwortsysteme und sichere manuelle Shares.
 - [SERS Social Preview Pack](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html): Preview-Karten, Canonical-, OG- und Twitter-Metadaten fuer die wichtigsten SERS Traffic-Links.
 - [SERS Search Discovery Mesh](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html): Statische Discovery-Flaeche mit Text-Sitemap, Atom Feed, JSON Map, AI-Aufgabenkarte und sicheren manuellen Traffic-Pfaden.
 - [SERS Agent Discovery Map](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html): Kompatible Agenten-Aufgabenkarte fuer AI-Suche, Browser-Agenten, Sitemaps, Feeds und manuelle Traffic-Pfade.

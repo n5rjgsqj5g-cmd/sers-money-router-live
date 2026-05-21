@@ -16,6 +16,9 @@
     "trafficLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
     "trafficWave": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
     "trafficSwarm": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+    "answerPackets": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+    "answerPacketsJson": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.json",
+    "answerPacketsText": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.txt",
     "socialPreviewPack": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.html",
     "socialPreviewPackJson": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/social-preview-pack.json",
     "searchDiscoveryMesh": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
@@ -110,6 +113,11 @@
       "label": "SERS Traffic Swarm",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
       "use": "Themen-Cluster waehlen und mehrere passende Links als manuelle Mini-Welle verteilen."
+    },
+    {
+      "label": "SERS Answer Packets",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answer-packets.html",
+      "use": "Konkrete Fragen als statische Antwortpakete mit passender Kurzantwort und Link-Kontext nutzen."
     },
     {
       "label": "SERS Social Preview Pack",
