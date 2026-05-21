@@ -18,15 +18,18 @@ Allow: /replies/
 Allow: /offers/
 Allow: /go/
 Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
+Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt
+Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom
 # RSS Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.xml
-# Atom Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom
 # JSON Feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json
 # LLM discovery: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
+# Search discovery mesh: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html
 # Close now: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
 # All links traffic hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
 # Daily traffic wave: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
 # Traffic swarm: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html
+# Agent discovery map: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html
 # FAQ kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
 # Channel kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html

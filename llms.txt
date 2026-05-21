@@ -9,7 +9,8 @@
 - [SERS All Links Traffic Hub](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html): Komplettes SEO- und Share-Inventar fuer alle oeffentlichen SERS Links mit Copy, Kanal und Prioritaet.
 - [SERS Daily Traffic Wave](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html): Taeglich rotierende 12-Link-Welle aus dem All-Links-Inventar fuer manuelle organische Distribution.
 - [SERS Traffic Swarm](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html): Thematische Traffic-Cluster fuer Winner, AI, Affiliate, Community, Copy und Decision-Pfade.
-- [SERS Agent Discovery Map](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html): Maschinenlesbare und browserfreundliche Aufgabenkarte fuer AI-Suche, Browser-Agenten, Sitemaps, Feeds und manuelle Traffic-Pfade.
+- [SERS Search Discovery Mesh](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html): Statische Discovery-Flaeche mit Text-Sitemap, Atom Feed, JSON Map, AI-Aufgabenkarte und sicheren manuellen Traffic-Pfaden.
+- [SERS Agent Discovery Map](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html): Kompatible Agenten-Aufgabenkarte fuer AI-Suche, Browser-Agenten, Sitemaps, Feeds und manuelle Traffic-Pfade.
 - [SERS Market Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html): Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up.
 - [SERS Fit Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html): Intent klaeren, bevor ein Offer-Link gesendet wird.
 - [SERS Action Board](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html): Manuelle Traffic-Aktionen mit Tracking-Link, Copy und Affiliate-Hinweis planen.
@@ -231,7 +232,16 @@
 - [SERS Presell: Digistore Offer 500683](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-500683/): Konkreten Digistore-Intent nach Fit auf Angebot 500683 leiten.
 - [SERS Presell: Digistore Offer 607228](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-607228/): Konkreten Digistore-Intent nach Fit auf Angebot 607228 leiten.
 
+## Discovery Files
+- [XML Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml): Canonical URL inventory for crawlers.
+- [Text Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt): Plain public page URL list for simple discovery.
+- [Atom Feed](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom): Recent and important SERS marketing assets as Atom entries.
+- [IndexNow Batch](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/indexnow-urls.json): URL batch prepared for IndexNow-supported engines.
+
 ## Boundaries
 - Organic, permission-first distribution.
 - Affiliate disclosure is included on public pages.
 - No auto-DMs, no auto-posts, no paid spend.
+- Agent discovery map: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html
+- Text sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt
+- Atom feed: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom

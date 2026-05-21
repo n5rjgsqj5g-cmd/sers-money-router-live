@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-20",
+  "version": "2026-05-21",
   "title": "SERS Affiliate Share Manifest",
   "home": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html",
   "disclosure": "Werbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
@@ -16,6 +16,16 @@
     "trafficLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
     "trafficWave": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
     "trafficSwarm": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
+    "searchDiscoveryMesh": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+    "agentDiscovery": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+    "sitemapXml": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml",
+    "sitemapTxt": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt",
+    "textSitemap": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt",
+    "rssFeed": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.xml",
+    "atomFeed": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom",
+    "jsonFeed": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
+    "indexNowBatch": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/indexnow-urls.json",
+    "llms": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/llms.txt",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "actionBoard": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
     "contentEngine": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
@@ -98,6 +108,16 @@
       "label": "SERS Traffic Swarm",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html",
       "use": "Themen-Cluster waehlen und mehrere passende Links als manuelle Mini-Welle verteilen."
+    },
+    {
+      "label": "SERS Search Discovery Mesh",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+      "use": "Crawler, Suchmaschinen und AI-Agenten mit Text-Sitemap, Atom Feed, JSON Map und Traffic-Hubs versorgen."
+    },
+    {
+      "label": "SERS Agent Discovery Map",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/agent-discovery.html",
+      "use": "AI-, Browser- und Such-Agenten mit Aufgabenkarte, Sitemaps, Feeds und sicheren Startpfaden versorgen."
     },
     {
       "label": "SERS Money Router",

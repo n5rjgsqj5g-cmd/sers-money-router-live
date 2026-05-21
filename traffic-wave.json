@@ -1,10 +1,10 @@
 {
   "version": "2026-05-21",
-  "generatedAt": "2026-05-21T12:27:14.776Z",
+  "generatedAt": "2026-05-21T12:38:11.029Z",
   "day": "2026-05-21",
   "baseUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live",
   "sourceInventory": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
-  "totalInventoryUrls": 233,
+  "totalInventoryUrls": 234,
   "waveUrl": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
   "waveSize": 12,
   "rotationSeed": 492,
@@ -86,6 +86,29 @@
     },
     {
       "waveRank": 4,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html",
+      "path": "/discovery-map.html",
+      "title": "Discovery Map",
+      "intent": "Multi-Intent",
+      "type": "search_discovery_mesh",
+      "channel": "AI/Agent Search",
+      "priority": 100,
+      "action": "Als Search Discovery Mesh nutzen: Text-Sitemap, Atom Feed, JSON Map und Traffic-Hubs als Crawl-Startpunkte pruefen.",
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "copy": "Traffic Wave 2026-05-21 | 4/12\nDiscovery Map: Multi-Intent\n\nAls Search Discovery Mesh nutzen: Text-Sitemap, Atom Feed, JSON Map und Traffic-Hubs als Crawl-Startpunkte pruefen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html",
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0ADiscovery%20Map%3A%20Multi-Intent%0A%0AAls%20Search%20Discovery%20Mesh%20nutzen%3A%20Text-Sitemap%2C%20Atom%20Feed%2C%20JSON%20Map%20und%20Traffic-Hubs%20als%20Crawl-Startpunkte%20pruefen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0ADiscovery%20Map%3A%20Multi-Intent%0A%0AAls%20Search%20Discovery%20Mesh%20nutzen%3A%20Text-Sitemap%2C%20Atom%20Feed%2C%20JSON%20Map%20und%20Traffic-Hubs%20als%20Crawl-Startpunkte%20pruefen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Discovery%20Map&body=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0ADiscovery%20Map%3A%20Multi-Intent%0A%0AAls%20Search%20Discovery%20Mesh%20nutzen%3A%20Text-Sitemap%2C%20Atom%20Feed%2C%20JSON%20Map%20und%20Traffic-Hubs%20als%20Crawl-Startpunkte%20pruefen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fdiscovery-map.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "waveRank": 5,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
       "path": "/market-now.html",
       "title": "Market Now",
@@ -99,16 +122,16 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 4/12\nMarket Now: Multi-Intent\n\nBei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 5/12\nMarket Now: Multi-Intent\n\nBei warmem Kaufintent zuerst teilen und danach echte Antwort/Klick lokal loggen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
         "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Market%20Now&body=Traffic%20Wave%202026-05-21%20%7C%204%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Market%20Now&body=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AMarket%20Now%3A%20Multi-Intent%0A%0ABei%20warmem%20Kaufintent%20zuerst%20teilen%20und%20danach%20echte%20Antwort%2FKlick%20lokal%20loggen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fmarket-now.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
-      "waveRank": 5,
+      "waveRank": 6,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
       "path": "/organic-blitz.html",
       "title": "Organic Blitz",
@@ -122,16 +145,16 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 5/12\nOrganic Blitz: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 6/12\nOrganic Blitz: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
         "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Organic%20Blitz&body=Traffic%20Wave%202026-05-21%20%7C%205%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Organic%20Blitz&body=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOrganic%20Blitz%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Forganic-blitz.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
-      "waveRank": 6,
+      "waveRank": 7,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/",
       "path": "/offers/power-mindset",
       "title": "Offers / Power Mindset",
@@ -145,16 +168,16 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 6/12\nOffers / Power Mindset: Affiliate\n\nVor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 7/12\nOffers / Power Mindset: Affiliate\n\nVor Direktlink teilen, wenn Vertrauen, Fit oder Nicht-Fit noch geklaert werden muss.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/power-mindset/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
         "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Offers%20%2F%20Power%20Mindset&body=Traffic%20Wave%202026-05-21%20%7C%206%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Offers%20%2F%20Power%20Mindset&body=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AOffers%20%2F%20Power%20Mindset%3A%20Affiliate%0A%0AVor%20Direktlink%20teilen%2C%20wenn%20Vertrauen%2C%20Fit%20oder%20Nicht-Fit%20noch%20geklaert%20werden%20muss.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Foffers%2Fpower-mindset%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
-      "waveRank": 7,
+      "waveRank": 8,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/",
       "path": "/answers/welchen-link-in-bio-setzen",
       "title": "Answers / Welchen Link In Bio Setzen",
@@ -168,62 +191,62 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 7/12\nAnswers / Welchen Link In Bio Setzen: Multi-Intent\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 8/12\nAnswers / Welchen Link In Bio Setzen: Multi-Intent\n\nAls hilfreiche Community-Antwort oder Long-Tail-Suchseite verwenden.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers/welchen-link-in-bio-setzen/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
         "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Answers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen&body=Traffic%20Wave%202026-05-21%20%7C%207%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "waveRank": 8,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/",
-      "path": "/use-cases/qr-im-verkaufsgespraech",
-      "title": "Use Cases / Qr Im Verkaufsgespraech",
-      "intent": "Multi-Intent",
-      "type": "decision_asset",
-      "channel": "Community",
-      "priority": 68,
-      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
-      "approvalState": "manual_approval_required",
-      "externalAction": "manual_only",
-      "openMode": "manual_open_only",
-      "paidSpend": "none",
-      "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 8/12\nUse Cases / Qr Im Verkaufsgespraech: Multi-Intent\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/use-cases/qr-im-verkaufsgespraech/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Use%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech&body=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AUse%20Cases%20%2F%20Qr%20Im%20Verkaufsgespraech%3A%20Multi-Intent%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fuse-cases%2Fqr-im-verkaufsgespraech%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Answers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen&body=Traffic%20Wave%202026-05-21%20%7C%208%2F12%0AAnswers%20%2F%20Welchen%20Link%20In%20Bio%20Setzen%3A%20Multi-Intent%0A%0AAls%20hilfreiche%20Community-Antwort%20oder%20Long-Tail-Suchseite%20verwenden.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fanswers%2Fwelchen-link-in-bio-setzen%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
       "waveRank": 9,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/gpt-starter-checkliste/",
-      "path": "/checklists/gpt-starter-checkliste",
-      "title": "Checklists / Gpt Starter Checkliste",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/gpt-guide-vs-tool-liste/",
+      "path": "/compare/gpt-guide-vs-tool-liste",
+      "title": "Compare / Gpt Guide Vs Tool Liste",
       "intent": "GPT",
-      "type": "conversion_asset",
-      "channel": "Social",
-      "priority": 64,
+      "type": "decision_asset",
+      "channel": "Community",
+      "priority": 67,
       "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
       "approvalState": "manual_approval_required",
       "externalAction": "manual_only",
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 9/12\nChecklists / Gpt Starter Checkliste: GPT\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/gpt-starter-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 9/12\nCompare / Gpt Guide Vs Tool Liste: GPT\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/compare/gpt-guide-vs-tool-liste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fgpt-starter-checkliste%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0AChecklists%20%2F%20Gpt%20Starter%20Checkliste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fgpt-starter-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0AChecklists%20%2F%20Gpt%20Starter%20Checkliste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fgpt-starter-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Checklists%20%2F%20Gpt%20Starter%20Checkliste&body=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0AChecklists%20%2F%20Gpt%20Starter%20Checkliste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Fgpt-starter-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fgpt-guide-vs-tool-liste%2F",
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0ACompare%20%2F%20Gpt%20Guide%20Vs%20Tool%20Liste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fgpt-guide-vs-tool-liste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0ACompare%20%2F%20Gpt%20Guide%20Vs%20Tool%20Liste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fgpt-guide-vs-tool-liste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Compare%20%2F%20Gpt%20Guide%20Vs%20Tool%20Liste&body=Traffic%20Wave%202026-05-21%20%7C%209%2F12%0ACompare%20%2F%20Gpt%20Guide%20Vs%20Tool%20Liste%3A%20GPT%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fcompare%2Fgpt-guide-vs-tool-liste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
       "waveRank": 10,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/affiliate-send-checkliste/",
+      "path": "/checklists/affiliate-send-checkliste",
+      "title": "Checklists / Affiliate Send Checkliste",
+      "intent": "Affiliate",
+      "type": "conversion_asset",
+      "channel": "Social",
+      "priority": 63,
+      "action": "Als Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.",
+      "approvalState": "manual_approval_required",
+      "externalAction": "manual_only",
+      "openMode": "manual_open_only",
+      "paidSpend": "none",
+      "claimsTraffic": false,
+      "copy": "Traffic Wave 2026-05-21 | 10/12\nChecklists / Affiliate Send Checkliste: Affiliate\n\nAls Selbstcheck oder Entscheidungsseite vor dem naechsten Klick teilen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/checklists/affiliate-send-checkliste/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "shareDialogs": {
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Faffiliate-send-checkliste%2F",
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AChecklists%20%2F%20Affiliate%20Send%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Faffiliate-send-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AChecklists%20%2F%20Affiliate%20Send%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Faffiliate-send-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Checklists%20%2F%20Affiliate%20Send%20Checkliste&body=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AChecklists%20%2F%20Affiliate%20Send%20Checkliste%3A%20Affiliate%0A%0AAls%20Selbstcheck%20oder%20Entscheidungsseite%20vor%20dem%20naechsten%20Klick%20teilen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Fchecklists%2Faffiliate-send-checkliste%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+      }
+    },
+    {
+      "waveRank": 11,
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/",
       "path": "/emails/last-touch-check",
       "title": "Emails / Last Touch Check",
@@ -237,19 +260,19 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 10/12\nEmails / Last Touch Check: Warm Follow-up\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 11/12\nEmails / Last Touch Check: Warm Follow-up\n\nCopy manuell pruefen, dann in erlaubtem Kanal oeffnen oder kopieren.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/emails/last-touch-check/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
         "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Emails%20%2F%20Last%20Touch%20Check&body=Traffic%20Wave%202026-05-21%20%7C%2010%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Emails%20%2F%20Last%20Touch%20Check&body=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AEmails%20%2F%20Last%20Touch%20Check%3A%20Warm%20Follow-up%0A%0ACopy%20manuell%20pruefen%2C%20dann%20in%20erlaubtem%20Kanal%20oeffnen%20oder%20kopieren.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Femails%2Flast-touch-check%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     },
     {
-      "waveRank": 11,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/side-hustler/",
-      "path": "/audiences/side-hustler",
-      "title": "Audiences / Side Hustler",
+      "waveRank": 12,
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/solopreneure/",
+      "path": "/audiences/solopreneure",
+      "title": "Audiences / Solopreneure",
       "intent": "Multi-Intent",
       "type": "distribution_asset",
       "channel": "Social",
@@ -260,35 +283,12 @@
       "openMode": "manual_open_only",
       "paidSpend": "none",
       "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 11/12\nAudiences / Side Hustler: Multi-Intent\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/side-hustler/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
+      "copy": "Traffic Wave 2026-05-21 | 12/12\nAudiences / Solopreneure: Multi-Intent\n\nAls kanal- oder zielgruppenklare Variante fuer Social/Video/Bio nutzen.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/audiences/solopreneure/\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
       "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fside-hustler%2F",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AAudiences%20%2F%20Side%20Hustler%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fside-hustler%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AAudiences%20%2F%20Side%20Hustler%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fside-hustler%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Audiences%20%2F%20Side%20Hustler&body=Traffic%20Wave%202026-05-21%20%7C%2011%2F12%0AAudiences%20%2F%20Side%20Hustler%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fside-hustler%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
-      }
-    },
-    {
-      "waveRank": 12,
-      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html",
-      "path": "/traffic-launcher.html",
-      "title": "Traffic Launcher",
-      "intent": "Multi-Intent",
-      "type": "support_hub",
-      "channel": "LinkedIn",
-      "priority": 62,
-      "action": "Als Support-Link teilen, wenn die Frage exakt passt.",
-      "approvalState": "manual_approval_required",
-      "externalAction": "manual_only",
-      "openMode": "manual_open_only",
-      "paidSpend": "none",
-      "claimsTraffic": false,
-      "copy": "Traffic Wave 2026-05-21 | 12/12\nTraffic Launcher: Multi-Intent\n\nAls Support-Link teilen, wenn die Frage exakt passt.\nhttps://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-launcher.html\n\nWerbung/Affiliate-Hinweis: Wenn du ueber meinen Link kaufst, erhalte ich eine Provision. Fuer dich bleibt der Preis gleich.",
-      "shareDialogs": {
-        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-launcher.html",
-        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0ATraffic%20Launcher%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-launcher.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0ATraffic%20Launcher%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-launcher.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
-        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Traffic%20Launcher&body=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0ATraffic%20Launcher%3A%20Multi-Intent%0A%0AAls%20Support-Link%20teilen%2C%20wenn%20die%20Frage%20exakt%20passt.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Ftraffic-launcher.html%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
+        "linkedin": "https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fsolopreneure%2F",
+        "x": "https://twitter.com/intent/tweet?text=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0AAudiences%20%2F%20Solopreneure%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fsolopreneure%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "whatsapp": "https://wa.me/?text=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0AAudiences%20%2F%20Solopreneure%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fsolopreneure%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich.",
+        "email": "mailto:?subject=SERS%20Traffic%20Wave%3A%20Audiences%20%2F%20Solopreneure&body=Traffic%20Wave%202026-05-21%20%7C%2012%2F12%0AAudiences%20%2F%20Solopreneure%3A%20Multi-Intent%0A%0AAls%20kanal-%20oder%20zielgruppenklare%20Variante%20fuer%20Social%2FVideo%2FBio%20nutzen.%0Ahttps%3A%2F%2Fn5rjgsqj5g-cmd.github.io%2Fsers-money-router-live%2Faudiences%2Fsolopreneure%2F%0A%0AWerbung%2FAffiliate-Hinweis%3A%20Wenn%20du%20ueber%20meinen%20Link%20kaufst%2C%20erhalte%20ich%20eine%20Provision.%20Fuer%20dich%20bleibt%20der%20Preis%20gleich."
       }
     }
   ]
