@@ -7,6 +7,7 @@
 - [SERS Close Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html): Abschluss-Hub fuer warme Kaufintents mit Winner-Pfad, Close-Pack und Affiliate-Hinweis.
 - [SERS Organic Blitz](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html): Live-Verteiler fuer Close Now, Market Now, Guides, Share Kit, QR Kit und Offer Wall.
 - [SERS All Links Traffic Hub](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html): Komplettes SEO- und Share-Inventar fuer alle oeffentlichen SERS Links mit Copy, Kanal und Prioritaet.
+- [SERS Daily Traffic Wave](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html): Taeglich rotierende 12-Link-Welle aus dem All-Links-Inventar fuer manuelle organische Distribution.
 - [SERS Market Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html): Exit/Lifestyle Winner Push mit Public Post, Permission-DM und Follow-up.
 - [SERS Fit Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/fit-check.html): Intent klaeren, bevor ein Offer-Link gesendet wird.
 - [SERS Action Board](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html): Manuelle Traffic-Aktionen mit Tracking-Link, Copy und Affiliate-Hinweis planen.

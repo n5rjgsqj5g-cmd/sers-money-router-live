@@ -24,6 +24,7 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
 # Close now: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
 # All links traffic hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
+# Daily traffic wave: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
 # FAQ kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/faq-kit.html
 # Answer bank: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/answers.html
 # Channel kit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/channel-kit.html

@@ -14,6 +14,7 @@
     "launchRoom": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
     "organicBlitz": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html",
     "trafficLinks": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
+    "trafficWave": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
     "marketNow": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/market-now.html",
     "actionBoard": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/action-board.html",
     "contentEngine": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/content-engine.html",
@@ -86,6 +87,11 @@
       "label": "SERS All Links Traffic Hub",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html",
       "use": "Alle oeffentlichen Links mit SEO-Intent, Kanal, Copy und Prioritaet verteilen."
+    },
+    {
+      "label": "SERS Daily Traffic Wave",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html",
+      "use": "Heute 12 priorisierte Links aus dem All-Links-Inventar manuell teilen und Signale loggen."
     },
     {
       "label": "SERS Money Router",
