@@ -126,6 +126,10 @@ function safeExcerpt(value = "", limit = 240) {
   return plain.length <= limit ? plain : `${plain.slice(0, limit - 1).trim()}…`;
 }
 
+function reviewExcerpt(value, limit, placeholder) {
+  return meaningful(value) ? safeExcerpt(value, limit) : placeholder;
+}
+
 function scoreLabel(value) {
   return value === 2 ? "2 · klar" : value === 1 ? "1 · teilweise" : "0 · fehlt";
 }
@@ -216,7 +220,26 @@ export async function createReview({ issueBody = "", token = "", fetchImpl = fet
     }
   }
   if (!expanded) {
-    expanded = `### Fünf skeptische Kundenfragen
+    const audience = reviewExcerpt(fields.audience, 160, "[Zielgruppe ergänzen]");
+    const situation = reviewExcerpt(fields.situation, 260, "[Problem und Lieferergebnis ergänzen]");
+    const offer = reviewExcerpt(fields.offer_copy, 260, "[Leistung, Ablauf und nächsten Schritt ergänzen]");
+    const scope = reviewExcerpt(fields.scope, 220, "[Umfang, Zeit, Preis und Grenzen ergänzen]");
+    const proof = reviewExcerpt(fields.proof, 180, "[überprüfbaren Beleg ergänzen]");
+    expanded = `### Verdichtete Kernversion aus den eingereichten Fakten
+
+**Für:** ${audience}
+
+**Problem und Lieferergebnis:** ${situation}
+
+**Leistung und nächster Schritt:** ${offer}
+
+**Rahmen:** ${scope}
+
+**Beleg:** ${proof}
+
+Diese strukturierte Kernfassung ordnet ausschließlich den eingereichten Wortlaut. Platzhalter markieren Informationen, die noch fehlen.
+
+### Fünf skeptische Kundenfragen
 
 1. Welches konkrete Lieferobjekt liegt am Ende vor?
 2. Welche Mitwirkung und Freigaben werden vom Kunden benötigt?

@@ -78,10 +78,19 @@ test("blocks model call on injected issue and falls back safely", async () => {
   assert.equal(called, false);
   assert.match(output, /Sicherheitsmodus/);
   assert.match(output, /deterministischer Fallback/);
+  assert.match(output, /Verdichtete Kernversion aus den eingereichten Fakten/);
+  assert.match(output, /Lokale B2B-Dienstleister/);
 });
 
 test("rejects secret-like model output", async () => {
   const fakeFetch = async () => ({ ok: true, json: async () => ({ choices: [{ message: { content: `token github_pat_${"A".repeat(30)}` } }] }) });
   const output = await requestModelReview(completeIssue, "test-token", fakeFetch);
   assert.equal(output, "");
+});
+
+test("marks missing facts instead of treating placeholders as evidence", async () => {
+  const sparse = `### Zielgruppe\n\nFreelancer\n\n### Ausgangslage und gewünschtes Ergebnis\n\nAngebot ist unklar.\n\n### Aktueller Angebotstext\n\nIch berate individuell.\n\n### Umfang, Preis und Grenzen\n\nNoch offen.\n\n### Verfügbare Belege\n\nKeine`;
+  const output = await createReview({ issueBody: sparse });
+  assert.match(output, /\[Umfang, Zeit, Preis und Grenzen ergänzen\]/);
+  assert.match(output, /\[überprüfbaren Beleg ergänzen\]/);
 });
