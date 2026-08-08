@@ -1,0 +1,77 @@
+name: Kostenloser Angebots-Red-Team-Check
+description: Reiche ein bereinigtes Angebot für eine öffentliche, strukturierte Zweitmeinung ein.
+title: "[Angebots-Review] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Danke für dein Vertrauen. Dieses Issue und alle Antworten sind öffentlich.
+
+        Entferne Namen, E-Mail-Adressen, Kundendaten, interne Zahlen, Zugangsdaten, Vertragsinhalte und andere vertrauliche Informationen. Die Prüfung bewertet Klarheit und Positionierung – nicht Recht, Steuern oder die Qualität deiner eigentlichen Leistung.
+  - type: checkboxes
+    id: public_consent
+    attributes:
+      label: Datenschutz-Check
+      options:
+        - label: Ich habe alle personenbezogenen und vertraulichen Informationen entfernt.
+          required: true
+        - label: Mir ist klar, dass meine Eingabe und die Antwort öffentlich sichtbar bleiben.
+          required: true
+        - label: Ich erwarte keine Rechts-, Steuer- oder Umsatzberatung.
+          required: true
+  - type: input
+    id: audience
+    attributes:
+      label: Zielgruppe
+      description: Wer soll das Angebot verstehen und kaufen können?
+      placeholder: Zum Beispiel lokale B2B-Dienstleister mit 5–25 Mitarbeitenden
+    validations:
+      required: true
+  - type: textarea
+    id: situation
+    attributes:
+      label: Ausgangslage und gewünschtes Ergebnis
+      description: Beschreibe beobachtbares Problem und Lieferergebnis ohne vertrauliche Details.
+      placeholder: Heute ... Nach der Leistung liegt ... vor.
+    validations:
+      required: true
+  - type: textarea
+    id: offer_copy
+    attributes:
+      label: Aktueller Angebotstext
+      description: Maximal 500 Wörter, vollständig bereinigt und ohne echte Kundendaten.
+      placeholder: Füge hier nur den Text ein, der öffentlich geprüft werden darf.
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Umfang, Preis und Grenzen
+      description: Was ist enthalten, was nicht, in welchem Zeitrahmen und zu welchem Preis oder Preisrahmen?
+      placeholder: Enthalten ... Nicht enthalten ... Dauer ... Preis ...
+    validations:
+      required: true
+  - type: textarea
+    id: proof
+    attributes:
+      label: Verfügbare Belege
+      description: Nur überprüfbare, anonymisierte Arbeitsproben, Erfahrungen oder Prozessbelege.
+      placeholder: Zum Beispiel anonymisierte Arbeitsprobe oder belegbare Projekterfahrung
+    validations:
+      required: true
+  - type: dropdown
+    id: focus
+    attributes:
+      label: Wichtigster Fokus
+      options:
+        - Verständlichkeit
+        - Positionierung
+        - Leistungsumfang und Grenzen
+        - Vertrauen und Belege
+        - Handlungsaufforderung
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Die Review ist ohne Vorkasse. Wenn die veröffentlichte Antwort dir konkret hilft, kannst du die Arbeit anschließend freiwillig unterstützen. Es gibt keine garantierte Bearbeitungszeit und keine Umsatzgarantie.

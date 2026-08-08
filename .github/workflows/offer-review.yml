@@ -1,0 +1,66 @@
+name: Deliver offer red-team review
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: Existing review issue number to process
+        required: true
+        type: number
+
+permissions:
+  contents: read
+  issues: write
+  models: read
+
+concurrency:
+  group: offer-review-${{ github.event.issue.number || inputs.issue_number }}
+  cancel-in-progress: false
+
+jobs:
+  review:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, '[Angebots-Review]')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out review logic
+        uses: actions/checkout@v6
+
+      - name: Resolve issue
+        id: issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          EVENT_NAME: ${{ github.event_name }}
+          EVENT_NUMBER: ${{ github.event.issue.number }}
+          INPUT_NUMBER: ${{ inputs.issue_number }}
+        run: |
+          issue_number="$EVENT_NUMBER"
+          if [ "$EVENT_NAME" = "workflow_dispatch" ]; then issue_number="$INPUT_NUMBER"; fi
+          case "$issue_number" in (*[!0-9]*|'') echo "Invalid issue number" >&2; exit 1;; esac
+          issue_json="$(gh issue view "$issue_number" --json title,body,comments)"
+          title="$(printf '%s' "$issue_json" | jq -r '.title')"
+          if [[ "$title" != "[Angebots-Review]"* ]]; then echo "Not a review request" >&2; exit 1; fi
+          if printf '%s' "$issue_json" | jq -e '.comments[].body | contains("<!-- sers-auto-review:v1 -->")' >/dev/null; then
+            echo "Review already delivered" >&2
+            exit 1
+          fi
+          printf '%s' "$issue_json" | jq -r '.body' > "$RUNNER_TEMP/issue-body.txt"
+          echo "number=$issue_number" >> "$GITHUB_OUTPUT"
+
+      - name: Generate guarded review
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          ISSUE_BODY="$(cat "$RUNNER_TEMP/issue-body.txt")" node scripts/offer-review.mjs > "$RUNNER_TEMP/offer-review.md"
+          test -s "$RUNNER_TEMP/offer-review.md"
+          grep -q '<!-- sers-auto-review:v1 -->' "$RUNNER_TEMP/offer-review.md"
+
+      - name: Publish review
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ steps.issue.outputs.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --body-file "$RUNNER_TEMP/offer-review.md"

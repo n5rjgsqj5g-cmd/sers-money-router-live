@@ -5,6 +5,14 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/",
+      "title": "Oeffentlicher Angebots-Red-Team-Check",
+      "content_text": "Strukturierte Klarheitspruefung eines bereinigten Freelancer-Angebots. Ohne Vorkasse, mit freiwilligem PayPal-Support erst nach der oeffentlichen Review.",
+      "date_published": "2026-08-08T11:30:00Z",
+      "date_modified": "2026-08-08T11:30:00Z"
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-klar-formulieren-mit-ki/",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-klar-formulieren-mit-ki/",
       "title": "Angebot klar formulieren mit KI",
