@@ -8,11 +8,12 @@ Kostenlose, datensparsame Werkzeuge für klarere Freelancer-Angebote – plus ei
 
 - **Interaktiver Angebots-Score:** zehn Felder für Zielgruppe, Problem, Ergebnis, Zeit, Ablauf, Preis, Beleg, Grenzen, CTA und risikoarmen Einstieg.
 - **Freelancer-Angebotsvorlage:** kopierbare Struktur für Ergebnis, Umfang, Preis, Grenzen und CTA – inklusive Offline-Paket und Faktencheck.
+- **Angebots-Generator:** aus eigenen Fakten sofort eine kopierbare Erstfassung erzeugen und als Textdatei sichern – vollständig lokal im Browser.
 - **Offline-Kit:** Workbook, sieben faktenbasierte Copy-Prompts, Scorecard und 30-Minuten-Plan als offene HTML-, Markdown- und CSV-Dateien.
 - **Praxisguide:** Vorher-nachher-Beispiel, sicherer KI-Workflow, Datenschutz-Minimum und Qualitätsprüfung.
 - **Öffentliche Red-Team-Review:** bereinigten Text als Issue einreichen und eine strukturierte Prüfung direkt als Kommentar erhalten.
 
-[Kit als ZIP laden](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/downloads/ki-angebots-check-v1.0.0.zip) · [Angebotsvorlage öffnen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebot-vorlage.html) · [Vorlagen-Release und Prüfsumme](https://github.com/n5rjgsqj5g-cmd/sers-money-router-live/releases/tag/freelancer-angebot-vorlage-v1.0.0)
+[Kit als ZIP laden](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/downloads/ki-angebots-check-v1.0.0.zip) · [Angebots-Generator öffnen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebots-generator.html) · [Angebotsvorlage öffnen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebot-vorlage.html) · [Vorlagen-Release und Prüfsumme](https://github.com/n5rjgsqj5g-cmd/sers-money-router-live/releases/tag/freelancer-angebot-vorlage-v1.0.0)
 
 ## Die Review wird wirklich geliefert
 
