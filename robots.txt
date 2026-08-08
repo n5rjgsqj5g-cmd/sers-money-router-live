@@ -26,6 +26,7 @@ Sitemap: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.atom
 # Share manifest: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/share-manifest.json
 # Search discovery mesh: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/discovery-map.html
 # Close now: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html
+# Free KI offer audit: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html
 # All links traffic hub: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-links.html
 # Daily traffic wave: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-wave.html
 # Traffic swarm: https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/traffic-swarm.html

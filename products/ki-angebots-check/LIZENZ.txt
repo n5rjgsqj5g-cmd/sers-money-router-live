@@ -1,0 +1,17 @@
+KI-ANGEBOTS-CHECK – NUTZUNGSLIZENZ v1.0
+
+Erlaubt:
+- Nutzung für eigene private und kommerzielle Projekte.
+- Nutzung der Vorlagen und daraus erzeugten Ergebnisse in Kundenprojekten.
+- Anpassung der Dateien für den eigenen Arbeitsablauf.
+
+Nicht erlaubt:
+- Verkauf, Vermietung oder öffentliche Neuverteilung des unveränderten Kits.
+- Behauptung einer Autorenschaft am unveränderten Kit.
+- Nutzung zur Erstellung irreführender Garantien, erfundener Referenzen oder täuschender Werbung.
+
+Hinweis:
+Das Material wird ohne Garantie bereitgestellt. Es ersetzt keine Rechts-, Steuer- oder Unternehmensberatung und verspricht keine Umsatzsteigerung.
+
+Version: 1.0.0
+Copyright 2026 SERS Practical Kits / Simon Wennrich

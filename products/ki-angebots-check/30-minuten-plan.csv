@@ -1,0 +1,8 @@
+Minute,Aktion,Fertig_wenn,Notiz
+0-3,"Angebot in einem Satz notieren","Zielgruppe Problem Ergebnis stehen in einem Satz",
+3-8,"Scorecard ehrlich bewerten","Alle zehn Felder haben 0 1 oder 2 Punkte",
+8-10,"Schwächstes Feld auswählen","Genau ein Engpass ist markiert",
+10-18,"Passenden Prompt ausführen","Eine faktengetreue neue Variante liegt vor",
+18-23,"Variante laut lesen und kürzen","Jargon und unbelegte Versprechen sind entfernt",
+23-27,"Beweis Grenze und CTA ergänzen","Je ein überprüfbarer Beleg eine Grenze und ein CTA stehen im Text",
+27-30,"Eine Seite aktualisieren und Version sichern","Die Änderung ist veröffentlicht oder als Testversion gespeichert",

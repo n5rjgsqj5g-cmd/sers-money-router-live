@@ -3,6 +3,7 @@
 > Affiliate marketing assets for GPT, Affiliate, Mindset, Digital Business and Exit/Lifestyle intents.
 
 ## Core URLs
+- [KI-Angebots-Check](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html): Kostenloser interaktiver Angebots-Score fuer Freelancer und kleine Teams, inklusive Download-Kit, sieben Copy-Prompts und 30-Minuten-Plan. Kein Tracking, keine Anmeldung, keine Umsatzgarantie.
 - [SERS Launch Room](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html): Lokale Schaltzentrale fuer manuelle Sends, Lead-Log, Replay, Proof und Consent-Flywheel.
 - [SERS Close Now](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/close-now.html): Abschluss-Hub fuer warme Kaufintents mit Winner-Pfad, Close-Pack und Affiliate-Hinweis.
 - [SERS Organic Blitz](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/organic-blitz.html): Live-Verteiler fuer Close Now, Market Now, Guides, Share Kit, QR Kit und Offer Wall.

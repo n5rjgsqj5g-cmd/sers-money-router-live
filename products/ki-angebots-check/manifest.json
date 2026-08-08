@@ -1,0 +1,10 @@
+{
+  "name": "KI-Angebots-Check",
+  "version": "1.0.0",
+  "language": "de",
+  "formats": ["html", "markdown", "csv", "txt"],
+  "price": {"amount": 0, "currency": "EUR", "support_suggestion": 9},
+  "support_url": "https://www.paypal.com/paypalme/SimonWennrich/9EUR",
+  "privacy": "no_tracking_no_submission",
+  "claims_revenue": false
+}
