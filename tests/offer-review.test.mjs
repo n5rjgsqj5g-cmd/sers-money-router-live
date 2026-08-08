@@ -54,11 +54,18 @@ test("deterministic review contains all score rows and no invented result", () =
   const review = buildDeterministicReview(parseIssueBody(completeIssue)).markdown;
   assert.match(review, /10-Felder-Basischeck/);
   assert.equal((review.match(/\| (?:Zielgruppe|Problem|Ergebnis|Zeitrahmen|Ablauf|Preis|Beweis|Grenzen|CTA|Risikoarmer Schritt) \|/g) || []).length, 10);
+  assert.match(review, /Kein struktureller Engpass/);
+  assert.doesNotMatch(review, /Die drei stärksten Hebel/);
   assert.doesNotMatch(review, /Umsatzsteigerung|garantiert/);
 });
 
 test("uses valid model enhancement", async () => {
-  const fakeFetch = async () => ({ ok: true, json: async () => ({ choices: [{ message: { content: "### Verdichtete Kernversion\nSachliche Version.\n### Drei Red-Team-Risiken\n- Grenze fehlt.\n### Fünf skeptische Kundenfragen\n1. Was wird geliefert?\n### Nächster Test\nLaut vorlesen." } }] }) });
+  const fakeFetch = async (url, options) => {
+    assert.match(url, /api-version=2026-03-10/);
+    assert.equal(options.headers["X-GitHub-Api-Version"], "2026-03-10");
+    assert.equal(JSON.parse(options.body).model, "openai/gpt-4.1");
+    return { ok: true, json: async () => ({ choices: [{ message: { content: "### Verdichtete Kernversion\nSachliche Version.\n### Drei Red-Team-Risiken\n- Grenze fehlt.\n### Fünf skeptische Kundenfragen\n1. Was wird geliefert?\n### Nächster Test\nLaut vorlesen." } }] }) };
+  };
   const output = await createReview({ issueBody: completeIssue, token: "test-token", fetchImpl: fakeFetch });
   assert.match(output, /KI-gestützte Redaktion/);
   assert.match(output, /Sachliche Version/);

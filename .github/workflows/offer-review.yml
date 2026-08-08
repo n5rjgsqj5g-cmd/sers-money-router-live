@@ -43,7 +43,7 @@ jobs:
           issue_json="$(gh issue view "$issue_number" --json title,body,comments)"
           title="$(printf '%s' "$issue_json" | jq -r '.title')"
           if [[ "$title" != "[Angebots-Review]"* ]]; then echo "Not a review request" >&2; exit 1; fi
-          if printf '%s' "$issue_json" | jq -e '.comments[].body | contains("<!-- sers-auto-review:v1 -->")' >/dev/null; then
+          if printf '%s' "$issue_json" | jq -e '.comments[].body | contains("<!-- sers-auto-review:v2 -->")' >/dev/null; then
             echo "Review already delivered" >&2
             exit 1
           fi
@@ -56,7 +56,7 @@ jobs:
         run: |
           ISSUE_BODY="$(cat "$RUNNER_TEMP/issue-body.txt")" node scripts/offer-review.mjs > "$RUNNER_TEMP/offer-review.md"
           test -s "$RUNNER_TEMP/offer-review.md"
-          grep -q '<!-- sers-auto-review:v1 -->' "$RUNNER_TEMP/offer-review.md"
+          grep -q '<!-- sers-auto-review:v2 -->' "$RUNNER_TEMP/offer-review.md"
 
       - name: Publish review
         env:

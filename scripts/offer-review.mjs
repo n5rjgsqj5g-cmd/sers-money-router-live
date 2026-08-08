@@ -1,4 +1,4 @@
-const MARKER = "<!-- sers-auto-review:v1 -->";
+const MARKER = "<!-- sers-auto-review:v2 -->";
 
 const FIELD_NAMES = {
   audience: "Zielgruppe",
@@ -132,8 +132,8 @@ function scoreLabel(value) {
 
 export function buildDeterministicReview(fields) {
   const result = scoreOffer(fields);
-  const weakest = [...result.fields].sort((a, b) => a.score - b.score).slice(0, 3);
-  const table = result.fields.map((item) => `| ${item.key} | ${scoreLabel(item.score)} | ${item.advice} |`).join("\n");
+  const weakest = [...result.fields].filter((item) => item.score < 2).sort((a, b) => a.score - b.score).slice(0, 3);
+  const table = result.fields.map((item) => `| ${item.key} | ${scoreLabel(item.score)} | ${item.score === 2 ? "Im Text klar erkennbar; vor Versand gegen die eigenen Fakten prüfen." : item.advice} |`).join("\n");
   const audience = safeExcerpt(fields.audience, 160) || "[Zielgruppe ergänzen]";
   const situation = safeExcerpt(fields.situation, 260) || "[Problem und Lieferergebnis ergänzen]";
   const scope = safeExcerpt(fields.scope, 220) || "[Umfang, Zeit, Preis und Grenzen ergänzen]";
@@ -150,9 +150,9 @@ Der Score misst ausschließlich, wie explizit die Informationen im eingereichten
 |---|---:|---|
 ${table}
 
-### Die drei stärksten Hebel
+${weakest.length ? "### Die drei stärksten Hebel" : "### Kein struktureller Engpass im Text erkannt"}
 
-${weakest.map((item, index) => `${index + 1}. **${item.key}:** ${item.advice}`).join("\n")}
+${weakest.length ? weakest.map((item, index) => `${index + 1}. **${item.key}:** ${item.advice}`).join("\n") : "Alle zehn Informationen sind explizit erkennbar. Der nächste sinnvolle Schritt ist kein weiterer Wortlaut-Score, sondern ein Faktencheck und ein Verständnistest mit einer fachfremden Person."}
 
 ### Fakten-Gerüst für die Überarbeitung
 
@@ -188,10 +188,10 @@ Drei konkrete, sachliche Punkte.
 Fünf nummerierte Fragen.
 ### Nächster Test
 Eine kleine, überprüfbare Handlung ohne künstlichen Kaufdruck.`;
-  const response = await fetchImpl("https://models.github.ai/inference/chat/completions", {
+  const response = await fetchImpl("https://models.github.ai/inference/chat/completions?api-version=2026-03-10", {
     method: "POST",
-    headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
-    body: JSON.stringify({ model: "openai/gpt-4o", temperature: 0.2, max_tokens: 1100, messages: [{ role: "system", content: system }, { role: "user", content: `<DATA>\n${issueBody.slice(0, 9000)}\n</DATA>` }] }),
+    headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token}`, "Content-Type": "application/json", "X-GitHub-Api-Version": "2026-03-10" },
+    body: JSON.stringify({ model: "openai/gpt-4.1", temperature: 0.2, max_tokens: 1100, messages: [{ role: "system", content: system }, { role: "user", content: `<DATA>\n${issueBody.slice(0, 9000)}\n</DATA>` }] }),
   });
   if (!response.ok) throw new Error(`GitHub Models returned HTTP ${response.status}`);
   const payload = await response.json();
