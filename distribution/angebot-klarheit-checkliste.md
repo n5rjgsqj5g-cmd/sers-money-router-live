@@ -50,3 +50,10 @@ Mein bereinigtes Faktenblatt:
 - [Öffentliche Red-Team-Zweitmeinung ohne Vorkasse](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/)
 
 Keine Rechts-, Steuer- oder Umsatzberatung. Ein klarerer Text garantiert weder Aufträge noch Umsatz.
+
+## Wenn die Checkliste dir konkret geholfen hat
+
+Die Checkliste bleibt kostenlos. Wenn sie dir bei einem echten Angebot Zeit gespart
+hat, kannst du die Weiterentwicklung freiwillig mit 9 € über
+[PayPal unterstützen](https://www.paypal.com/paypalme/SimonWennrich/9EUR).
+Das ist keine steuerlich absetzbare Spende und schaltet keine Inhalte frei.
