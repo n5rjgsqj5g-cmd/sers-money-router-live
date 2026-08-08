@@ -37,6 +37,7 @@
           <div class="actions">
             <a class="button" href="#audit">Kostenlos prüfen</a>
             <a class="button secondary" href="downloads/ki-angebots-check-v1.0.0.zip" download>Komplettes Kit laden</a>
+            <button class="button secondary" id="share" type="button">Kit teilen</button>
           </div>
           <p class="fine">Kein Tracking, kein Formular, kein Upsell-Zwang. Das Kit darf für eigene Projekte und Kundenarbeit verwendet werden.</p>
         </div>
@@ -127,6 +128,12 @@
         else{verdict.textContent="Starte mit Klarheit";advice.textContent=`Erster Schritt: Definiere „${weakest.label}“ in einem konkreten Satz. Nutze danach Prompt 1 aus dem Download.`}
       }
       selects.forEach(select=>select.addEventListener("change",render));render();
+      document.getElementById("share").addEventListener("click",async event=>{
+        const shareData={title:"KI-Angebots-Check",text:"Kostenloser Angebots-Score mit Offline-Workbook und Copy-Prompts.",url:"https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html"};
+        try{
+          if(navigator.share){await navigator.share(shareData)}else{await navigator.clipboard.writeText(`${shareData.text}\n${shareData.url}`);event.currentTarget.textContent="Link kopiert";setTimeout(()=>event.currentTarget.textContent="Kit teilen",1600)}
+        }catch(error){if(error.name!=="AbortError")event.currentTarget.textContent="Teilen nicht verfügbar"}
+      });
     </script>
   </body>
 </html>

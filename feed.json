@@ -5,6 +5,14 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html",
+      "title": "KI-Angebots-Check",
+      "content_text": "Kostenloser interaktiver Angebots-Score mit Offline-Workbook, sieben Copy-Prompts und 30-Minuten-Plan. Ohne Anmeldung und ohne Tracking.",
+      "date_published": "2026-08-08T09:00:00Z",
+      "date_modified": "2026-08-08T09:00:00Z"
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/launch-room.html",
       "title": "SERS Launch Room",
