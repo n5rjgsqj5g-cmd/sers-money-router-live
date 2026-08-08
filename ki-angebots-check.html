@@ -105,6 +105,10 @@
         </div>
       </section>
 
+      <section class="section">
+        <div class="card"><h3>Neu: der ausführliche Praxisguide</h3><p>Sieh am Vorher-nachher-Beispiel, wie du aus einer Tätigkeitsliste ein prüfbares Angebot machst – mit sicherem KI-Workflow, Datenschutz-Minimum und einem Prompt, der keine Fakten erfinden darf.</p><div class="actions"><a class="button secondary" href="guides/angebot-klar-formulieren-mit-ki/">Guide kostenlos lesen</a></div></div>
+      </section>
+
       <section class="section faq">
         <details><summary>Muss ich zahlen, um das Kit zu nutzen?</summary><p>Nein. Das Kit ist kostenlos und sofort herunterladbar. Die 9 € sind freiwilliger Support.</p></details>
         <details><summary>Darf ich es für Kundenprojekte nutzen?</summary><p>Ja. Du darfst die Vorlagen und deine Ergebnisse in eigener Kundenarbeit nutzen. Der unveränderte Weiterverkauf des Kits ist nicht erlaubt.</p></details>
@@ -129,10 +133,11 @@
       }
       selects.forEach(select=>select.addEventListener("change",render));render();
       document.getElementById("share").addEventListener("click",async event=>{
+        const button=event.currentTarget;
         const shareData={title:"KI-Angebots-Check",text:"Kostenloser Angebots-Score mit Offline-Workbook und Copy-Prompts.",url:"https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html"};
         try{
-          if(navigator.share){await navigator.share(shareData)}else{await navigator.clipboard.writeText(`${shareData.text}\n${shareData.url}`);event.currentTarget.textContent="Link kopiert";setTimeout(()=>event.currentTarget.textContent="Kit teilen",1600)}
-        }catch(error){if(error.name!=="AbortError")event.currentTarget.textContent="Teilen nicht verfügbar"}
+          if(navigator.share){await navigator.share(shareData)}else{await navigator.clipboard.writeText(`${shareData.text}\n${shareData.url}`);button.textContent="Link kopiert";setTimeout(()=>button.textContent="Kit teilen",1600)}
+        }catch(error){if(error.name!=="AbortError")button.textContent="Teilen nicht verfügbar"}
       });
     </script>
   </body>

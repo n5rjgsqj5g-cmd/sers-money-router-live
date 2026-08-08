@@ -5,6 +5,14 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-klar-formulieren-mit-ki/",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-klar-formulieren-mit-ki/",
+      "title": "Angebot klar formulieren mit KI",
+      "content_text": "Praxisguide fuer Freelancer mit 10-Punkte-Check, Vorher-nachher-Beispiel und einem faktenbasierten Pruef-Prompt. Ohne Anmeldung und ohne Umsatzversprechen.",
+      "date_published": "2026-08-08T11:00:00Z",
+      "date_modified": "2026-08-08T11:00:00Z"
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html",
       "title": "KI-Angebots-Check",
