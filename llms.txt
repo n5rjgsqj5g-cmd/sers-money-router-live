@@ -243,6 +243,8 @@
 
 - [Angebotsumfang klar definieren](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-umfang-klar-definieren/): Deutscher Praxisguide zu Ergebnis, enthaltenem Umfang, Grenzen, Korrekturen, Timing und Preis für Freelancer-Angebote.
 
+- [Angebotspreis transparent prüfen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebotspreis-rechner-freelancer/): Deutscher Praxisguide für Stunden, direkte Kosten und einen Ziel-Stundensatz ohne Steuer- oder Finanzprognosen.
+
 ## Discovery Files
 - [XML Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml): Canonical URL inventory for crawlers.
 - [Text Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt): Plain public page URL list for simple discovery.
