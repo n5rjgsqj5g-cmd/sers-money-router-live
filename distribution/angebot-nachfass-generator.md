@@ -13,8 +13,8 @@ Erstfassungen:
 
 ## Direkt nutzen
 
-- [Live im Browser öffnen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/angebot-nachfass-generator.html)
-- [Offline-Version herunterladen](https://github.com/n5rjgsqj5g-cmd/sers-money-router-live/releases/tag/angebot-nachfass-generator-v1.0.0)
+- [Live im Browser öffnen](https://n5rjgsqj5g-cmd.github.io/freelancer-follow-up-generator/)
+- [MIT-Quellcode und Offline-Version](https://github.com/n5rjgsqj5g-cmd/freelancer-follow-up-generator/releases/tag/v1.2.0)
 - [Ergänzendes Nachfass-Kit mit vier Vorlagen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/angebot-nachfass-kit.html)
 
 Der Generator läuft lokal im Browser. Eingaben werden nicht hochgeladen oder
