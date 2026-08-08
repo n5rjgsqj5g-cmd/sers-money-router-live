@@ -241,6 +241,8 @@
 - [SERS Presell: Digistore Offer 500683](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-500683/): Konkreten Digistore-Intent nach Fit auf Angebot 500683 leiten.
 - [SERS Presell: Digistore Offer 607228](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/offers/ds-607228/): Konkreten Digistore-Intent nach Fit auf Angebot 607228 leiten.
 
+- [Angebotsumfang klar definieren](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-umfang-klar-definieren/): Deutscher Praxisguide zu Ergebnis, enthaltenem Umfang, Grenzen, Korrekturen, Timing und Preis für Freelancer-Angebote.
+
 ## Discovery Files
 - [XML Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.xml): Canonical URL inventory for crawlers.
 - [Text Sitemap](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/sitemap.txt): Plain public page URL list for simple discovery.
