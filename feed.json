@@ -5,6 +5,14 @@
   "feed_url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/feed.json",
   "items": [
     {
+      "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebot-vorlage.html",
+      "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebot-vorlage.html",
+      "title": "Freelancer-Angebotsvorlage",
+      "content_text": "Kostenlose kopierbare Angebotsstruktur mit Offline-Vorlage und Faktencheck für Zielgruppe, Ergebnis, Preis, Grenzen und CTA. Ohne Anmeldung oder Tracking.",
+      "date_published": "2026-08-08T12:00:00Z",
+      "date_modified": "2026-08-08T12:00:00Z"
+    },
+    {
       "id": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/",
       "url": "https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/",
       "title": "Oeffentlicher Angebots-Red-Team-Check",
