@@ -44,6 +44,7 @@ Mein bereinigtes Faktenblatt:
 
 ## Kostenlose Werkzeuge
 
+- [Angebots-Generator: aus eigenen Fakten eine Erstfassung erstellen](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/freelancer-angebots-generator.html)
 - [Interaktiver 10-Punkte-Check und Offline-Kit](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/ki-angebots-check.html)
 - [Ausführlicher Praxisguide mit Vorher-nachher-Beispiel](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/guides/angebot-klar-formulieren-mit-ki/)
 - [Öffentliche Red-Team-Zweitmeinung ohne Vorkasse](https://n5rjgsqj5g-cmd.github.io/sers-money-router-live/services/angebot-red-team/)
